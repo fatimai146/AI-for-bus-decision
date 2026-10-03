@@ -1,2 +1,4 @@
 build/
 build_lily/
+build_restaurant/
+__pycache__/
