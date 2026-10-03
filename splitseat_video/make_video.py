@@ -415,7 +415,7 @@ def duration(path):
                                           "-of", "csv=p=0", path]).decode().strip())
 
 
-def make_music(total, path, sr=44100):
+def make_music(total, path, sr=48000):
     t = np.arange(int(total * sr)) / sr
     chords = [[220.0, 277.18, 329.63], [174.61, 220.0, 261.63], [261.63, 329.63, 392.0], [196.0, 246.94, 293.66]]
     seg = 4.0
@@ -534,12 +534,12 @@ def main():
     for i, sc in enumerate(S):
         inputs += ["-i", sc["audio"]]
         ms = int((sc["start"] + LEAD) * 1000)
-        filters.append(f"[{i + 1}:a]adelay={ms}|{ms},aresample=44100[v{i}]")
+        filters.append(f"[{i + 1}:a]adelay={ms}|{ms},aresample=48000[v{i}]")
     mix = "".join(f"[v{i}]" for i in range(len(S)))
     filters.append(f"[0:a]volume=1.0[m];{mix}amix=inputs={len(S)}:normalize=0,volume=1.0[vo];[vo][m]amix=inputs=2:normalize=0[a]")
     audio = os.path.join(BUILD, "audio.m4a")
     subprocess.check_call(["ffmpeg", "-y", "-v", "error"] + inputs + ["-filter_complex", ";".join(filters),
-                          "-map", "[a]", "-t", f"{total:.2f}", "-c:a", "aac", "-b:a", "160k", audio])
+                          "-map", "[a]", "-t", f"{total:.2f}", "-c:a", "aac", "-ac", "2", "-ar", "48000", "-b:a", "192k", audio])
     final = os.path.join(OUT, "SplitSeat_Maya_Story.mp4")
     subprocess.check_call(["ffmpeg", "-y", "-v", "error", "-i", video, "-i", audio, "-c:v", "copy", "-c:a", "copy",
                            "-shortest", "-movflags", "+faststart", final])
