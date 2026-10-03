@@ -540,7 +540,7 @@ def main():
     audio = os.path.join(BUILD, "audio.m4a")
     subprocess.check_call(["ffmpeg", "-y", "-v", "error"] + inputs + ["-filter_complex", ";".join(filters),
                           "-map", "[a]", "-t", f"{total:.2f}", "-c:a", "aac", "-ac", "2", "-ar", "48000", "-b:a", "192k", audio])
-    final = os.path.join(OUT, "SplitSeat_Maya_Story.mp4")
+    final = os.path.join(OUT, "SplitSeat_Story_v2.mp4")
     subprocess.check_call(["ffmpeg", "-y", "-v", "error", "-i", video, "-i", audio, "-c:v", "copy", "-c:a", "copy",
                            "-shortest", "-movflags", "+faststart", final])
     print("done", final, round(total, 1), "s")
