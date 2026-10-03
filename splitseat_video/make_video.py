@@ -326,27 +326,27 @@ def scenes():
     for i, (l, c) in enumerate([FRIENDS[k] for k in (0, 1, 2, 4, 5)]):
         friends_row.alpha_composite(chip(l, c, 76), (i * 92, 0))
     money = text_block(["$35"], 130, (244, 160, 125), "Bold")
-    money_note = text_block(["for dinner", "this Friday"], 34, (170, 160, 152), "Medium")
+    money_note = text_block(["for dinner", "tonight"], 34, (170, 160, 152), "Medium")
 
     S = []
-    S.append(dict(bg="dark", vo="Same Friday night, same friends. This time, the restaurant does the splitting.", els=[
+    S.append(dict(bg="dark", vo="This is the story of one dinner, six friends, and who pays for what.", els=[
         L(label("A SplitSeat story", (250, 160, 110)), 0, 440, 0.2, "fade"),
-        L(text_block(["Same Friday night."], 84, WHITE), 0, 500, 0.6, "fade"),
+        L(text_block(["One dinner. Six friends."], 84, WHITE), 0, 500, 0.6, "fade"),
     ], center=True))
-    S.append(dict(bg="light", vo="Remember Maya? Grad student. Five close friends. And thirty five dollars for dinner.", els=[
+    S.append(dict(bg="light", vo="Meet Maya. Grad student. Five close friends. And thirty five dollars to spend on dinner tonight.", els=[
         L(maya(1.55, "happy"), 220, 150, 0.0, "fade"),
-        L(label("Meet Maya again"), 820, 250, 0.2),
+        L(label("Meet Maya"), 820, 250, 0.2),
         L(text_block(["Grad student.", "Five close friends."], 76, HEAD), 820, 300, 0.5),
         L(friends_row, 820, 520, 1.6),
         L(money, 820, 640, 3.3),
         L(money_note, 1100, 690, 3.5),
     ]))
-    S.append(dict(bg="dark", vo="Last time, the bill was split six ways. She paid fifty two dollars for an eighteen dollar meal, and said nothing. Asking for separate checks felt like admitting she couldn't afford it.", els=[
+    S.append(dict(bg="dark", vo="Last month, the group's bill was split six ways. She paid fifty two dollars for an eighteen dollar meal, and said nothing. Asking for separate checks felt like admitting she couldn't afford it.", els=[
         L(receipt_old(), 90, 140, 0.3),
         L(maya(1.45, "sad"), 1230, 170, 0.0, "fade"),
         L(bubble("\u201cI just didn\u2019t want to be that person.\u201d"), 1080, 760, 7.6),
     ]))
-    S.append(dict(bg="light", vo="This Friday, they go to a restaurant with SplitSeat. Everyone orders as usual. The server's tablet saves each dish to a seat, and the shared satay goes only to the three friends who ate it.", els=[
+    S.append(dict(bg="light", vo="Tonight, they're at a restaurant that uses SplitSeat. Everyone orders as usual. The server's tablet saves each dish to a seat, and the shared satay goes only to the three friends who ate it.", els=[
         L(label("Step 1 · Order as usual"), 120, 330, 0.2),
         L(text_block(["Every dish is", "saved to a seat."], 72, HEAD), 120, 380, 0.4),
         L(text_block(["Shared plates go only to", "the seats that shared them."], 32, SUB, "Regular"), 120, 580, 1.2),
