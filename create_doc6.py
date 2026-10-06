@@ -1,3 +1,6 @@
+import re
+import zipfile
+
 from docx import Document
 from docx.shared import Pt, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -10,8 +13,8 @@ SECTIONS = [
         [
             "I left this lecture convinced that the hardest knowledge in food manufacturing "
             "cannot be handed over in a classroom. Dr. Mishra described the aseptic particulate "
-            "line he worked on at Gerber, which reached commercial production in 2014 after six "
-            "years of pilot validation and FDA approvals. He could drop a thermocouple into "
+            "line he worked on at Gerber, six years of work from pilot validation and FDA "
+            "approvals to commercial production in 2014. He could drop a thermocouple into "
             "flowing chocolate milk and know its "
             "temperature, but once a solid particle moves through the tube there is no way to "
             "measure the temperature inside it. So the team had to invent a different way of "
@@ -26,13 +29,13 @@ SECTIONS = [
             "regulators. The department sits between industry and government and supplies both.",
 
             "The capacity still bothers me. Dr. Mishra named workforce as one of five forces "
-            "reshaping the field, and said plants lose trained people every two or three years. "
-            "If training really is the only answer to that churn, 75 seats a year is triage, not "
-            "a solution. I also wonder what a short intensive course produces: "
+            "reshaping the field, and said people move on after two to five years, leaving the "
+            "workforce in constant change. If training is the only answer to churn that never "
+            "stops, 75 seats a year is a trickle against a permanent problem. I also wonder "
+            "what a short intensive course produces: "
             "someone who understands why a process holds, or someone who follows a procedure "
             "correctly until something unusual happens. The difference only shows up during a "
-            "deviation. We were told undergraduates from this program reach full job placement, "
-            "which tells me the real limit is training capacity.",
+            "deviation.",
         ],
     ),
     (
@@ -42,24 +45,25 @@ SECTIONS = [
             "stood up for roughly a million dollars, while a small aseptic system runs upward of "
             "40 to 50 million, and an aseptic bottle filling machine alone costs around 10 "
             "million. His slides put the aseptic packaging market near 71 billion dollars in "
-            "2024, with projections approaching 179 billion by 2033. The fastest growing part of "
-            "the category is also the part almost no newcomer can enter. That tells me where the "
+            "2024, with projections approaching 179 billion by 2033. A segment growing that "
+            "strongly is also one almost no newcomer can enter. That tells me where the "
             "power sits, and it is not with the person holding a great formulation.",
 
             "It also explains why his entrepreneurship work looks the way it does. The route he "
             "laid out runs from business plan to co manufacturer, with a first run of maybe "
             "50,000 units for a local Walmart or Sam's Club. Almost none of that involves owning "
-            "equipment. The entrepreneur rents capability, and the Food Entrepreneurship and "
-            "Manufacturing Institute exists to make that renting possible. He agreed "
-            "that food startups follow the medical device pattern of being built to be acquired, "
-            "and pointed to Olipop, which grew on its own and was then bought by a large "
-            "beverage company.",
+            "equipment. The entrepreneur rents capability, and he called that work one of the "
+            "department's strengths. He agreed that food startups often "
+            "follow the medical device pattern of being built to be acquired, and pointed to "
+            "Olipop, which he said started that way and was later acquired by a large beverage "
+            "company. He added that others just keep running their business, serve their segment "
+            "of consumers, and grow that way.",
 
             "I found that honest and slightly uneasy at once. The department also connects "
             "entrepreneurs with manufacturers like Nestle, Coke, and Pepsi, who watch what comes "
             "through. Calling this entrepreneurship support is accurate, but it also works as an "
-            "outsourced research pipeline for incumbents, and everyone involved seems to know "
-            "it. Dr. Mishra called the food industry traditional "
+            "outsourced research pipeline for incumbents. Dr. Mishra called the food industry "
+            "traditional "
             "and said a new technology usually spends 30 to 40 years in research and "
             "commercialization before it reaches a shelf. No venture fund waits that long, and "
             "that mismatch may decide which food technologies arrive more than any technical "
@@ -114,14 +118,25 @@ SECTIONS = [
             "The takeaway I will keep is about what a large company takes for granted. A "
             "multinational has validated processes, regulatory staff, co manufacturing "
             "relationships, and the capital for a 10 million dollar filler. Someone with a "
-            "recipe their family loves has the recipe. Everything in between is the gap this "
-            "institute tries to close, and until this lecture I had only seen it from the side "
+            "recipe their family loves has the recipe. Everything in between is the gap I think "
+            "the department tries to close, and until this lecture I had only seen it from the side "
             "that already had all of it.",
         ],
     ),
 ]
 
-FORBIDDEN = ["-", "\u2010", "\u2011", "\u2012", "\u2013", "\u2014", "\u2015", "\u2212"]
+FORBIDDEN = [
+    "-",
+    "\u2010",
+    "\u2011",
+    "\u2012",
+    "\u2013",
+    "\u2014",
+    "\u2015",
+    "\u2212",
+    "\u00ad",
+    "\uff0d",
+]
 
 
 def style_run(run):
@@ -183,6 +198,12 @@ def verify():
 
     for char in FORBIDDEN:
         assert char not in joined, "found forbidden character %r" % char
+
+    with zipfile.ZipFile("Reflection_Paper_Oct1_Dharmendra_Mishra.docx") as archive:
+        xml = archive.read("word/document.xml").decode("utf8")
+    nodes = "".join(re.findall(r"<w:t[^>]*>(.*?)</w:t>", xml, re.S))
+    for char in FORBIDDEN:
+        assert char not in nodes, "found forbidden character %r in document.xml" % char
 
     body_words = 0
     headings = {h for h, _ in SECTIONS}
