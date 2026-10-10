@@ -15,25 +15,25 @@ SECTIONS = [
         "Implications for Education",
         [
             "The result I keep thinking about is the one that failed. Kaylyn Schiff said they "
-            "showed half of their respondents a video explaining what AI auditing involves, "
-            "expecting that a low information space would shift once people knew more. The "
-            "videos, in English and German, changed almost nothing. She read that as a counter "
-            "to policymakers who claim the public is not informed enough to join "
-            "decisions about AI governance. I think it cuts at educators too. We assume that "
+            "showed half their respondents a video explaining what AI auditing involves, "
+            "expecting a low information space to shift once people knew more. The "
+            "videos, in English and German, changed almost nothing. She offered that against an "
+            "objection some policymakers might raise, that the public is not informed enough to join "
+            "these decisions. I think it cuts at educators too. We assume "
             "teaching people about a technology changes what they want from it. Here it did not.",
 
-            "So what is education for here? Not forming public preferences, I think, but "
+            "So what is education for? Not forming public preferences, I think, but "
             "training the people who act on them. Daniel Schiff mentioned in "
-            "passing that they have been building AI auditing courses, and that is the piece my "
+            "passing that they are building AI auditing courses, the piece my "
             "program is missing. I am taught to build and evaluate models. Policy courses "
-            "teach regulation. Almost nothing teaches the middle: how you would design an audit, "
-            "what evidence it should gather, who should be allowed to perform it. The six audit "
-            "attributes they tested are choices somebody has to make, and they said no set "
-            "standard exists yet.",
+            "teach regulation. Almost nothing teaches the middle. Three of the six attributes in "
+            "their audit experiment are choices "
+            "somebody has to make: who conducts the audit, what it examines, and whether it is "
+            "completed. They said no set standard exists yet.",
 
             "I am not comfortable with the generous reading of that null result. One of "
-            "them described students worrying about their jobs and their majors and about AI use "
-            "in educational settings, and said there is more precarity now. Stable survey "
+            "them described students worrying about their jobs and majors and AI "
+            "in classrooms, and said there is more precarity now. Stable survey "
             "preferences and anxious students are not the same public. Maybe the videos moved "
             "nobody because people had settled into positions they would not revisit, which is less flattering than principled consistency.",
         ],
@@ -44,81 +44,87 @@ SECTIONS = [
             "The headline was good news, and mostly it is. Across 3,002 adults in the "
             "United States and Germany, all three commitments they tested, public principles, an "
             "internal responsible AI team, and an independent audit, raised trust, perceived "
-            "ethicality, safety, and willingness to use a company's products. Daniel Schiff put "
-            "the largest effects near half a standard deviation, larger than they expected. "
+            "ethicality, safety, and willingness to use their products. The largest effects "
+            "neared half a standard deviation, larger than they expected. "
             "What should worry anyone spending money is which signal earned the return. "
-            "Teams and audits did not outperform a public statement of principles, and their own "
-            "slide calls this the caveat that cheap signaling might still work. If I am "
-            "the analyst arguing for a governance budget, that says the market pays for the press "
-            "release, not the expensive work behind it. Support for regulation also barely "
-            "moved, so self governing your way out of oversight does not pay either.",
+            "Teams and audits did not outperform a public statement of principles, their own "
+            "caveat that cheap signaling might still work. If I am "
+            "the analyst arguing for a governance budget, the market pays for the press "
+            "release, not the work behind it. Their own next line answers me: signals are not "
+            "actual ethicality or safety, which indicts the market, not the work. Support for regulation barely "
+            "moved either, so self governing your way out of oversight does not pay.",
 
-            "Their interviews show where the money comes from. Among 34 auditors and "
-            "governance leads across seven countries, regulatory motives and risks came out on top at "
-            "104, reputational at 69, other risks at 38, and financial motives at only 22. Governance "
-            "spending follows regulation. So when one of them described Anthropic rolling out text "
-            "watermarks only in the European Union to satisfy the transparency code of practice, "
-            "with an opt in elsewhere, it read less like an edge case than a pattern. They used "
-            "the phrase strategic adjustment for that kind of move. Compliance is a "
+            "Their interviews, coded a couple of years back, say what practitioners think drives "
+            "the work. Among 34 auditors and governance leads in seven countries, "
+            "regulatory motives and risks topped the list at "
+            "104, reputational at 69, other risks at 38, financial motives at only 22. Those "
+            "are stated motives, not budgets, but I read the ordering as effort following "
+            "regulation. So when one of them described Anthropic rolling out text "
+            "watermarks only in the European Union to satisfy its transparency code of practice, "
+            "with an opt in elsewhere, it read like a pattern. The phrase "
+            "strategic adjustment came up in the same conversation. Compliance is a "
             "map, and firms draw it as narrowly as definitions allow.",
 
             "Ethics did move money once. After Anthropic rejected the Pentagon's terms on "
             "February 27, 2026, Claude visits rose about 30 percent on desktop and 38 percent on "
-            "mobile in their conservative estimate, with other specifications as high as 109 "
-            "and 149 percent, while ChatGPT use stayed largely unchanged. But frontier firms are not ordinary "
-            "companies, and they called that evidence suggestive, not definitive.",
+            "mobile in their conservative estimate, while ChatGPT use held steady. "
+            "But frontier firms are not ordinary "
+            "companies, and they called the evidence suggestive, not definitive.",
         ],
     ),
     (
         "Implications for Me, Other People, and Society",
         [
             "Two findings sit oddly together. The public rewarded commitments as much in "
-            "manufacturing and ecommerce as in finance and health care, so it did not track the "
+            "manufacturing and ecommerce as in finance and health care, ignoring the "
             "risk distinction regulators built their structure around. Yet when the audits "
             "experiment varied the use case, concern ran highest for layoffs and lowest for spam "
-            "filtering. People do have a line. It is not sector. It is whether the system is "
+            "filtering. People do have a line; it is not sector but whether the system is "
             "pointed at someone's livelihood. "
-            "That makes me doubt consumer pressure as a governance mechanism. Markets respond to "
-            "what people can see, and most AI harms are not visible. Their numbers say it "
-            "plainly: a recent scandal cost a company roughly 25 points, while putting a "
-            "government agency in charge of the audit gained roughly 9 over a self audit. Getting caught is punished far "
-            "more than doing the work is rewarded, which a rational firm reads as a reputation "
-            "problem, not an engineering one.",
+            "That makes me doubt consumer pressure as a governance mechanism. Lining up the two effects "
+            "they priced, a recent scandal cost a company about 25 points, while a government "
+            "auditor over a self audit was worth about 9. That 9 buys independence, not the "
+            "audit itself; the largest audit effect was simply completing one, which got no "
+            "point value. Still, the only penalty with a number on it is for getting caught, which a rational firm reads as a reputation problem before an "
+            "engineering one.",
 
-            "And the auditor the public most wants is the one least likely to show up. External "
-            "auditors beat company self audits, with government agencies ranked highest. But when "
-            "an audience member asked whether AI governance would ever get serious enough for a "
-            "global pact, one of the presenters said they were cautiously pessimistic about strong "
-            "international governance, comparing it to climate change, where committees and voluntary "
-            "agreements pile up while emissions keep rising. The research describes a public demand with no reliable supplier, and consumers "
-            "cannot close that gap.",
+            "The public does know which auditor it wants: external "
+            "auditors over self audits, with government agencies ranked highest. Whether "
+            "one arrives is another matter, and the nearest the session came to it was a treaty "
+            "question. Asked whether AI governance would ever get serious enough for a "
+            "global pact, one presenter said they were cautiously pessimistic about strong "
+            "international governance, likening it to climate change, where committees and voluntary "
+            "agreements pile up while emissions rise. Pressed later on whether regulation "
+            "works, the same presenter was more constructive: they think in layers, where "
+            "international agreements may not fix everything but do something, and regulations "
+            "help if they are well designed. My own read is narrower now: consumers can want an "
+            "independent audit and have no way to supply one.",
         ],
     ),
     (
         "Personal Takeaways and Highlights",
         [
-            "I came expecting a policy talk and left thinking about my own work history. The use "
-            "case the public worried about most, AI used for workforce layoffs, is where I have "
-            "worked. I was in human resources at Nestle and then in talent analytics at "
-            "Cloudflare, so the data and models I have been near were pointed at people: who gets "
-            "hired, who gets considered, how a workforce gets described to those deciding its "
-            "future. I knew that was sensitive. I had not seen it at the top of a "
+            "I came expecting a policy talk and left thinking about my work history. The use "
+            "case the public worried about most, AI for workforce layoffs, is where I have "
+            "worked. I was in human resources at Nestle and then talent analytics at "
+            "Cloudflare, so the models I worked near were pointed at people: who gets "
+            "hired, who gets considered, how a workforce is described to those deciding its "
+            "future. I knew that was sensitive. I had not seen it top a "
             "ranked list of public concern.",
 
-            "A slide near the back of their deck, one they never reached, sharpened that. Public "
-            "sector human resources managers placed more weight on transparency, privacy, and "
-            "human oversight, while managers in both sectors still cared about cost, integration, "
-            "bias, and consent. That second list is the conversation I remember from talent work, "
-            "where constraints are concrete and tradeoffs happen fast.",
+            "A backup slide they never reached sharpened that. Public "
+            "sector human resources managers weighted transparency, privacy, and "
+            "human oversight more heavily, while managers in both sectors cared about cost, integration, "
+            "bias, and consent. That second list is the conversation I remember from talent work.",
 
-            "The highlight was Daniel Schiff describing the time he spent working on responsible "
-            "AI at JPMorgan, where much of the work was case making: talking to teams, building "
+            "The highlight was Daniel Schiff describing his responsible "
+            "AI work at JPMorgan, where much of it was case making: talking to teams, building "
             "momentum, sometimes starting from a data scientist worried about algorithmic "
-            "bias. That is my likely position. Not the person writing regulation, not "
+            "bias. That is my likely position: not the person writing regulation, not "
             "the executive announcing principles, but the analyst who notices something and decides "
-            "whether to raise it. I used to think governance happened to a model after it "
-            "was built. This moved it into the building, and left me one question. "
-            "The first experiment measured willingness to use rather than actual use. Commitments "
+            "whether to raise it. I once thought governance happened to a model after it "
+            "was built. This moved it into the building, and left one question. "
+            "The first experiment measured willingness to use, not actual use. Commitments "
             "changed what people said; one sharp event changed what they did. Since I "
             "will be building the thing being judged, I want to know which is the real signal.",
         ],
