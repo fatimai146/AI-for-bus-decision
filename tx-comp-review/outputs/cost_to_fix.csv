@@ -1,0 +1,3 @@
+scenario,employees_raised,pct_of_workforce,annual_cost,pct_of_payroll,median_raise,median_raise_pct
+1. Compression floor (5+ yrs up to new-hire median),6420,4.597009795497508,35311698.54,0.3770648179227339,3044.6699999999983,4.57516339869281
+2. Floor + 1%/yr tenure step (cap 10%),38808,27.788279773156898,180843349.9595089,1.931078584276435,3379.621352772083,5.419575633128

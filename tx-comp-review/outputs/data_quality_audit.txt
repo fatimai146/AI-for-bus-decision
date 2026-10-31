@@ -1,0 +1,63 @@
+
+== Raw file ==
+  rows  people  agencies  job_classes  rows_flagged_multi_job
+154795  154778       116         1945                    45.0
+
+== Employee types ==
+                         employee_type      n
+    CRF - CLASSIFIED REGULAR FULL-TIME 145822
+  URF - UNCLASSIFIED REGULAR FULL-TIME   4286
+    CRP - CLASSIFIED REGULAR PART-TIME   1531
+        ERF - EXEMPT REGULAR FULL-TIME    981
+  URP - UNCLASSIFIED REGULAR PART-TIME    901
+  CTF - CLASSIFIED TEMPORARY FULL-TIME    634
+  CTP - CLASSIFIED TEMPORARY PART-TIME    496
+UTP - UNCLASSIFIED TEMPORARY PART-TIME     76
+UTF - UNCLASSIFIED TEMPORARY FULL-TIME     68
+
+== Missing values (raw file) ==
+ gender  ethnicity  hire_date  annual
+    0.0        0.0        0.0     0.0
+
+== Hire dates after the 2026-10-01 snapshot (excluded) ==
+ hire_date  n
+2069-01-14  1
+2071-10-06  1
+2073-01-09  1
+
+== Regular full-time classified staff: job class -> pay schedule ==
+                        mapping     n
+                     Schedule B 85685
+                     Schedule A 53978
+Schedule C (step pay, excluded)  6159
+
+== Analysis population ==
+ employees  agencies  job_classes  median_salary  min_salary  max_salary
+    139656       103         1081        60600.0    28839.96    338073.6
+
+== Salary vs official range ==
+ below_min  median_shortfall  below_min_by_over_1_dollar  above_max
+     921.0              0.08                         3.0        0.0
+
+== Tenure bands ==
+tenure_band     n  median_years
+        0-2 34988           0.9
+        2-5 38915           3.4
+       5-10 33652           7.6
+      10-20 24658          13.3
+        20+  7443          23.1
+
+== Gender and ethnicity ==
+gender ethnicity     n
+FEMALE     WHITE 29012
+FEMALE  HISPANIC 24064
+FEMALE     BLACK 23392
+FEMALE     ASIAN  3004
+FEMALE     OTHER  2869
+FEMALE AM INDIAN   358
+  MALE     WHITE 24415
+  MALE  HISPANIC 15216
+  MALE     BLACK 13170
+  MALE     ASIAN  2269
+  MALE     OTHER  1636
+  MALE AM INDIAN   251
