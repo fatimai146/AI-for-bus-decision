@@ -2,7 +2,9 @@
 
 **Classic FICO vs. FICO 10T vs. VantageScore 4.0 on 425,000 Freddie Mac mortgages**
 
-*Author: Iman Fatima · Python, SQL (DuckDB), scikit-learn, matplotlib*
+*Author: Iman Fatima · Python, SQL (DuckDB), scikit-learn, matplotlib, Tableau*
+
+**[Interactive Tableau dashboard](https://public.tableau.com/app/profile/iman.fatima4868/viz/CreditScoreTransitionClassicFICOvsFICO10TvsVantageScore4_0/CreditScoreSwitch)**: move the cutoff slider and segment filters to see how each score trades approvals for risk.
 
 ---
 
@@ -234,7 +236,7 @@ credit-score-transition/
 │   ├── robustness.py              selection-effect, timing and outcome-definition tests
 │   ├── switch_simulator.py        approval-rate vs. risk trade-off
 │   ├── make_figures.py            charts
-│   └── export_tableau.py          aggregated extract for a Tableau dashboard
+│   └── export_tableau.py          aggregated extract behind the Tableau dashboard
 ├── outputs/                       aggregate result tables (CSV)
 └── figures/                       charts used in this README
 ```
