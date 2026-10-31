@@ -1,0 +1,64 @@
+
+=== Duplicate loan ids ===
+      t  dups
+   orig     0
+fico10t     0
+    vs4     0
+
+=== Coverage by vintage (% of sampled loans with each score) ===
+ vintage     n  classic_fico  vs4_in_orig_file  fico10t  vs4_hist  all_three
+    2018 50000         100.0               0.0     99.9      99.9       99.9
+    2019 50000         100.0               0.0     99.9     100.0       99.9
+    2020 50000         100.0               0.0    100.0     100.0       99.9
+    2021 50000         100.0               0.0    100.0     100.0       99.9
+    2022 50000         100.0               0.0     99.9      99.9       99.9
+    2023 50000         100.0               0.0     99.9     100.0       99.9
+    2024 50000         100.0               0.0     99.9      99.9       99.8
+    2025 50000         100.0               0.0     64.0      64.0       64.0
+    2026 25000          99.9               0.1      0.0       0.0        0.0
+
+=== Score summary ===
+                 score      n  mn   p05   p50  mean   p95  mx
+    vs4_current_method 381804 421 661.0 774.0 760.7 833.0 850
+fico10t_current_method 381722 434 658.0 766.0 759.2 838.0 850
+                  fico 424866 427 665.0 760.0 751.2 808.0 848
+
+=== Correlations (loans with all three) ===
+ fico_vs_10t  fico_vs_vs4  t10_vs_vs4  mad_fico_10t  mad_fico_vs4  pct_gap40_vs4
+       0.802        0.736       0.843          27.0          29.4           26.3
+
+=== Merge-method internal consistency (lowest <= median <= highest) ===
+ fico10t_ok  vs4_ok
+      99.97   99.99
+
+=== Loan attributes sanity ===
+ vintage  avg_rate  avg_ltv  avg_dti  avg_upb_k  pct_purchase
+    2018      4.74     75.9     35.8      232.0          66.8
+    2019      4.24     75.6     35.3      255.0          55.5
+    2020      3.20     70.8     33.3      287.0          30.4
+    2021      2.97     69.3     34.0      288.0          34.2
+    2022      5.09     74.0     36.9      299.0          66.8
+    2023      6.74     75.6     38.2      312.0          84.0
+    2024      6.69     74.7     37.9      339.0          79.0
+    2025      6.55     73.9     37.6      349.0          73.4
+    2026      6.14     73.4     36.7      356.0          62.7
+
+=== Outcomes by vintage ===
+ vintage     n  avg_months_obs  pct_prepaid  pct_ever_d90  pct_d90_24m  pct_forbearance  pct_credit_loss_event
+    2018 50000            40.7         80.0          5.44         2.67              6.5                   0.15
+    2019 50000            38.5         71.6          5.60         4.63              7.0                   0.10
+    2020 50000            51.2         39.5          2.31         1.66              2.5                   0.05
+    2021 50000            52.1         20.4          2.11         1.00              1.5                   0.05
+    2022 50000            41.9         21.3          3.68         1.84              2.2                   0.17
+    2023 50000            30.2         28.9          2.62         1.76              1.4                   0.11
+    2024 50000            20.4         21.3          1.50         1.44              0.8                   0.04
+    2025 49996             9.9          9.9          0.30         0.30              0.2                   0.00
+    2026 24988             1.7          0.5          0.02         0.02              0.0                   0.00
+
+=== Default rate (ever 90+ within 24m) by Classic FICO band, 2018-2023 vintages ===
+     band     n  d90_24m
+   a <660 11870     7.68
+b 660-699 34301     4.80
+c 700-739 64870     3.11
+d 740-779 94060     1.63
+   e 780+ 94828     0.71

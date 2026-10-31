@@ -47,12 +47,6 @@ q("Correlations (loans with all three)", """
     FROM orig JOIN scores USING (loan_id)
     WHERE fico IS NOT NULL AND fico10t_current_method IS NOT NULL AND vs4_current_method IS NOT NULL""")
 
-q("VS4 in orig file vs historical file (where both present)", """
-    SELECT COUNT(*) n, ROUND(AVG(COALESCE(vs4_orig = vs4_current_method, false)::INT)*100,1) pct_equal,
-           ROUND(corr(vs4_orig, vs4_current_method),3) r
-    FROM orig JOIN scores USING (loan_id)
-    WHERE vs4_orig IS NOT NULL AND vs4_current_method IS NOT NULL""")
-
 q("Merge-method internal consistency (lowest <= median <= highest)", """
     SELECT ROUND(100*AVG(COALESCE(fico10t_bi_lowest <= fico10t_bi_median AND fico10t_bi_median <= fico10t_bi_highest, false)::INT),2) fico10t_ok,
            ROUND(100*AVG(COALESCE(vs4_bi_lowest <= vs4_bi_median AND vs4_bi_median <= vs4_bi_highest, false)::INT),2) vs4_ok

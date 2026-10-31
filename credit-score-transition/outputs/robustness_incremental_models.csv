@@ -1,0 +1,9 @@
+model,features,cv_gini
+Classic FICO,fico,0.5144108658115982
+FICO 10T,fico10t_current_method,0.5835747429611016
+VantageScore 4.0,vs4_current_method,0.5493015415958722
+Classic FICO + FICO 10T,fico + fico10t_current_method,0.5855825231605973
+Classic FICO + VantageScore 4.0,fico + vs4_current_method,0.5663310185695294
+Classic FICO + LTV + DTI,fico + ltv + dti,0.56825971112447
+Classic FICO + LTV + DTI + FICO 10T,fico + ltv + dti + fico10t_current_method,0.6248743186127144
+Classic FICO + LTV + DTI + VantageScore 4.0,fico + ltv + dti + vs4_current_method,0.606217240496264
