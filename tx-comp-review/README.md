@@ -23,10 +23,10 @@ It answers the four questions a compensation team is asked every budget cycle:
 | Question | Finding |
 |---|---|
 | Compression | In the same job title at the same agency, staff with **10–20 years earn only 5.3% more than new hires**; 20+ years earns 6.7% more. |
-| Inversion | In **41% of agency × job-title groups** (144 of 353), the new-hire median is **higher** than the 10+ year median. 69% are compressed (new hires at 95%+ of veteran pay). |
+| By job title | Of 154 titles large enough to test, **72% give 10+ year staff less than a 5% premium or none at all** (median: 3.3%). In **7 titles new hires are paid significantly more**, led by Nurse III (−10%), Investigator V (−8%) and IT Business Analyst III (−8%). |
 | Where growth happens | Pay rises 15–19% with tenure only when promotions (moving up a job series) are counted. Staying in a job is barely rewarded. |
-| Range position | New hires sit at the **47th percentile** of their range; 20+ year staff at only the **62nd**. |
-| Cost to fix | Lifting 6,420 tenured staff to the new-hire median costs **$35.3M a year (0.38% of payroll)**. A fuller fix that also pays 1% per year of service costs **$180.8M (1.9%)**. |
+| Range position | New hires sit **47%** of the way into their pay range; 20+ year staff only **62%**. |
+| Cost of a pay floor | A policy that no 5+ year employee earns below the new-hire median of their job and agency costs **$35.3M a year (0.38% of payroll)** for 6,420 people. Adding 1% per year of service costs **$180.8M (1.9%)**. |
 | Pay equity | Raw gaps are real (women −6.3%, Black −14.4%, Hispanic −11.0% vs White), but **within the same job, agency and tenure they shrink to under 0.5%**. The gap is about *which jobs* people hold, not unequal pay for the same job. |
 | Agency flags | 3 of 28 large agencies show a statistically significant adjusted gender gap, all under 1% (Attorney General −1.0%, TCEQ −0.8%, Parks and Wildlife −0.5%). |
 | Market | Across 21 professional benchmark jobs, state pay is **86% of the Texas market median**; technology roles are at **84%**. Systems administrators (0.71), accountants (0.74) and cybersecurity analysts (0.77) are furthest behind. |
@@ -47,13 +47,22 @@ pay growth actually happens.
 ### 2. Range position by tenure
 ![Range position](figures/fig2_range_position.png)
 
-### 3. Titles where new hires out-earn 10+ year veterans
+### 3. Compression by job title
 ![Compression by title](figures/fig3_compression_titles.png)
 
-Human Resources Specialist IV is the clearest case: new hires earn a median
-$66,075 vs $58,904 for staff with 10+ years (+12%).
+Each title is tested with a regression comparing 10+ year staff to new hires
+**inside the same agency**, with a 95% confidence interval.
 
-### 4. Cost to fix compression, by agency
+**Why not just compare medians?** Simple "new-hire median vs veteran median"
+counts are misleading. When tenure is randomly shuffled (so it cannot affect
+pay), 66% of small agency × title groups still look "inverted" and 93% look
+"compressed", partly because many state employees share identical salaries.
+The real data show 41% and 69%, *below* that chance baseline
+([`inversion_null_check.csv`](outputs/inversion_null_check.csv)). Statewide
+median comparisons are also distorted by which agencies are hiring, so all
+title-level results here compare people within the same agency.
+
+### 4. Cost of a pay floor, by agency
 ![Cost by agency](figures/fig4_cost_by_agency.png)
 
 ### 5. Pay equity: raw vs adjusted gaps
@@ -88,12 +97,15 @@ hire dates in the future. See [`outputs/data_quality_audit.txt`](outputs/data_qu
 
 - **Tenure premium:** log-salary regression on tenure bands with job-title ×
   agency fixed effects, standard errors clustered by job-title × agency.
-- **Compression ratio:** new-hire (<2 yrs) median ÷ 10+ year median within
-  each group; ≥0.95 = compressed, ≥1.00 = inverted.
+- **Title-level test:** for each title with 20+ new hires and 20+ staff with
+  10+ years, regress log salary on a 10+ year indicator with agency fixed
+  effects and robust standard errors. A shuffle test shows why raw median
+  comparisons are not used.
 - **Range penetration** = (salary − min) ÷ (max − min); **compa-ratio** =
   salary ÷ range midpoint.
-- **Cost to fix:** raise eligible staff to the target, capped at range
-  maximum; base pay only.
+- **Cost of a pay floor:** raise eligible staff to the target, capped at range
+  maximum; base pay only. This prices a policy; it is not an estimate of
+  underpayment, since some gap below any median is normal pay spread.
 - **Pay equity:** four nested log-salary models (raw → + job title →
   + job title × agency → + tenure), clustered standard errors; per-agency
   models for the 28 agencies with 300+ employees and 50+ of each gender.
@@ -107,7 +119,14 @@ Full details: [docs/methodology.md](docs/methodology.md).
 - **Hire date ≠ time in title.** The payroll records a hire date, not the date
   someone entered their current title. The entry-level-only check (chart 1)
   shows the compression result is not driven by this.
-- **Base pay only.** No overtime, stipends, longevity pay or benefits.
+- **Base pay only.** No overtime, stipends, longevity pay or benefits. State
+  pensions and health coverage are typically richer than private employers',
+  so the market comparison overstates the total-rewards gap.
+- **Market comparisons don't match job levels.** State series pool all levels
+  (e.g. Accountant I–VII), while BLS covers all workers in the occupation.
+- **Tenure is not total experience.** A "new hire" may bring years of
+  experience from elsewhere; paying for that is legitimate, which is partly
+  what compression reflects.
 - **No work location.** Market comparisons use statewide Texas wages, with
   Austin shown for reference.
 - **Occupation matching is approximate.** For example, the state "Data

@@ -1,0 +1,3 @@
+measure,actual,if_tenure_had_no_effect,groups
+share of groups compressed (new-hire median >= 95% of 10+ yr median),0.6883852691218131,0.931657223796034,353
+share of groups inverted (new-hire median >= 10+ yr median),0.40793201133144474,0.6609631728045327,353

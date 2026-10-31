@@ -64,16 +64,30 @@ def fig_range_position():
 
 
 def fig_compression_titles():
-    t = pd.read_csv(OUT / "compression_titles.csv")
-    t = t[(t["n_new"] >= 20) & (t["n_tenured"] >= 20)].head(15).iloc[::-1]
-    fig, ax = plt.subplots(figsize=(7, 4.8))
-    ax.barh(t["class_title"].map(nice_title), (t["ratio_new_to_tenured"] - 1) * 100, color=COLORS["tenured"])
-    for i, (_, r) in enumerate(t.iterrows()):
-        ax.text((r["ratio_new_to_tenured"] - 1) * 100 + 0.3, i,
-                f"\\${r['median_new']/1e3:.0f}k vs \\${r['median_tenured']/1e3:.0f}k", va="center", fontsize=7)
-    ax.set_xlabel("New-hire median pay above 10+ year staff (%)")
-    ax.set_title("Job titles where new hires out-earn 10+ year veterans\n(statewide, 20+ employees in each group)")
-    ax.set_xlim(0, ax.get_xlim()[1] * 1.3)
+    s = pd.read_csv(OUT / "title_premium_summary.csv")
+    t = pd.read_csv(OUT / "title_premium.csv")
+    order = ["new hires paid significantly more", "no significant difference",
+             "veterans paid more, but under 5%", "veterans paid 5%+ more"]
+    cols = [COLORS["tenured"], COLORS["accent"], COLORS["mid"], COLORS["new"]]
+    s = s.set_index("result").loc[order]
+    fig, (a1, a2) = plt.subplots(1, 2, figsize=(10, 3.8), gridspec_kw={"width_ratios": [1, 1.25]})
+    a1.barh(range(4)[::-1], s["titles"], color=cols)
+    for i, (n, sh) in zip(range(4)[::-1], zip(s["titles"], s["share"])):
+        a1.text(n + 1, i, f"{n} ({sh*100:.0f}%)", va="center", fontsize=8)
+    a1.set_yticks(range(4)[::-1], [o[0].upper() + o[1:] for o in order], fontsize=8)
+    a1.set_xlim(0, s["titles"].max() * 1.35)
+    a1.set_xlabel("Job titles")
+    a1.set_title(f"10+ yr vs new-hire pay, same title and agency\n({len(t)} titles with 20+ in each group)", fontsize=9)
+
+    inv = t[t["result"] == order[0]].sort_values("premium_pct", ascending=False)
+    y = range(len(inv))
+    a2.errorbar(inv["premium_pct"], y, xerr=[inv["premium_pct"] - inv["ci_low_pct"],
+                inv["ci_high_pct"] - inv["premium_pct"]], fmt="o", color=COLORS["tenured"], capsize=2)
+    a2.axvline(0, color="black", lw=0.8)
+    a2.set_yticks(list(y), [f"{nice_title(n)} ({a} agencies)" for n, a in zip(inv["class_title"], inv["agencies"])],
+                  fontsize=8)
+    a2.set_xlabel("10+ year staff pay vs new hires, same agency (%, 95% CI)")
+    a2.set_title("Titles where new hires are paid significantly more", fontsize=9)
     save(fig, "fig3_compression_titles")
 
 
@@ -86,7 +100,7 @@ def fig_cost_by_agency():
     ax.barh([i - 0.2 for i in y], t["s1_cost"] / 1e6, 0.4, color=COLORS["tenured"], label="Compression floor")
     ax.set_yticks(list(y), names)
     ax.set_xlabel("Annual base-pay cost ($ millions)")
-    ax.set_title("Cost to fix compression, largest agencies")
+    ax.set_title("Annual cost of a pay floor for experienced staff, largest agencies")
     ax.legend(frameon=False, loc="lower right")
     save(fig, "fig4_cost_by_agency")
 

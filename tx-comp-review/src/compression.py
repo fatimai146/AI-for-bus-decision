@@ -1,12 +1,13 @@
 """Pay compression: how much more do long-tenured staff earn than new hires in the same job?
 
 Outputs
-  tenure_premium.csv          pay premium by tenure band vs new hires, within job+agency,
-                              within job series+agency, and within entry-level titles only
-  compression_titles.csv      statewide new-hire vs 10+ year median pay by job title
-  compression_cells.csv       the same comparison inside each agency x job title
-  compression_summary.csv     share of titles/cells/employees that are compressed or inverted
-  compression_by_category.csv summary by occupational category
+  tenure_premium.csv        pay premium by tenure band vs new hires, within job+agency,
+                            within job series+agency, and within entry-level titles only
+  title_premium.csv         per job title: 10+ year vs new-hire (<2 yr) premium at the
+                            same agency, with 95% CI and a classification
+  title_premium_summary.csv count of titles in each classification
+  inversion_null_check.csv  share of agency x title groups that look compressed/inverted on
+                            raw medians, actual vs with tenure randomly shuffled
 """
 import numpy as np
 import pandas as pd
@@ -15,14 +16,16 @@ from common import MIN_CELL, NEW_HIRE_MAX_YEARS, OUT, TENURED_MIN_YEARS, connect
 from stats import fe_ols, pct
 
 BANDS = ["2-5", "5-10", "10-20", "20+"]
-COMPRESSED = 0.95
+MIN_TITLE_GROUP = 20
+SMALL_PREMIUM = 5.0
+N_SHUFFLES = 200
 
 
 def load():
     con = connect()
     df = con.execute("""
         SELECT person_id, agency, agency_name, class_code, class_title, series, level,
-               occ_category, annual, tenure, tenure_band, range_min, range_max
+               occ_category, annual, tenure, tenure_band
         FROM emp ORDER BY person_id""").df()
     con.close()
     df["log_pay"] = np.log(df["annual"])
@@ -55,30 +58,87 @@ def tenure_premium(df):
     return pd.DataFrame(rows)
 
 
-def new_vs_tenured(df, keys, min_each):
-    new = df[df["tenure"] < NEW_HIRE_MAX_YEARS]
-    ten = df[df["tenure"] >= TENURED_MIN_YEARS]
-    a = new.groupby(keys)["annual"].agg(n_new="size", median_new="median")
-    b = ten.groupby(keys)["annual"].agg(n_tenured="size", median_tenured="median")
-    t = a.join(b, how="inner")
-    t = t[(t["n_new"] >= min_each) & (t["n_tenured"] >= min_each)].copy()
-    t["ratio_new_to_tenured"] = t["median_new"] / t["median_tenured"]
-    t["compressed"] = t["ratio_new_to_tenured"] >= COMPRESSED
-    t["inverted"] = t["ratio_new_to_tenured"] >= 1.0
-    return t.reset_index()
+def classify(r):
+    if r["ci_high_pct"] < 0:
+        return "new hires paid significantly more"
+    if r["ci_low_pct"] <= 0:
+        return "no significant difference"
+    if r["premium_pct"] < SMALL_PREMIUM:
+        return f"veterans paid more, but under {SMALL_PREMIUM:.0f}%"
+    return f"veterans paid {SMALL_PREMIUM:.0f}%+ more"
 
 
-def summarise(t, unit):
-    emp = t["n_new"] + t["n_tenured"]
-    return {
-        "unit": unit, "groups_compared": len(t),
-        "compressed_groups": int(t["compressed"].sum()), "inverted_groups": int(t["inverted"].sum()),
-        "pct_compressed": t["compressed"].mean() * 100, "pct_inverted": t["inverted"].mean() * 100,
-        "employees_compared": int(emp.sum()),
-        "employees_in_compressed": int(emp[t["compressed"]].sum()),
-        "employees_in_inverted": int(emp[t["inverted"]].sum()),
-        "median_ratio": t["ratio_new_to_tenured"].median(),
-    }
+def title_premium(df):
+    """10+ year vs <2 year premium inside each job title, agency fixed effects, HC1 SEs."""
+    d = df[(df["tenure"] < NEW_HIRE_MAX_YEARS) | (df["tenure"] >= TENURED_MIN_YEARS)].copy()
+    d["tenured"] = (d["tenure"] >= TENURED_MIN_YEARS).astype(float)
+    rows = []
+    for (cc, title, cat), g in d.groupby(["class_code", "class_title", "occ_category"]):
+        n_ten = int(g["tenured"].sum())
+        n_new = len(g) - n_ten
+        if n_new < MIN_TITLE_GROUP or n_ten < MIN_TITLE_GROUP:
+            continue
+        by = g.groupby("agency")
+        y = g["log_pay"] - by["log_pay"].transform("mean")
+        x = g["tenured"] - by["tenured"].transform("mean")
+        sxx = (x ** 2).sum()
+        if sxx == 0:
+            continue
+        b = (x * y).sum() / sxx
+        e = y - b * x
+        dof = len(g) - g["agency"].nunique() - 1
+        if dof <= 0:
+            continue
+        se = np.sqrt((x ** 2 * e ** 2).sum() / sxx ** 2 * len(g) / dof)
+        rows.append({
+            "class_code": cc, "class_title": title, "occ_category": cat,
+            "agencies": g["agency"].nunique(), "n_new": n_new, "n_tenured": n_ten,
+            "median_new": g.loc[g["tenured"] == 0, "annual"].median(),
+            "median_tenured": g.loc[g["tenured"] == 1, "annual"].median(),
+            "premium_pct": pct(b), "ci_low_pct": pct(b - 1.96 * se), "ci_high_pct": pct(b + 1.96 * se),
+        })
+    t = pd.DataFrame(rows)
+    t["result"] = t.apply(classify, axis=1)
+    return t.sort_values("premium_pct")
+
+
+def raw_inversion_shares(d):
+    m = (d[d["grp"] != "mid"].groupby(["cell", "grp"])["annual"]
+         .agg(["size", "median"]).unstack())
+    m = m[(m[("size", "new")] >= MIN_CELL) & (m[("size", "ten")] >= MIN_CELL)]
+    ratio = m[("median", "new")] / m[("median", "ten")]
+    return (ratio >= 0.95).mean(), (ratio >= 1.0).mean(), len(ratio)
+
+
+def inversion_null_check(df):
+    """Raw median comparisons in small groups look 'inverted' often by chance alone.
+
+    Shuffling tenure within each agency x title group removes any real tenure
+    effect; the shuffled shares are the baseline the actual shares must beat.
+    """
+    d = df[["cell", "annual"]].copy()
+    d["grp"] = np.select([df["tenure"] < NEW_HIRE_MAX_YEARS, df["tenure"] >= TENURED_MIN_YEARS],
+                         ["new", "ten"], "mid")
+    comp, inv, n = raw_inversion_shares(d)
+    rng = np.random.default_rng(0)
+    order = d.sort_values("cell", kind="stable").index
+    cells = d.loc[order, "cell"].to_numpy()
+    grp = d.loc[order, "grp"].to_numpy()
+    bounds = np.flatnonzero(np.r_[True, cells[1:] != cells[:-1], True])
+    sims = []
+    for _ in range(N_SHUFFLES):
+        g = grp.copy()
+        for a, b in zip(bounds[:-1], bounds[1:]):
+            g[a:b] = rng.permutation(g[a:b])
+        s = d.loc[order].assign(grp=g)
+        sims.append(raw_inversion_shares(s)[:2])
+    sims = np.array(sims)
+    return pd.DataFrame([
+        {"measure": "share of groups compressed (new-hire median >= 95% of 10+ yr median)",
+         "actual": comp, "if_tenure_had_no_effect": sims[:, 0].mean(), "groups": n},
+        {"measure": "share of groups inverted (new-hire median >= 10+ yr median)",
+         "actual": inv, "if_tenure_had_no_effect": sims[:, 1].mean(), "groups": n},
+    ])
 
 
 def main():
@@ -89,24 +149,18 @@ def main():
     prem.to_csv(OUT / "tenure_premium.csv", index=False)
     print(prem.round(2).to_string(index=False))
 
-    titles = new_vs_tenured(df, ["class_code", "class_title", "occ_category"], 10)
-    titles.sort_values("ratio_new_to_tenured", ascending=False).to_csv(
-        OUT / "compression_titles.csv", index=False)
-
-    cells = new_vs_tenured(df, ["agency", "agency_name", "class_code", "class_title", "occ_category"], MIN_CELL)
-    cells.sort_values("ratio_new_to_tenured", ascending=False).to_csv(
-        OUT / "compression_cells.csv", index=False)
-
-    summary = pd.DataFrame([summarise(titles, "job title (statewide, 10+ in each group)"),
-                            summarise(cells, f"agency x job title ({MIN_CELL}+ in each group)")])
-    summary.to_csv(OUT / "compression_summary.csv", index=False)
+    titles = title_premium(df)
+    titles.to_csv(OUT / "title_premium.csv", index=False)
+    summary = titles["result"].value_counts().rename_axis("result").reset_index(name="titles")
+    summary["share"] = summary["titles"] / len(titles)
+    summary.to_csv(OUT / "title_premium_summary.csv", index=False)
     print(summary.round(3).to_string(index=False))
+    print(f"median title premium: {titles['premium_pct'].median():.1f}%")
+    print(titles[titles["result"].str.startswith("new hires")].round(1).to_string(index=False))
 
-    cat = pd.DataFrame([dict(summarise(g, "agency x job title"), occ_category=c)
-                        for c, g in cells.groupby("occ_category") if len(g) >= 5])
-    cat = cat.sort_values("pct_compressed", ascending=False)
-    cat.to_csv(OUT / "compression_by_category.csv", index=False)
-    print(cat[["occ_category", "groups_compared", "pct_compressed", "pct_inverted"]].round(1).to_string(index=False))
+    null = inversion_null_check(df)
+    null.to_csv(OUT / "inversion_null_check.csv", index=False)
+    print(null.round(3).to_string(index=False))
 
 
 if __name__ == "__main__":

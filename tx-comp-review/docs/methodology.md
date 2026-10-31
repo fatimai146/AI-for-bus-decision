@@ -52,10 +52,26 @@ Accountant I) cannot be reached by promotion from below in the same series. The
 premium there is similar (6.9% at 10–20 years vs 5.3% overall), so the finding
 is not explained by this.
 
-**Compression ratio** = median salary of new hires ÷ median salary of 10+ year
-staff, within a group. Groups need at least 5 people on each side (agency ×
-title) or 10 (statewide title). A ratio of 0.95 or more is compressed; 1.00 or
-more is inverted.
+**Title-level test.** For each job title with at least 20 new hires (<2 years)
+and 20 staff with 10+ years, restricted to those two groups:
+
+log(salary) = β · 1[10+ years] + α_agency + ε
+
+β is estimated by demeaning within agency, with heteroskedasticity-robust
+(HC1) standard errors. Each title is classified as: new hires paid
+significantly more (CI entirely below 0); no significant difference (CI
+includes 0); veterans paid more but under 5%; or veterans paid 5%+ more.
+
+**Why raw median ratios are not used.** A common shortcut is to compare the
+new-hire median with the 10+ year median in each agency × title group and call
+the group "compressed" (ratio ≥ 0.95) or "inverted" (≥ 1.00). A shuffle test
+shows this is uninformative here. Tenure is randomly permuted within each group
+200 times, which removes any real tenure effect. Under that null, 93% of the
+353 groups look compressed and 66% look inverted, versus 69% and 41% in the
+real data. Small groups and many identical salaries make median comparisons
+noisy. Statewide (cross-agency) medians are also confounded by which agencies
+are hiring. For example, Human Resources Specialist IV shows new hires 12%
+ahead statewide, but within agencies veterans are 1.9% ahead (not significant).
 
 ## 4. Range position
 
@@ -73,7 +89,9 @@ same agency × job title, where there are at least 5 such hires.
 | B. Floor + tenure step | 2+ years of tenure | New-hire median × (1 + 1% × (tenure − 2)), with the step capped at 10% |
 
 Raise = max(0, min(target, range max) − salary). Totals are annual base pay,
-excluding benefits and payroll taxes.
+excluding benefits and payroll taxes. These cost a policy; they are not
+estimates of underpayment, because some gap below any median is ordinary pay
+spread.
 
 ## 6. Pay equity
 

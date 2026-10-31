@@ -1,4 +1,8 @@
-"""Annual base-pay cost of two compression remediation scenarios.
+"""Annual base-pay cost of two pay-floor policies for experienced staff.
+
+These are policy costings, not estimates of an underpayment: some of the gap
+below any median is ordinary pay dispersion.
+
 
 1. Compression floor: in each agency x job title with 5+ new hires (<2 years),
    raise staff with 5+ years whose pay is below the new-hire median up to it.
