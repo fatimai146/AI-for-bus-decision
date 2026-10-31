@@ -1,0 +1,4 @@
+auto_accepted_share,families_auto_accepted,top1_accuracy_auto,top1_accuracy_routed_to_human
+1.0,65,0.8307692307692308,
+0.75,49,0.8775510204081632,0.6875
+0.5,32,0.96875,0.696969696969697

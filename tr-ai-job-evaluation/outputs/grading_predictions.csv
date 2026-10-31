@@ -1,0 +1,1166 @@
+class_code,class_title,series,level,occ_category,pdf,schedule,salary_group,range_mid,predicted_mid,ai_vs_official_pct,ai_vs_official_groups,uncertainty
+1000,Accounting Technician I,Accounting Technician,1,"Accounting, Auditing, and Finance",0700,A,A11,39843.5,39062.83048921196,-1.9593396935210579,0,0.3187767189679334
+1002,Accounting Technician II,Accounting Technician,2,"Accounting, Auditing, and Finance",0700,A,A13,43913.5,46442.4026331591,5.758827315424834,1,0.3187767189679334
+1004,Accounting Technician III,Accounting Technician,3,"Accounting, Auditing, and Finance",0700,A,A15,48510.5,50761.04022543708,4.6392847433793545,1,0.3187767189679334
+1012,Accountant I,Accountant,1,"Accounting, Auditing, and Finance",0706,B,B15,48510.5,53492.11023420324,10.269138092172204,2,0.21988859304683253
+1014,Accountant II,Accountant,2,"Accounting, Auditing, and Finance",0706,B,B16,51024.0,57480.5138635004,12.653876339566516,2,0.21988859304683253
+1016,Accountant III,Accountant,3,"Accounting, Auditing, and Finance",0706,B,B18,58288.0,66247.47811278103,13.65543184322848,2,0.21988859304683253
+1018,Accountant IV,Accountant,4,"Accounting, Auditing, and Finance",0706,B,B20,66254.5,69215.17075959107,4.468633465788859,1,0.21988859304683253
+1020,Accountant V,Accountant,5,"Accounting, Auditing, and Finance",0706,B,B22,75376.0,82370.66138312966,9.279692983349728,1,0.21988859304683253
+1022,Accountant VI,Accountant,6,"Accounting, Auditing, and Finance",0706,B,B24,85869.0,95869.45696467174,11.646178440032742,1,0.21988859304683253
+1024,Accountant VII,Accountant,7,"Accounting, Auditing, and Finance",0706,B,B26,102980.0,111226.43722917659,8.007804650589112,1,0.21988859304683253
+1030,Independent Audit Reviewer I,Independent Audit Reviewer,1,"Accounting, Auditing, and Finance",0775,B,B25,91835.5,72406.00453880416,-21.15684616645609,-4,0.19483840450370848
+1032,Independent Audit Reviewer II,Independent Audit Reviewer,2,"Accounting, Auditing, and Finance",0775,B,B26,102980.0,80313.02646411328,-22.011044412397226,-3,0.19483840450370848
+1034,Independent Audit Reviewer III,Independent Audit Reviewer,3,"Accounting, Auditing, and Finance",0775,B,B27,113278.0,83857.92995674151,-25.971565567240322,-3,0.19483840450370848
+1036,Independent Audit Reviewer IV,Independent Audit Reviewer,4,"Accounting, Auditing, and Finance",0775,B,B28,124606.0,102019.04778670419,-18.126697119958713,-2,0.19483840450370848
+1044,Auditor I,Auditor,1,"Accounting, Auditing, and Finance",0709,B,B19,62136.0,64025.33581072194,3.0406460195730274,0,0.19613468021743946
+1046,Auditor II,Auditor,2,"Accounting, Auditing, and Finance",0709,B,B21,70662.0,70788.85847385853,0.17952856395020225,0,0.19613468021743946
+1048,Auditor III,Auditor,3,"Accounting, Auditing, and Finance",0709,B,B23,80421.0,88046.15586310024,9.481548181569785,1,0.19613468021743946
+1050,Auditor IV,Auditor,4,"Accounting, Auditing, and Finance",0709,B,B25,91835.5,103511.87351529466,12.714444321961277,1,0.19613468021743946
+1052,Auditor V,Auditor,5,"Accounting, Auditing, and Finance",0709,B,B27,113278.0,124181.68635320265,9.625599280709956,1,0.19613468021743946
+1059,Taxpayer Compliance Officer I,Taxpayer Compliance Officer,1,"Accounting, Auditing, and Finance",0729,B,B13,43913.5,55126.96072212925,25.53533815826392,4,0.25787162707770006
+1060,Taxpayer Compliance Officer II,Taxpayer Compliance Officer,2,"Accounting, Auditing, and Finance",0729,B,B15,48510.5,57798.16921813735,19.145688496587972,3,0.25787162707770006
+1061,Taxpayer Compliance Officer III,Taxpayer Compliance Officer,3,"Accounting, Auditing, and Finance",0729,B,B17,53722.5,63466.87943415708,18.138358107230804,2,0.25787162707770006
+1062,Taxpayer Compliance Officer IV,Taxpayer Compliance Officer,4,"Accounting, Auditing, and Finance",0729,B,B19,62136.0,71563.69282179956,15.172674169240882,2,0.25787162707770006
+1063,Taxpayer Compliance Officer V,Taxpayer Compliance Officer,5,"Accounting, Auditing, and Finance",0729,B,B21,70662.0,85316.3904131056,20.73871446195345,3,0.25787162707770006
+1064,Taxpayer Compliance Officer VI,Taxpayer Compliance Officer,6,"Accounting, Auditing, and Finance",0729,B,B23,80421.0,96261.43246015442,19.696885714122438,2,0.25787162707770006
+1065,Tax Analyst I,Tax Analyst,1,"Accounting, Auditing, and Finance",0780,B,B23,80421.0,56207.53282191013,-30.10838857772209,-5,0.3725911287973471
+1066,Tax Analyst II,Tax Analyst,2,"Accounting, Auditing, and Finance",0780,B,B24,85869.0,69226.53424196834,-19.381226936416716,-3,0.3725911287973471
+1067,Tax Analyst III,Tax Analyst,3,"Accounting, Auditing, and Finance",0780,B,B25,91835.5,81835.3561647375,-10.889191908643642,-2,0.3725911287973471
+1068,Tax Analyst IV,Tax Analyst,4,"Accounting, Auditing, and Finance",0780,B,B26,102980.0,99091.6382492477,-3.7758416690155747,0,0.3725911287973471
+1069,Tax Analyst V,Tax Analyst,5,"Accounting, Auditing, and Finance",0780,B,B27,113278.0,109615.22378779968,-3.233440043256714,0,0.3725911287973471
+1073,Accounts Examiner I,Accounts Examiner,1,"Accounting, Auditing, and Finance",0736,B,B13,43913.5,48015.16291691842,9.340323401501598,2,0.2854002187406307
+1074,Accounts Examiner II,Accounts Examiner,2,"Accounting, Auditing, and Finance",0736,B,B15,48510.5,53467.92745555972,10.21928748530664,2,0.2854002187406307
+1075,Accounts Examiner III,Accounts Examiner,3,"Accounting, Auditing, and Finance",0736,B,B17,53722.5,57343.26969494489,6.739763962855178,1,0.2854002187406307
+1076,Accounts Examiner IV,Accounts Examiner,4,"Accounting, Auditing, and Finance",0736,B,B19,62136.0,69670.40367392138,12.125665755634941,2,0.2854002187406307
+1077,Accounts Examiner V,Accounts Examiner,5,"Accounting, Auditing, and Finance",0736,B,B21,70662.0,78791.76631862523,11.505146073738619,2,0.2854002187406307
+1078,Accounts Examiner VI,Accounts Examiner,6,"Accounting, Auditing, and Finance",0736,B,B23,80421.0,90593.98562128464,12.6496631741518,2,0.2854002187406307
+1080,Financial Analyst I,Financial Analyst,1,"Accounting, Auditing, and Finance",0743,B,B20,66254.5,75946.19071285141,14.62797351553694,2,0.19598445643331652
+1082,Financial Analyst II,Financial Analyst,2,"Accounting, Auditing, and Finance",0743,B,B22,75376.0,88716.05378753462,17.698012348140853,2,0.19598445643331652
+1084,Financial Analyst III,Financial Analyst,3,"Accounting, Auditing, and Finance",0743,B,B24,85869.0,97255.12448094311,13.259877814977555,2,0.19598445643331652
+1085,Financial Analyst IV,Financial Analyst,4,"Accounting, Auditing, and Finance",0743,B,B26,102980.0,104854.71215448964,1.8204623756940244,0,0.19598445643331652
+1086,Financial Analyst V,Financial Analyst,5,"Accounting, Auditing, and Finance",0743,B,B28,124606.0,119949.89144871943,-3.736664808500792,0,0.19598445643331652
+1090,Taxpayer Enforcement Officer I,Taxpayer Enforcement Officer,1,"Accounting, Auditing, and Finance",0745,B,B15,48510.5,52167.461787281194,7.538495351070713,1,0.24399775225398435
+1091,Taxpayer Enforcement Officer II,Taxpayer Enforcement Officer,2,"Accounting, Auditing, and Finance",0745,B,B17,53722.5,55968.317149564085,4.180403275283305,1,0.24399775225398435
+1092,Taxpayer Enforcement Officer III,Taxpayer Enforcement Officer,3,"Accounting, Auditing, and Finance",0745,B,B19,62136.0,62493.617682995355,0.5755402391452873,0,0.24399775225398435
+1093,Taxpayer Enforcement Officer IV,Taxpayer Enforcement Officer,4,"Accounting, Auditing, and Finance",0745,B,B21,70662.0,74615.08343271364,5.594355428255067,1,0.24399775225398435
+1094,Taxpayer Enforcement Officer V,Taxpayer Enforcement Officer,5,"Accounting, Auditing, and Finance",0745,B,B23,80421.0,80044.06976936183,-0.46869627415498216,0,0.24399775225398435
+1100,Financial Examiner I,Financial Examiner,1,"Accounting, Auditing, and Finance",0746,B,B17,53722.5,55271.54407839529,2.883417708400148,0,0.2882808099271941
+1102,Financial Examiner II,Financial Examiner,2,"Accounting, Auditing, and Finance",0746,B,B19,62136.0,59958.26548415308,-3.50478710545732,-1,0.2882808099271941
+1104,Financial Examiner III,Financial Examiner,3,"Accounting, Auditing, and Finance",0746,B,B21,70662.0,67018.23176746765,-5.156616332020617,-1,0.2882808099271941
+1106,Financial Examiner IV,Financial Examiner,4,"Accounting, Auditing, and Finance",0746,B,B23,80421.0,69294.32250560069,-13.83553735268067,-2,0.2882808099271941
+1108,Financial Examiner V,Financial Examiner,5,"Accounting, Auditing, and Finance",0746,B,B25,91835.5,78523.32806027887,-14.495670998384142,-2,0.2882808099271941
+1110,Financial Examiner VI,Financial Examiner,6,"Accounting, Auditing, and Finance",0746,B,B27,113278.0,88038.20532993368,-22.281285571837717,-3,0.2882808099271941
+1112,Financial Examiner VII,Financial Examiner,7,"Accounting, Auditing, and Finance",0746,B,B29,137066.0,95074.607245979,-30.635892748034554,-4,0.2882808099271941
+1130,Investment Analyst I,Investment Analyst,1,"Accounting, Auditing, and Finance",0749,B,B24,85869.0,80541.99183533192,-6.203645279050765,-1,0.38467205702649376
+1131,Investment Analyst II,Investment Analyst,2,"Accounting, Auditing, and Finance",0749,B,B26,102980.0,96891.04698885557,-5.912752972562021,-1,0.38467205702649376
+1132,Investment Analyst III,Investment Analyst,3,"Accounting, Auditing, and Finance",0749,B,B28,124606.0,108078.52533109693,-13.263787192352705,-1,0.38467205702649376
+1133,Investment Analyst IV,Investment Analyst,4,"Accounting, Auditing, and Finance",0749,B,B30,150773.0,124322.75144123181,-17.543093630005558,-2,0.38467205702649376
+1134,Investment Analyst V,Investment Analyst,5,"Accounting, Auditing, and Finance",0749,B,B32,182436.0,134491.00028122863,-26.280448880029912,-3,0.38467205702649376
+1135,Investment Analyst VI,Investment Analyst,6,"Accounting, Auditing, and Finance",0749,B,B34,220747.0,138093.73772443246,-37.44253026114396,-5,0.38467205702649376
+1140,Portfolio Manager I,Portfolio Manager,1,"Accounting, Auditing, and Finance",0753,B,B27,113278.0,84561.22325865916,-25.350709529953612,-3,0.29072118578499084
+1141,Portfolio Manager II,Portfolio Manager,2,"Accounting, Auditing, and Finance",0753,B,B29,137066.0,88476.88217895762,-35.44943153009677,-5,0.29072118578499084
+1142,Portfolio Manager III,Portfolio Manager,3,"Accounting, Auditing, and Finance",0753,B,B31,165850.5,105732.8000961615,-36.24812702032158,-5,0.29072118578499084
+1143,Portfolio Manager IV,Portfolio Manager,4,"Accounting, Auditing, and Finance",0753,B,B33,200679.0,117913.44075219521,-41.2427604521673,-6,0.29072118578499084
+1144,Portfolio Manager V,Portfolio Manager,5,"Accounting, Auditing, and Finance",0753,B,B35,242822.0,124579.11099697079,-48.695294908628235,-7,0.29072118578499084
+1145,Portfolio Manager VI,Portfolio Manager,6,"Accounting, Auditing, and Finance",0753,B,B36,267104.5,146840.71667763533,-45.024993334954885,-6,0.29072118578499084
+1155,Budget Analyst I,Budget Analyst,1,"Accounting, Auditing, and Finance",0756,B,B18,58288.0,63832.31939901342,9.511939677143499,1,0.1780836307421533
+1156,Budget Analyst II,Budget Analyst,2,"Accounting, Auditing, and Finance",0756,B,B20,66254.5,74462.56763726717,12.388694560018083,2,0.1780836307421533
+1157,Budget Analyst III,Budget Analyst,3,"Accounting, Auditing, and Finance",0756,B,B22,75376.0,87487.58963959117,16.068230789098926,2,0.1780836307421533
+1158,Budget Analyst IV,Budget Analyst,4,"Accounting, Auditing, and Finance",0756,B,B24,85869.0,101051.60257991479,17.68112191817158,2,0.1780836307421533
+1159,Budget Analyst V,Budget Analyst,5,"Accounting, Auditing, and Finance",0756,B,B26,102980.0,115361.98264268151,12.023677066111462,1,0.1780836307421533
+1161,Trader I,Trader,1,"Accounting, Auditing, and Finance",0760,B,B25,91835.5,91476.6249849025,-0.39078027026305573,0,0.30573720343128147
+1162,Trader II,Trader,2,"Accounting, Auditing, and Finance",0760,B,B27,113278.0,109089.67352141289,-3.6973873820045675,0,0.30573720343128147
+1163,Trader III,Trader,3,"Accounting, Auditing, and Finance",0760,B,B29,137066.0,117758.79291545336,-14.086065898579287,-2,0.30573720343128147
+1175,Chief Trader I,Chief Trader,1,"Accounting, Auditing, and Finance",0765,B,B31,165850.5,138565.30145908054,-16.451683016282367,-2,0.33664380650452175
+1176,Chief Trader II,Chief Trader,2,"Accounting, Auditing, and Finance",0765,B,B33,200679.0,154181.45955462914,-23.17010770702011,-3,0.33664380650452175
+1200,Internal Auditor I,Internal Auditor,1,"Accounting, Auditing, and Finance",0702,B,B19,62136.0,67964.4501827307,9.380150287644277,1,0.2122154656268614
+1201,Internal Auditor II,Internal Auditor,2,"Accounting, Auditing, and Finance",0702,B,B21,70662.0,73959.58459550924,4.666701473931089,1,0.2122154656268614
+1202,Internal Auditor III,Internal Auditor,3,"Accounting, Auditing, and Finance",0702,B,B23,80421.0,81556.11217575037,1.411462398814184,0,0.2122154656268614
+1203,Internal Auditor IV,Internal Auditor,4,"Accounting, Auditing, and Finance",0702,B,B25,91835.5,97048.84517882217,5.676829960987028,0,0.2122154656268614
+1204,Internal Auditor V,Internal Auditor,5,"Accounting, Auditing, and Finance",0702,B,B27,113278.0,102999.75846011018,-9.073466639497363,-1,0.2122154656268614
+1242,Reimbursement Officer I,Reimbursement Officer,1,"Accounting, Auditing, and Finance",0763,B,B12,41819.0,50672.75696531875,21.171613298545548,4,0.10797345102181888
+1244,Reimbursement Officer II,Reimbursement Officer,2,"Accounting, Auditing, and Finance",0763,B,B14,46139.0,54526.92158194825,18.179677890609405,3,0.10797345102181888
+1246,Reimbursement Officer III,Reimbursement Officer,3,"Accounting, Auditing, and Finance",0763,B,B16,51024.0,64085.409022794935,25.59855954608608,3,0.10797345102181888
+1248,Reimbursement Officer IV,Reimbursement Officer,4,"Accounting, Auditing, and Finance",0763,B,B18,58288.0,74814.38124197928,28.352973582863132,4,0.10797345102181888
+1250,Reimbursement Officer V,Reimbursement Officer,5,"Accounting, Auditing, and Finance",0763,B,B20,66254.5,79650.70270572376,20.21930994230394,3,0.10797345102181888
+1255,Reimbursement Analyst I,Reimbursement Analyst,1,"Accounting, Auditing, and Finance",0704,B,B21,70662.0,60700.56090224859,-14.097307035961984,-2,0.2638367596834881
+1256,Reimbursement Analyst II,Reimbursement Analyst,2,"Accounting, Auditing, and Finance",0704,B,B22,75376.0,66730.7648928538,-11.469479817377122,-2,0.2638367596834881
+1257,Reimbursement Analyst III,Reimbursement Analyst,3,"Accounting, Auditing, and Finance",0704,B,B23,80421.0,73676.9633044774,-8.385914991759133,-1,0.2638367596834881
+1258,Reimbursement Analyst IV,Reimbursement Analyst,4,"Accounting, Auditing, and Finance",0704,B,B24,85869.0,80886.07774446698,-5.802935000446073,-1,0.2638367596834881
+1259,Reimbursement Analyst V,Reimbursement Analyst,5,"Accounting, Auditing, and Finance",0704,B,B25,91835.5,99016.78503467866,7.819726614085763,1,0.2638367596834881
+1260,Loan Specialist I,Loan Specialist,1,"Accounting, Auditing, and Finance",0770,B,B17,53722.5,46463.51710837085,-13.51199756457567,-3,0.21815545225633717
+1261,Loan Specialist II,Loan Specialist,2,"Accounting, Auditing, and Finance",0770,B,B19,62136.0,54447.918947060694,-12.372989978336786,-2,0.21815545225633717
+1262,Loan Specialist III,Loan Specialist,3,"Accounting, Auditing, and Finance",0770,B,B21,70662.0,60087.49922101053,-14.964904445090033,-3,0.21815545225633717
+1263,Loan Specialist IV,Loan Specialist,4,"Accounting, Auditing, and Finance",0770,B,B23,80421.0,73265.57074119999,-8.897463670931742,-1,0.21815545225633717
+1264,Loan Specialist V,Loan Specialist,5,"Accounting, Auditing, and Finance",0770,B,B25,91835.5,90261.83144406794,-1.713573243388435,0,0.21815545225633717
+1280,Tax Auditor I,Tax Auditor,1,"Accounting, Auditing, and Finance",0785,B,B19,62136.0,64298.39103987956,3.480093729688938,1,0.3464986256885275
+1281,Tax Auditor II,Tax Auditor,2,"Accounting, Auditing, and Finance",0785,B,B21,70662.0,66737.88928922743,-5.55335358576408,-1,0.3464986256885275
+1282,Tax Auditor III,Tax Auditor,3,"Accounting, Auditing, and Finance",0785,B,B23,80421.0,74789.42620187935,-7.002615981050546,-1,0.3464986256885275
+1283,Tax Auditor IV,Tax Auditor,4,"Accounting, Auditing, and Finance",0785,B,B25,91835.5,78178.50849070407,-14.871146244421682,-2,0.3464986256885275
+1284,Tax Auditor V,Tax Auditor,5,"Accounting, Auditing, and Finance",0785,B,B26,102980.0,87325.86021030581,-15.201145649343694,-2,0.3464986256885275
+1285,Tax Auditor VI,Tax Auditor,6,"Accounting, Auditing, and Finance",0785,B,B27,113278.0,97590.64624107648,-13.84854407645221,-1,0.3464986256885275
+1290,Payroll Assistant,Payroll Assistant,1,"Accounting, Auditing, and Finance",0708,A,A13,43913.5,44777.19478274559,1.9668092562550605,0,0.22722290643688625
+1291,Payroll Specialist I,Payroll Specialist,1,"Accounting, Auditing, and Finance",0778,B,B15,48510.5,41563.84063315279,-14.319908817363746,-3,0.25858667120481005
+1292,Payroll Specialist II,Payroll Specialist,2,"Accounting, Auditing, and Finance",0778,B,B17,53722.5,48157.56184867124,-10.35867309103034,-2,0.25858667120481005
+1293,Payroll Specialist III,Payroll Specialist,3,"Accounting, Auditing, and Finance",0778,B,B19,62136.0,52517.74762083585,-15.479355573522898,-2,0.25858667120481005
+1294,Payroll Specialist IV,Payroll Specialist,4,"Accounting, Auditing, and Finance",0778,B,B21,70662.0,60264.82588449529,-14.713953915123762,-2,0.25858667120481005
+1295,Payroll Specialist V,Payroll Specialist,5,"Accounting, Auditing, and Finance",0778,B,B23,80421.0,69247.9354019922,-13.893217689419188,-2,0.25858667120481005
+1296,Payroll Specialist VI,Payroll Specialist,6,"Accounting, Auditing, and Finance",0778,B,B25,91835.5,85589.10478644332,-6.801721789021249,-1,0.25858667120481005
+1315,Boiler Inspector I,Boiler Inspector,1,"Compliance, Inspection, and Investigation",1010,B,B20,66254.5,57538.56560119168,-13.155233831374947,-2,0.33189389308591594
+1316,Boiler Inspector II,Boiler Inspector,2,"Compliance, Inspection, and Investigation",1010,B,B21,70662.0,67072.49812985939,-5.079819238261938,-1,0.33189389308591594
+1317,Boiler Inspector III,Boiler Inspector,3,"Compliance, Inspection, and Investigation",1010,B,B22,75376.0,77397.72243705763,2.682183237446471,0,0.33189389308591594
+132,Customer Service Representative I,Customer Service Representative,1,Administrative Support,0110,A,A11,39843.5,35486.43379374064,-10.935450465595107,-2,0.19875600040723607
+1321,Inspector I,Inspector,1,"Compliance, Inspection, and Investigation",1005,B,B12,41819.0,48240.3510162624,15.355104178154447,3,0.2556154250040456
+1322,Inspector II,Inspector,2,"Compliance, Inspection, and Investigation",1005,B,B14,46139.0,55515.93611368058,20.323232219338543,3,0.2556154250040456
+1323,Inspector III,Inspector,3,"Compliance, Inspection, and Investigation",1005,B,B16,51024.0,65035.34694576895,27.460306808107898,4,0.2556154250040456
+1324,Inspector IV,Inspector,4,"Compliance, Inspection, and Investigation",1005,B,B18,58288.0,73140.65011561867,25.481488669397905,4,0.2556154250040456
+1325,Inspector V,Inspector,5,"Compliance, Inspection, and Investigation",1005,B,B20,66254.5,82235.81476807683,24.121100858170898,3,0.2556154250040456
+1326,Inspector VI,Inspector,6,"Compliance, Inspection, and Investigation",1005,B,B22,75376.0,98033.67762423978,30.059538346741427,4,0.2556154250040456
+1327,Inspector VII,Inspector,7,"Compliance, Inspection, and Investigation",1005,B,B24,85869.0,105128.08193536704,22.42844558032236,2,0.2556154250040456
+134,Customer Service Representative II,Customer Service Representative,2,Administrative Support,0110,A,A13,43913.5,39681.855675420506,-9.636317589305143,-2,0.19875600040723607
+1351,Investigator I,Investigator,1,"Compliance, Inspection, and Investigation",1050,B,B14,46139.0,51526.22808800173,11.676083330808542,2,0.16993706853813434
+1352,Investigator II,Investigator,2,"Compliance, Inspection, and Investigation",1050,B,B16,51024.0,57068.22855780765,11.845854025179664,2,0.16993706853813434
+1353,Investigator III,Investigator,3,"Compliance, Inspection, and Investigation",1050,B,B18,58288.0,64961.72455622951,11.44956861829105,2,0.16993706853813434
+1354,Investigator IV,Investigator,4,"Compliance, Inspection, and Investigation",1050,B,B20,66254.5,74071.86126582757,11.798989149156021,2,0.16993706853813434
+1355,Investigator V,Investigator,5,"Compliance, Inspection, and Investigation",1050,B,B22,75376.0,85474.79532762969,13.397892336592177,2,0.16993706853813434
+1356,Investigator VI,Investigator,6,"Compliance, Inspection, and Investigation",1050,B,B24,85869.0,95561.60175307334,11.287661150209393,1,0.16993706853813434
+1357,Investigator VII,Investigator,7,"Compliance, Inspection, and Investigation",1050,B,B26,102980.0,96744.4395803263,-6.055117906072663,-1,0.16993706853813434
+136,Customer Service Representative III,Customer Service Representative,3,Administrative Support,0110,A,A15,48510.5,44690.18960525141,-7.875223703628325,-2,0.19875600040723607
+138,Customer Service Representative IV,Customer Service Representative,4,Administrative Support,0110,A,A17,53722.5,51877.53791982462,-3.434244646424479,-1,0.19875600040723607
+140,Customer Service Representative V,Customer Service Representative,5,Administrative Support,0110,A,A19,62136.0,59042.62043982329,-4.978401506657581,-1,0.19875600040723607
+1400,Compliance Analyst I,Compliance Analyst,1,"Compliance, Inspection, and Investigation",1485,B,B19,62136.0,52012.64771789632,-16.292249713698535,-3,0.31963713379661374
+1401,Compliance Analyst II,Compliance Analyst,2,"Compliance, Inspection, and Investigation",1485,B,B21,70662.0,62515.4772639416,-11.528859551185148,-2,0.31963713379661374
+1402,Compliance Analyst III,Compliance Analyst,3,"Compliance, Inspection, and Investigation",1485,B,B23,80421.0,74180.62373544904,-7.759635250184618,-1,0.31963713379661374
+1403,Compliance Analyst IV,Compliance Analyst,4,"Compliance, Inspection, and Investigation",1485,B,B25,91835.5,87742.68123428854,-4.456684795870222,-1,0.31963713379661374
+1404,Compliance Analyst V,Compliance Analyst,5,"Compliance, Inspection, and Investigation",1485,B,B27,113278.0,105398.5456554619,-6.955855810076201,-1,0.31963713379661374
+1410,Quality Assurance Specialist I,Quality Assurance Specialist,1,"Compliance, Inspection, and Investigation",2576,B,B17,53722.5,57840.158427521026,7.664681330021897,1,0.2605162501372612
+1411,Quality Assurance Specialist II,Quality Assurance Specialist,2,"Compliance, Inspection, and Investigation",2576,B,B18,58288.0,64447.449229355916,10.567268098675365,2,0.2605162501372612
+1412,Quality Assurance Specialist III,Quality Assurance Specialist,3,"Compliance, Inspection, and Investigation",2576,B,B20,66254.5,77164.2357491465,16.466407186148114,2,0.2605162501372612
+1413,Quality Assurance Specialist IV,Quality Assurance Specialist,4,"Compliance, Inspection, and Investigation",2576,B,B22,75376.0,90071.93023024472,19.496829534924583,3,0.2605162501372612
+150,Administrative Assistant I,Administrative Assistant,1,Administrative Support,0145,A,A9,35320.0,38207.82726286878,8.176181378450755,1,0.24657868119730744
+152,Administrative Assistant II,Administrative Assistant,2,Administrative Support,0145,A,A11,39843.5,41927.23569183602,5.2298008253190265,1,0.24657868119730744
+154,Administrative Assistant III,Administrative Assistant,3,Administrative Support,0145,A,A13,43913.5,48897.91270626326,11.350524795935744,2,0.24657868119730744
+1550,Staff Services Officer I,Staff Services Officer,1,Program Management,2210,B,B17,53722.5,50465.643946968674,-6.062368752443273,-1,0.2644786757937987
+1551,Staff Services Officer II,Staff Services Officer,2,Program Management,2210,B,B18,58288.0,55275.87661208195,-5.167656100600582,-1,0.2644786757937987
+1552,Staff Services Officer III,Staff Services Officer,3,Program Management,2210,B,B19,62136.0,59226.60135782791,-4.682307586861292,-1,0.2644786757937987
+1553,Staff Services Officer IV,Staff Services Officer,4,Program Management,2210,B,B20,66254.5,69068.61452714403,4.247431536188539,1,0.2644786757937987
+1554,Staff Services Officer V,Staff Services Officer,5,Program Management,2210,B,B21,70662.0,77058.79881459335,9.052671612172455,1,0.2644786757937987
+1555,Staff Services Officer VI,Staff Services Officer,6,Program Management,2210,B,B23,80421.0,83346.86592843785,3.638186454331377,1,0.2644786757937987
+1558,Project Manager I,Project Manager,1,Program Management,2215,B,B20,66254.5,73631.51741621322,11.134364331801208,2,0.22365918860216744
+1559,Project Manager II,Project Manager,2,Program Management,2215,B,B22,75376.0,79154.59822443666,5.012999130275795,1,0.22365918860216744
+156,Administrative Assistant IV,Administrative Assistant,4,Administrative Support,0145,A,A15,48510.5,54852.76630111138,13.074007279066041,2,0.24657868119730744
+1560,Project Manager III,Project Manager,3,Program Management,2215,B,B24,85869.0,82837.30395376093,-3.5306059768241034,-1,0.22365918860216744
+1561,Project Manager IV,Project Manager,4,Program Management,2215,B,B26,102980.0,97362.31869538725,-5.455118765403652,0,0.22365918860216744
+1562,Project Manager V,Project Manager,5,Program Management,2215,B,B28,124606.0,113696.87840292518,-8.754892699448463,-1,0.22365918860216744
+1570,Program Specialist I,Program Specialist,1,Program Management,2235,B,B17,53722.5,58221.12441168495,8.373818068192898,1,0.18467380758658314
+1571,Program Specialist II,Program Specialist,2,Program Management,2235,B,B18,58288.0,63050.83503749776,8.171210261971153,1,0.18467380758658314
+1572,Program Specialist III,Program Specialist,3,Program Management,2235,B,B19,62136.0,65975.3796966821,6.178993975605198,1,0.18467380758658314
+1573,Program Specialist IV,Program Specialist,4,Program Management,2235,B,B20,66254.5,78688.16339238164,18.76651909286411,3,0.18467380758658314
+1574,Program Specialist V,Program Specialist,5,Program Management,2235,B,B21,70662.0,84216.29026846867,19.181866163522994,3,0.18467380758658314
+1575,Program Specialist VI,Program Specialist,6,Program Management,2235,B,B23,80421.0,91321.97049620049,13.55488056129677,2,0.18467380758658314
+1576,Program Specialist VII,Program Specialist,7,Program Management,2235,B,B25,91835.5,98610.88026029633,7.37773547298855,1,0.18467380758658314
+158,Administrative Assistant V,Administrative Assistant,5,Administrative Support,0145,A,A17,53722.5,61867.93521885212,15.162055412261354,2,0.24657868119730744
+1581,Program Supervisor I,Program Supervisor,1,Program Management,2240,B,B18,58288.0,64501.37902195292,10.659791075269176,2,0.1940691514653942
+1582,Program Supervisor II,Program Supervisor,2,Program Management,2240,B,B19,62136.0,67990.8536244029,9.422643273469232,1,0.1940691514653942
+1583,Program Supervisor III,Program Supervisor,3,Program Management,2240,B,B20,66254.5,70915.4253305213,7.034881148482467,1,0.1940691514653942
+1584,Program Supervisor IV,Program Supervisor,4,Program Management,2240,B,B21,70662.0,74368.26212361951,5.24505692397534,1,0.1940691514653942
+1586,Program Supervisor V,Program Supervisor,5,Program Management,2240,B,B23,80421.0,80430.85700100675,0.012256750110962753,0,0.1940691514653942
+1588,Program Supervisor VI,Program Supervisor,6,Program Management,2240,B,B25,91835.5,89238.85557815354,-2.827495273446976,0,0.1940691514653942
+1589,Program Supervisor VII,Program Supervisor,7,Program Management,2240,B,B26,102980.0,108095.24684082605,4.9672235781958785,1,0.1940691514653942
+159,Administrative Assistant VI,Administrative Assistant,6,Administrative Support,0145,A,A19,62136.0,68148.03901857669,9.675613201005282,1,0.24657868119730744
+160,Executive Assistant I,Executive Assistant,1,Administrative Support,0150,B,B17,53722.5,59589.45453955435,10.920851672119374,1,0.6364336507730208
+1600,Manager I,Manager,1,Program Management,0769,B,B22,75376.0,88280.71871651706,17.12046104398892,2,0.22148134937295005
+1601,Manager II,Manager,2,Program Management,0769,B,B23,80421.0,95604.98697127897,18.880624428046104,2,0.22148134937295005
+1602,Manager III,Manager,3,Program Management,0769,B,B24,85869.0,100575.31214144359,17.126450921104887,2,0.22148134937295005
+1603,Manager IV,Manager,4,Program Management,0769,B,B25,91835.5,117818.65827530324,28.293152729939212,2,0.22148134937295005
+1604,Manager V,Manager,5,Program Management,0769,B,B26,102980.0,128901.3883470709,25.171284081443957,2,0.22148134937295005
+1605,Manager VI,Manager,6,Program Management,0769,B,B27,113278.0,145985.11085102696,28.873312426973403,3,0.22148134937295005
+1606,Manager VII,Manager,7,Program Management,0769,B,B28,124606.0,152762.5343518434,22.596451496592064,2,0.22148134937295005
+1607,Manager VIII,Manager,8,Program Management,0769,B,B29,137066.0,144673.16148838392,5.5499988971618475,1,0.22148134937295005
+162,Executive Assistant II,Executive Assistant,2,Administrative Support,0150,B,B19,62136.0,68632.93148692214,10.455986041782692,2,0.6364336507730208
+1620,Director I,Director,1,Program Management,2250,B,B26,102980.0,135827.70053601,31.897165018459972,3,0.3216635147403103
+1621,Director II,Director,2,Program Management,2250,B,B27,113278.0,135237.40403950686,19.38540938179245,2,0.3216635147403103
+1622,Director III,Director,3,Program Management,2250,B,B28,124606.0,133962.02680776914,7.5084882010250205,1,0.3216635147403103
+1623,Director IV,Director,4,Program Management,2250,B,B29,137066.0,137940.86852759816,0.6382826722878718,0,0.3216635147403103
+1624,Director V,Director,5,Program Management,2250,B,B30,150773.0,140909.38964178457,-6.542026993039551,-1,0.3216635147403103
+1625,Director VI,Director,6,Program Management,2250,B,B31,165850.5,148636.01503158803,-10.379519487979776,-1,0.3216635147403103
+1626,Director VII,Director,7,Program Management,2250,B,B32,182436.0,149601.4084523231,-17.99786859374075,-2,0.3216635147403103
+1627,Director VIII,Director,8,Program Management,2250,B,B33,200679.0,143361.1905009339,-28.56193697350801,-4,0.3216635147403103
+1630,Deputy Director I,Deputy Director,1,Program Management,2255,B,B33,200679.0,139985.2372260475,-30.24420232009953,-4,0.4998090353353458
+1631,Deputy Director II,Deputy Director,2,Program Management,2255,B,B34,220747.0,142328.91152489738,-35.52396565982891,-5,0.4998090353353458
+1632,Deputy Director III,Deputy Director,3,Program Management,2255,B,B35,242822.0,145941.47008867704,-39.89775634469818,-5,0.4998090353353458
+1633,Deputy Director IV,Deputy Director,4,Program Management,2255,B,B36,267104.5,152595.77670907375,-42.87038342331416,-6,0.4998090353353458
+164,Executive Assistant III,Executive Assistant,3,Administrative Support,0150,B,B21,70662.0,71642.77706177977,1.3879837278589822,0,0.6364336507730208
+1640,Deputy Comptroller,Deputy Comptroller,1,Program Management,2270,B,B36,267104.5,144655.59083719098,-45.843072341652395,-6,0.6576341919650421
+1641,Associate Deputy Attorney General,Associate Deputy Attorney General,1,Program Management,2288,B,B33,200679.0,178611.25020506606,-10.996541638603935,-1,0.3955542030145772
+1642,Deputy Attorney General,Deputy Attorney General,1,Program Management,2288,B,B35,242822.0,185082.32403594753,-23.77860159460532,-3,0.3772655558384612
+1643,Deputy First Assistant Attorney General,Deputy First Assistant Attorney General,1,Program Management,2290,B,B36,267104.5,202596.46226478578,-24.150861455053764,-3,0.3751365711985393
+1644,First Assistant Attorney General,First Assistant Attorney General,1,Program Management,2295,B,B37,287500.0,198565.20500078873,-30.93384173885609,-4,0.4069684786882527
+1650,Portfolio Project Manager I,Portfolio Project Manager,1,Program Management,2275,B,B29,137066.0,106997.122506593,-21.93751732260885,-3,0.2238881222360786
+1652,Portfolio Project Manager II,Portfolio Project Manager,2,Program Management,2275,B,B31,165850.5,117698.62973759492,-29.03329821882058,-4,0.2238881222360786
+166,Executive Assistant IV,Executive Assistant,4,Administrative Support,0150,B,B23,80421.0,85564.97923127859,6.396313439622199,1,0.6364336507730208
+1660,Project Management Specialist I,Project Management Specialist,1,Program Management,2280,B,B20,66254.5,71403.91291891244,7.7721708244910825,1,0.25415595529812857
+1661,Project Management Specialist II,Project Management Specialist,2,Program Management,2280,B,B22,75376.0,79828.60501900231,5.9071919695955435,1,0.25415595529812857
+1662,Project Management Specialist III,Project Management Specialist,3,Program Management,2280,B,B24,85869.0,92518.03144080956,7.74322682319525,1,0.25415595529812857
+1670,Program Management Specialist I,Program Management Specialist,1,Program Management,2281,B,B25,91835.5,74330.83705470178,-19.060889247946776,-3,0.20135624025980217
+1671,Program Management Specialist II,Program Management Specialist,2,Program Management,2281,B,B26,102980.0,79896.94935216174,-22.415081227265695,-3,0.20135624025980217
+1672,Program Management Specialist III,Program Management Specialist,3,Program Management,2281,B,B27,113278.0,90498.84547032978,-20.109071955428444,-2,0.20135624025980217
+1673,Program Management Specialist IV,Program Management Specialist,4,Program Management,2281,B,B28,124606.0,100686.91546614528,-19.195772702642465,-2,0.20135624025980217
+1680,Agile Scrum Master I,Agile Scrum Master,1,Program Management,2283,B,B26,102980.0,98658.76091009218,-4.196192551862259,0,0.2631152173797861
+1681,Agile Scrum Master II,Agile Scrum Master,2,Program Management,2283,B,B28,124606.0,108956.59681463915,-12.559108859413504,-1,0.2631152173797861
+1685,Management Analyst I,Management Analyst,1,Program Management,2120,B,B19,62136.0,72083.94469343143,16.00995347854928,2,0.2635835282891129
+1686,Management Analyst II,Management Analyst,2,Program Management,2120,B,B21,70662.0,78380.19041052883,10.922688871711484,2,0.2635835282891129
+1687,Management Analyst III,Management Analyst,3,Program Management,2120,B,B23,80421.0,94265.54211091434,17.215083262971522,2,0.2635835282891129
+1688,Management Analyst IV,Management Analyst,4,Program Management,2120,B,B25,91835.5,111137.08071840812,21.01755935167578,2,0.2635835282891129
+1689,Management Analyst V,Management Analyst,5,Program Management,2120,B,B27,113278.0,119754.77324406097,5.717591451174057,1,0.2635835282891129
+1695,Policy Analyst I,Policy Analyst,1,Program Management,2205,B,B21,70662.0,83743.63546158813,18.51297084937883,3,0.23656270337191102
+1696,Policy Analyst II,Policy Analyst,2,Program Management,2205,B,B23,80421.0,94407.45419613417,17.39154474096836,2,0.23656270337191102
+1697,Policy Analyst III,Policy Analyst,3,Program Management,2205,B,B25,91835.5,107400.81932902097,16.94913114103049,1,0.23656270337191102
+171,License and Permit Specialist I,License and Permit Specialist,1,Administrative Support,0155,B,B14,46139.0,47389.22132159671,2.7096844786335508,1,0.2401398110183152
+172,License and Permit Specialist II,License and Permit Specialist,2,Administrative Support,0155,B,B16,51024.0,52841.04153158788,3.561150696903223,1,0.2401398110183152
+1727,Human Resources Assistant,Human Resources Assistant,1,Human Resources and Training and Development,0810,B,B14,46139.0,49606.58515018572,7.515518650568365,1,0.33534788870482596
+1729,Human Resources Specialist I,Human Resources Specialist,1,Human Resources and Training and Development,0820,B,B16,51024.0,49336.40706961724,-3.3074492991195137,-1,0.2261141801195207
+173,License and Permit Specialist III,License and Permit Specialist,3,Administrative Support,0155,B,B18,58288.0,61163.08016401368,4.932542142488443,1,0.2401398110183152
+1731,Human Resources Specialist II,Human Resources Specialist,2,Human Resources and Training and Development,0820,B,B18,58288.0,53874.59151585709,-7.571727429561694,-1,0.2261141801195207
+1733,Human Resources Specialist III,Human Resources Specialist,3,Human Resources and Training and Development,0820,B,B20,66254.5,63087.240111077386,-4.7804449341895365,-1,0.2261141801195207
+1735,Human Resources Specialist IV,Human Resources Specialist,4,Human Resources and Training and Development,0820,B,B22,75376.0,69422.72241468381,-7.898107600981966,-1,0.2261141801195207
+1737,Human Resources Specialist V,Human Resources Specialist,5,Human Resources and Training and Development,0820,B,B24,85869.0,76483.62620664776,-10.929874335734974,-2,0.2261141801195207
+1739,Human Resources Specialist VI,Human Resources Specialist,6,Human Resources and Training and Development,0820,B,B26,102980.0,92348.06685367714,-10.324269903207227,-1,0.2261141801195207
+174,License and Permit Specialist IV,License and Permit Specialist,4,Administrative Support,0155,B,B20,66254.5,62374.54106313902,-5.856144015668327,-1,0.2401398110183152
+175,License and Permit Specialist V,License and Permit Specialist,5,Administrative Support,0155,B,B22,75376.0,74161.05298716547,-1.6118486160508654,0,0.2401398110183152
+1780,Training and Development Assistant,Training and Development Assistant,1,Human Resources and Training and Development,0860,B,B13,43913.5,45060.54442662656,2.612054212546356,1,0.230631261676758
+1781,Training and Development Specialist I,Training and Development Specialist,1,Human Resources and Training and Development,0850,B,B15,48510.5,50748.48447282062,4.613402197092552,1,0.22367365126254368
+1782,Training and Development Specialist II,Training and Development Specialist,2,Human Resources and Training and Development,0850,B,B17,53722.5,57339.85668541478,6.733410927292592,1,0.22367365126254368
+1783,Training and Development Specialist III,Training and Development Specialist,3,Human Resources and Training and Development,0850,B,B19,62136.0,63110.129176312934,1.5677371834570746,0,0.22367365126254368
+1784,Training and Development Specialist IV,Training and Development Specialist,4,Human Resources and Training and Development,0850,B,B21,70662.0,74316.7761616666,5.172194618984101,1,0.22367365126254368
+1785,Training and Development Specialist V,Training and Development Specialist,5,Human Resources and Training and Development,0850,B,B23,80421.0,77530.01685425489,-3.594811238041198,-1,0.22367365126254368
+1786,Training and Development Specialist VI,Training and Development Specialist,6,Human Resources and Training and Development,0850,B,B25,91835.5,95891.0662196294,4.41612036699258,0,0.22367365126254368
+1790,E-Learning Developer I,E-Learning Developer,1,Human Resources and Training and Development,0840,B,B21,70662.0,69421.12563079013,-1.7560702629559142,0,0.1957794830799074
+1791,E-Learning Developer II,E-Learning Developer,2,Human Resources and Training and Development,0840,B,B23,80421.0,79093.80109999892,-1.6503138483742925,0,0.1957794830799074
+1792,E-Learning Developer III,E-Learning Developer,3,Human Resources and Training and Development,0840,B,B25,91835.5,87348.7484689221,-4.88563957410569,-1,0.1957794830799074
+180,Document Services Technician I,Document Services Technician,1,Administrative Support,1950,A,A10,36740.5,41276.83528285629,12.34696120862884,2,0.18262726578142388
+1800,Intelligent Transportation Systems Operations Technician I,Intelligent Transportation Systems Operations Technician,1,Information and Communication,2160,B,B15,48510.5,62192.78120184674,28.20478288586325,4,0.1733440270837766
+1802,Intelligent Transportation Systems Operations Technician II,Intelligent Transportation Systems Operations Technician,2,Information and Communication,2160,B,B17,53722.5,63588.20301991889,18.364191949218426,2,0.1733440270837766
+1804,Intelligent Transportation Systems Operations Technician III,Intelligent Transportation Systems Operations Technician,3,Information and Communication,2160,B,B19,62136.0,65898.10685309625,6.054633148410262,1,0.1733440270837766
+1806,Intelligent Transportation Systems Operations Technician IV,Intelligent Transportation Systems Operations Technician,4,Information and Communication,2160,B,B21,70662.0,67975.37180174673,-3.8020834370005336,-1,0.1733440270837766
+181,Document Services Technician II,Document Services Technician,2,Administrative Support,1950,A,A12,41819.0,44115.844773233955,5.4923474335444675,1,0.18262726578142388
+1810,Creative Media Designer I,Creative Media Designer,1,Information and Communication,0665,B,B17,53722.5,68184.05550703988,26.918992055544454,3,0.19896387130292376
+1812,Creative Media Designer II,Creative Media Designer,2,Information and Communication,0665,B,B19,62136.0,74350.11569755677,19.657067879420488,3,0.19896387130292376
+1814,Creative Media Designer III,Creative Media Designer,3,Information and Communication,0665,B,B21,70662.0,86438.77940324538,22.327105662513556,3,0.19896387130292376
+1816,Creative Media Designer IV,Creative Media Designer,4,Information and Communication,0665,B,B23,80421.0,90904.0645243648,13.035232743145178,2,0.19896387130292376
+1818,Creative Media Designer V,Creative Media Designer,5,Information and Communication,0665,B,B25,91835.5,99321.07270690799,8.1510665340833,1,0.19896387130292376
+182,Document Services Technician III,Document Services Technician,3,Administrative Support,1950,A,A14,46139.0,51382.34832648675,11.364243539059734,2,0.18262726578142388
+1822,Marketing Specialist I,Marketing Specialist,1,Information and Communication,2105,B,B16,51024.0,49017.895796388315,-3.93168744828251,-1,0.20468777571147806
+1823,Marketing Specialist II,Marketing Specialist,2,Information and Communication,2105,B,B18,58288.0,54648.25597602011,-6.244413985691575,-1,0.20468777571147806
+1824,Marketing Specialist III,Marketing Specialist,3,Information and Communication,2105,B,B20,66254.5,55864.01786679925,-15.682681377416992,-3,0.20468777571147806
+1825,Marketing Specialist IV,Marketing Specialist,4,Information and Communication,2105,B,B22,75376.0,74288.57683861387,-1.442664988041434,0,0.20468777571147806
+1826,Marketing Specialist V,Marketing Specialist,5,Information and Communication,2105,B,B24,85869.0,88975.26844305942,3.61745035234998,1,0.20468777571147806
+183,Document Services Technician IV,Document Services Technician,4,Administrative Support,1950,A,A16,51024.0,55016.63842184732,7.825020425382835,1,0.18262726578142388
+1830,Information Specialist I,Information Specialist,1,Information and Communication,2110,B,B16,51024.0,57524.236469792704,12.739566615304026,2,0.16770697283115202
+1831,Information Specialist II,Information Specialist,2,Information and Communication,2110,B,B18,58288.0,65404.837758109505,12.209782044519427,2,0.16770697283115202
+1832,Information Specialist III,Information Specialist,3,Information and Communication,2110,B,B20,66254.5,73910.60303222663,11.555597026959129,2,0.16770697283115202
+1833,Information Specialist IV,Information Specialist,4,Information and Communication,2110,B,B22,75376.0,84369.87200680768,11.932010197951225,2,0.16770697283115202
+1834,Information Specialist V,Information Specialist,5,Information and Communication,2110,B,B24,85869.0,95001.22529605475,10.635066550273924,1,0.16770697283115202
+184,Document Services Technician V,Document Services Technician,5,Administrative Support,1950,A,A18,58288.0,58185.28276914701,-0.1762236323994753,0,0.18262726578142388
+1840,Multimedia Technician I,Multimedia Technician,1,Information and Communication,2150,A,A11,39843.5,39875.52572062338,0.08037878354901468,0,0.17591890392238527
+1841,Multimedia Technician II,Multimedia Technician,2,Information and Communication,2150,A,A13,43913.5,42377.35745049859,-3.498110033364293,-1,0.17591890392238527
+1842,Multimedia Technician III,Multimedia Technician,3,Information and Communication,2150,A,A15,48510.5,48141.21135461372,-0.7612550795937292,0,0.17591890392238527
+1843,Multimedia Technician IV,Multimedia Technician,4,Information and Communication,2150,A,A17,53722.5,58305.43948450451,8.530763617673214,1,0.17591890392238527
+1850,Multimedia Specialist I,Multimedia Specialist,1,Information and Communication,2165,B,B20,66254.5,59694.05863107338,-9.901880429143104,-2,0.30203725027063016
+1851,Multimedia Specialist II,Multimedia Specialist,2,Information and Communication,2165,B,B22,75376.0,70623.36110099187,-6.305241587518716,-1,0.30203725027063016
+1852,Multimedia Specialist III,Multimedia Specialist,3,Information and Communication,2165,B,B24,85869.0,76278.39413535461,-11.168880346394412,-2,0.30203725027063016
+1870,Technical Writer I,Technical Writer,1,Information and Communication,2135,B,B19,62136.0,60899.211418005885,-1.9904541360791734,0,0.18412807700352454
+1871,Technical Writer II,Technical Writer,2,Information and Communication,2135,B,B21,70662.0,71227.60391487875,0.8004357573783708,0,0.18412807700352454
+1872,Technical Writer III,Technical Writer,3,Information and Communication,2135,B,B23,80421.0,78395.19925313203,-2.5189947238507044,0,0.18412807700352454
+1873,Technical Writer IV,Technical Writer,4,Information and Communication,2135,B,B25,91835.5,88653.74788589084,-3.4646211041580783,-1,0.18412807700352454
+1875,Editor I,Editor,1,Information and Communication,2125,B,B18,58288.0,59862.46792529628,2.7011870801816262,0,0.26206917774591953
+1876,Editor II,Editor,2,Information and Communication,2125,B,B20,66254.5,69238.8970865038,4.504444356992809,1,0.26206917774591953
+1877,Editor III,Editor,3,Information and Communication,2125,B,B22,75376.0,75821.85419284817,0.5915068361921564,0,0.26206917774591953
+1878,Editor IV,Editor,4,Information and Communication,2125,B,B24,85869.0,92773.29897747416,8.040502366947479,1,0.26206917774591953
+1880,Governor's Advisor I,Governor's Advisor,1,Information and Communication,2130,B,B23,80421.0,75990.97664905342,-5.508540494331805,-1,0.19023068505464502
+1881,Governor's Advisor II,Governor's Advisor,2,Information and Communication,2130,B,B25,91835.5,82329.83469759021,-10.350752489407396,-2,0.19023068505464502
+1882,Governor's Advisor III,Governor's Advisor,3,Information and Communication,2130,B,B27,113278.0,97184.24299698256,-14.20731033653265,-2,0.19023068505464502
+1883,Governor's Advisor IV,Governor's Advisor,4,Information and Communication,2130,B,B29,137066.0,113093.68384784253,-17.48961533287432,-2,0.19023068505464502
+1884,Governor's Advisor V,Governor's Advisor,5,Information and Communication,2130,B,B31,165850.5,126141.85308665055,-23.942434248524666,-3,0.19023068505464502
+1890,Government Relations Specialist I,Government Relations Specialist,1,Information and Communication,2145,B,B23,80421.0,73899.76331975286,-8.108872906637748,-1,0.3286396573699722
+1892,Government Relations Specialist II,Government Relations Specialist,2,Information and Communication,2145,B,B25,91835.5,92092.84025626506,0.28021871309583807,0,0.3286396573699722
+1894,Government Relations Specialist III,Government Relations Specialist,3,Information and Communication,2145,B,B27,113278.0,107080.92157963912,-5.470681350624915,-1,0.3286396573699722
+1897,Privacy Analyst I,Privacy Analyst,1,Information and Communication,2155,B,B21,70662.0,66329.06465401372,-6.131917219985743,-1,0.2254610188068753
+1898,Privacy Analyst II,Privacy Analyst,2,Information and Communication,2155,B,B23,80421.0,82418.00451306243,2.483187865187478,0,0.2254610188068753
+1899,Privacy Analyst III,Privacy Analyst,3,Information and Communication,2155,B,B25,91835.5,97588.3212394425,6.264267346987368,1,0.2254610188068753
+190,Agenda Coordinator,Agenda Coordinator,1,Administrative Support,0160,B,B20,66254.5,98121.17689236297,48.097377374160224,6,0.6610685706059013
+1911,Inventory and Store Specialist I,Inventory and Store Specialist,1,Property Management and Procurement,2345,A,A11,39843.5,45698.95329152813,14.69613184466248,3,0.3002668719815793
+1912,Inventory and Store Specialist II,Inventory and Store Specialist,2,Property Management and Procurement,2345,A,A13,43913.5,50289.238283463565,14.518857033630983,3,0.3002668719815793
+1913,Inventory and Store Specialist III,Inventory and Store Specialist,3,Property Management and Procurement,2345,A,A15,48510.5,58673.70355723377,20.950523200613734,3,0.3002668719815793
+1914,Inventory and Store Specialist IV,Inventory and Store Specialist,4,Property Management and Procurement,2345,A,A17,53722.5,64124.601610085396,19.362653655517484,2,0.3002668719815793
+1915,Inventory and Store Specialist V,Inventory and Store Specialist,5,Property Management and Procurement,2345,A,A19,62136.0,70822.50466505876,13.979825970546402,2,0.3002668719815793
+1919,Grant Specialist I,Grant Specialist,1,Property Management and Procurement,2355,B,B17,53722.5,65429.6339620225,21.791863673549216,3,0.20571528080743037
+1920,Grant Specialist II,Grant Specialist,2,Property Management and Procurement,2355,B,B19,62136.0,73474.05644410854,18.247161780784875,3,0.20571528080743037
+1921,Grant Specialist III,Grant Specialist,3,Property Management and Procurement,2355,B,B21,70662.0,86002.43560616052,21.709597246271628,3,0.20571528080743037
+1922,Grant Specialist IV,Grant Specialist,4,Property Management and Procurement,2355,B,B23,80421.0,99953.8350941903,24.288227072767434,3,0.20571528080743037
+1923,Grant Specialist V,Grant Specialist,5,Property Management and Procurement,2355,B,B25,91835.5,108798.17197263772,18.47071336535196,2,0.20571528080743037
+1930,Purchaser I,Purchaser,1,Property Management and Procurement,2315,B,B13,43913.5,53395.252037107355,21.591884129270795,4,0.2521835459589608
+1931,Purchaser II,Purchaser,2,Property Management and Procurement,2315,B,B15,48510.5,56286.463175557394,16.02944347215006,3,0.2521835459589608
+1932,Purchaser III,Purchaser,3,Property Management and Procurement,2315,B,B17,53722.5,63188.85987486365,17.62084764272629,2,0.2521835459589608
+1933,Purchaser IV,Purchaser,4,Property Management and Procurement,2315,B,B19,62136.0,75905.10660824459,22.15962824810825,3,0.2521835459589608
+1934,Purchaser V,Purchaser,5,Property Management and Procurement,2315,B,B21,70662.0,83198.71788403131,17.741810144110342,3,0.2521835459589608
+1935,Purchaser VI,Purchaser,6,Property Management and Procurement,2315,B,B23,80421.0,84954.2282613197,5.636871291478209,1,0.2521835459589608
+1936,Purchaser VII,Purchaser,7,Property Management and Procurement,2315,B,B25,91835.5,106661.98256763896,16.14460918450822,1,0.2521835459589608
+1960,Contract Administration Manager I,Contract Administration Manager,1,Property Management and Procurement,2335,B,B26,102980.0,92804.3493766012,-9.881191127790581,-1,0.21791622161972132
+1962,Contract Administration Manager II,Contract Administration Manager,2,Property Management and Procurement,2335,B,B28,124606.0,104198.15652963844,-16.37789791050311,-2,0.21791622161972132
+1974,Contract Technician,Contract Technician,1,Property Management and Procurement,2325,A,A13,43913.5,55449.536221938055,26.269908392494397,4,0.1988816340869469
+1976,Contract Specialist I,Contract Specialist,1,Property Management and Procurement,2330,B,B16,51024.0,62613.14806530843,22.713131203567844,3,0.3491612456796771
+1980,Contract Specialist II,Contract Specialist,2,Property Management and Procurement,2330,B,B18,58288.0,73806.10391244327,26.623153843747005,4,0.3491612456796771
+1982,Contract Specialist III,Contract Specialist,3,Property Management and Procurement,2330,B,B20,66254.5,86673.55087348523,30.81911549175564,4,0.3491612456796771
+1984,Contract Specialist IV,Contract Specialist,4,Property Management and Procurement,2330,B,B22,75376.0,94536.60452089462,25.42003359278106,3,0.3491612456796771
+1986,Contract Specialist V,Contract Specialist,5,Property Management and Procurement,2330,B,B24,85869.0,110008.10241440183,28.11154481175023,3,0.3491612456796771
+1990,Property Manager I,Property Manager,1,Property Management and Procurement,2320,B,B18,58288.0,49029.14573115215,-15.884666258660204,-3,0.3137321736429907
+1992,Property Manager II,Property Manager,2,Property Management and Procurement,2320,B,B20,66254.5,59803.8482275437,-9.73617153922571,-2,0.3137321736429907
+1994,Property Manager III,Property Manager,3,Property Management and Procurement,2320,B,B22,75376.0,70226.20624073334,-6.832139884401711,-1,0.3137321736429907
+1995,Property Manager IV,Property Manager,4,Property Management and Procurement,2320,B,B24,85869.0,86897.9031832144,1.1982242523080187,0,0.3137321736429907
+1996,Fleet Manager I,Fleet Manager,1,Property Management and Procurement,2350,B,B18,58288.0,55818.4921219534,-4.23673462470253,-1,0.2834126484425675
+1997,Fleet Manager II,Fleet Manager,2,Property Management and Procurement,2350,B,B20,66254.5,64433.559820506794,-2.7484022662508965,0,0.2834126484425675
+1998,Fleet Manager III,Fleet Manager,3,Property Management and Procurement,2350,B,B22,75376.0,78948.7639516327,4.739922457589584,1,0.2834126484425675
+1999,Fleet Manager IV,Fleet Manager,4,Property Management and Procurement,2350,B,B24,85869.0,98541.47010102087,14.757910422877687,2,0.2834126484425675
+2054,Land Surveyor I,Land Surveyor,1,"Land Surveying, Appraising, and Utilities",1205,B,B21,70662.0,55058.357374281186,-22.082084608019663,-4,0.20671656979480885
+2056,Land Surveyor II,Land Surveyor,2,"Land Surveying, Appraising, and Utilities",1205,B,B23,80421.0,67183.64410198644,-16.46007373448921,-3,0.20671656979480885
+2058,Land Surveyor III,Land Surveyor,3,"Land Surveying, Appraising, and Utilities",1205,B,B25,91835.5,82210.87062122842,-10.480292891933427,-2,0.20671656979480885
+2062,Appraiser I,Appraiser,1,"Land Surveying, Appraising, and Utilities",1215,B,B17,53722.5,60407.965551237176,12.444442368164479,2,0.2632829289930571
+2064,Appraiser II,Appraiser,2,"Land Surveying, Appraising, and Utilities",1215,B,B19,62136.0,69901.92344643302,12.49826742376879,2,0.2632829289930571
+2065,Appraiser III,Appraiser,3,"Land Surveying, Appraising, and Utilities",1215,B,B21,70662.0,83658.29575004778,18.392199131142227,3,0.2632829289930571
+2066,Appraiser IV,Appraiser,4,"Land Surveying, Appraising, and Utilities",1215,B,B23,80421.0,96388.96489443706,19.855466724409094,2,0.2632829289930571
+2067,Appraiser V,Appraiser,5,"Land Surveying, Appraising, and Utilities",1215,B,B25,91835.5,105743.2113575756,15.144155971901585,1,0.2632829289930571
+2070,Real Estate Specialist I,Real Estate Specialist,1,"Land Surveying, Appraising, and Utilities",1250,B,B24,85869.0,67117.32742596576,-21.837534586444775,-4,0.205887681392353
+2071,Real Estate Specialist II,Real Estate Specialist,2,"Land Surveying, Appraising, and Utilities",1250,B,B26,102980.0,81340.24901889556,-21.013547272387246,-3,0.205887681392353
+2082,Right of Way Agent I,Right of Way Agent,1,"Land Surveying, Appraising, and Utilities",1220,B,B16,51024.0,63634.20557616068,24.714263045156613,3,0.29424315319186295
+2084,Right of Way Agent II,Right of Way Agent,2,"Land Surveying, Appraising, and Utilities",1220,B,B18,58288.0,74441.90858985671,27.713952425639405,4,0.29424315319186295
+2086,Right of Way Agent III,Right of Way Agent,3,"Land Surveying, Appraising, and Utilities",1220,B,B20,66254.5,86638.2183071769,30.7657869385127,4,0.29424315319186295
+2088,Right of Way Agent IV,Right of Way Agent,4,"Land Surveying, Appraising, and Utilities",1220,B,B22,75376.0,95279.07632224228,26.405057740185615,3,0.29424315319186295
+2090,Right of Way Agent V,Right of Way Agent,5,"Land Surveying, Appraising, and Utilities",1220,B,B24,85869.0,105918.84156269,23.349336271168834,2,0.29424315319186295
+2091,Right of Way Agent VI,Right of Way Agent,6,"Land Surveying, Appraising, and Utilities",1220,B,B26,102980.0,110242.76679120398,7.052599331136189,1,0.29424315319186295
+2093,Utility Specialist I,Utility Specialist,1,"Land Surveying, Appraising, and Utilities",1235,B,B21,70662.0,60527.079861990605,-14.342815286871923,-2,0.12959057547018316
+2094,Utility Specialist II,Utility Specialist,2,"Land Surveying, Appraising, and Utilities",1235,B,B23,80421.0,72420.78887038829,-9.947913019748214,-2,0.12959057547018316
+2100,Minerals Specialist I,Minerals Specialist,1,"Land Surveying, Appraising, and Utilities",1240,B,B22,75376.0,64814.74647396118,-14.011427411959765,-2,0.2034847471354319
+2101,Minerals Specialist II,Minerals Specialist,2,"Land Surveying, Appraising, and Utilities",1240,B,B24,85869.0,81372.81102691406,-5.23610263667442,-1,0.2034847471354319
+2102,Minerals Specialist III,Minerals Specialist,3,"Land Surveying, Appraising, and Utilities",1240,B,B26,102980.0,92345.46436366734,-10.326797083251703,-1,0.2034847471354319
+2106,Survey Technician I,Survey Technician,1,"Land Surveying, Appraising, and Utilities",1245,A,A18,58288.0,51455.99586966444,-11.721116062200746,-2,0.15495417838731582
+2107,Survey Technician II,Survey Technician,2,"Land Surveying, Appraising, and Utilities",1245,A,A20,66254.5,58580.41273719837,-11.582741191619622,-2,0.15495417838731582
+211,Database Administrator I,Database Administrator,1,Information Technology,0955,B,B21,70662.0,67507.68651390773,-4.4639459484479875,-1,0.33339600999145985
+2119,Engineering Aide,Engineering Aide,1,Engineering and Design,0605,A,A11,39843.5,51246.61926272539,28.619773018749246,5,0.10916493418434091
+212,Database Administrator II,Database Administrator,2,Information Technology,0955,B,B23,80421.0,77098.27128178957,-4.131667994939688,-1,0.33339600999145985
+2123,Engineering Technician I,Engineering Technician,1,Engineering and Design,0610,A,A16,51024.0,43995.412726452254,-13.775061291838606,-3,0.1681168395792162
+2124,Engineering Technician II,Engineering Technician,2,Engineering and Design,0610,A,A18,58288.0,52187.92184646755,-10.465409953219297,-2,0.1681168395792162
+2125,Engineering Technician III,Engineering Technician,3,Engineering and Design,0610,A,A20,66254.5,57376.59782050433,-13.399696895298682,-2,0.1681168395792162
+2127,Engineering Specialist I,Engineering Specialist,1,Engineering and Design,0615,B,B18,58288.0,59815.11118863362,2.6199409632061617,0,0.4645799742432267
+2128,Engineering Specialist II,Engineering Specialist,2,Engineering and Design,0615,B,B19,62136.0,62642.07399328781,0.8144618148702342,0,0.4645799742432267
+2129,Engineering Specialist III,Engineering Specialist,3,Engineering and Design,0615,B,B20,66254.5,73064.3487885608,10.27831888937479,2,0.4645799742432267
+213,Database Administrator III,Database Administrator,3,Information Technology,0955,B,B25,91835.5,90657.4161909092,-1.2828196166958516,0,0.33339600999145985
+2130,Engineering Specialist IV,Engineering Specialist,4,Engineering and Design,0615,B,B21,70662.0,80881.41511432029,14.462391546121307,2,0.4645799742432267
+2131,Engineering Specialist V,Engineering Specialist,5,Engineering and Design,0615,B,B22,75376.0,86430.23764643344,14.665460685673787,2,0.4645799742432267
+2132,Engineering Specialist VI,Engineering Specialist,6,Engineering and Design,0615,B,B24,85869.0,97421.99941807997,13.454214463985767,2,0.4645799742432267
+214,Database Administrator IV,Database Administrator,4,Information Technology,0955,B,B27,113278.0,98415.19620895656,-13.120644600931733,-1,0.33339600999145985
+215,Database Administrator V,Database Administrator,5,Information Technology,0955,B,B29,137066.0,121684.92397758292,-11.221656736475223,-1,0.33339600999145985
+2152,Engineer I,Engineer,1,Engineering and Design,0625,B,B23,80421.0,71077.58607548129,-11.618127012246445,-2,0.37465789703798885
+2153,Engineer II,Engineer,2,Engineering and Design,0625,B,B24,85869.0,79102.02686674766,-7.880577546323302,-1,0.37465789703798885
+2154,Engineer III,Engineer,3,Engineering and Design,0625,B,B25,91835.5,89484.66972493385,-2.5598273816400874,0,0.37465789703798885
+2155,Engineer IV,Engineer,4,Engineering and Design,0625,B,B26,102980.0,93393.34223394767,-9.309242344195253,-1,0.37465789703798885
+2156,Engineer V,Engineer,5,Engineering and Design,0625,B,B27,113278.0,104999.91573161204,-7.307759907826743,-1,0.37465789703798885
+2157,Engineer VI,Engineer,6,Engineering and Design,0625,B,B28,124606.0,126528.14618327745,1.5425791561221187,0,0.37465789703798885
+2161,District Engineer,District Engineer,1,Engineering and Design,0630,B,B34,220747.0,118951.42709051225,-46.11413650445427,-6,0.2146717851685153
+217,Data Officer,Data Officer,1,Information Technology,0913,B,B29,137066.0,118568.65555986098,-13.495209928165316,-2,0.37570530881904973
+218,Chief Data Officer,Chief Data Officer,1,Information Technology,0913,B,B30,150773.0,139032.50022233932,-7.78687150727303,-1,0.37570530881904973
+2181,Drafting Technician I,Drafting Technician,1,Engineering and Design,0650,A,A19,62136.0,52886.02390481262,-14.886661669865168,-2,0.2044038155146453
+2182,Drafting Technician II,Drafting Technician,2,Engineering and Design,0650,A,A21,70662.0,61444.413206241166,-13.044616333756299,-2,0.2044038155146453
+221,Information Technology Business Analyst I,Information Technology Business Analyst,1,Information Technology,0988,B,B21,70662.0,78798.33723371603,11.514445152579844,2,0.2911835088509567
+222,Information Technology Business Analyst II,Information Technology Business Analyst,2,Information Technology,0988,B,B23,80421.0,84409.36283811743,4.959354942263118,1,0.2911835088509567
+223,Information Technology Business Analyst III,Information Technology Business Analyst,3,Information Technology,0988,B,B25,91835.5,86695.83097714196,-5.596603734784452,-1,0.2911835088509567
+224,Information Technology Business Analyst IV,Information Technology Business Analyst,4,Information Technology,0988,B,B27,113278.0,90068.1209411534,-20.489308655561203,-2,0.2911835088509567
+225,Information Technology Business Analyst V,Information Technology Business Analyst,5,Information Technology,0988,B,B29,137066.0,93003.02445972434,-32.147268863376546,-4,0.2911835088509567
+2255,Project Design Specialist I,Project Design Specialist,1,Engineering and Design,0675,B,B19,62136.0,52343.7089783988,-15.75944866357866,-3,0.2605815057333541
+2256,Project Design Specialist II,Project Design Specialist,2,Engineering and Design,0675,B,B20,66254.5,60248.865949405845,-9.064492299533082,-1,0.2605815057333541
+2257,Project Design Specialist III,Project Design Specialist,3,Engineering and Design,0675,B,B21,70662.0,63345.93491542543,-10.35360601819169,-2,0.2605815057333541
+2260,Architect I,Architect,1,Engineering and Design,0660,B,B22,75376.0,75172.82146013273,-0.2695533589832824,0,0.27167428342776506
+2264,Architect II,Architect,2,Engineering and Design,0660,B,B24,85869.0,83921.71561875741,-2.2677385101056373,0,0.27167428342776506
+2266,Architect III,Architect,3,Engineering and Design,0660,B,B26,102980.0,106487.40942362258,3.405913209965676,0,0.27167428342776506
+2268,Architect IV,Architect,4,Engineering and Design,0660,B,B28,124606.0,119613.3066676829,-4.006784049176628,0,0.27167428342776506
+2271,Intelligent Transportation Systems Specialist I,Intelligent Transportation Systems Specialist,1,Engineering and Design,0670,B,B21,70662.0,65393.8421223281,-7.45543273282946,-1,0.13469467184001468
+2272,Intelligent Transportation Systems Specialist II,Intelligent Transportation Systems Specialist,2,Engineering and Design,0670,B,B23,80421.0,68468.8789304699,-14.86194037568559,-2,0.13469467184001468
+2273,Intelligent Transportation Systems Specialist III,Intelligent Transportation Systems Specialist,3,Engineering and Design,0670,B,B25,91835.5,71256.30894971697,-22.408753750219653,-4,0.13469467184001468
+228,Information Technology Support Specialist I,Information Technology Support Specialist,1,Information Technology,0932,B,B14,46139.0,61105.88596345825,32.43868736526208,5,0.2802203663352233
+229,Information Technology Support Specialist II,Information Technology Support Specialist,2,Information Technology,0932,B,B16,51024.0,63611.67733944052,24.670110809502475,3,0.2802203663352233
+230,Information Technology Support Specialist III,Information Technology Support Specialist,3,Information Technology,0932,B,B18,58288.0,67302.74604020844,15.465869544689156,2,0.2802203663352233
+231,Information Technology Support Specialist IV,Information Technology Support Specialist,4,Information Technology,0932,B,B20,66254.5,70935.70362044068,7.065487809040418,1,0.2802203663352233
+232,Information Technology Support Specialist V,Information Technology Support Specialist,5,Information Technology,0932,B,B22,75376.0,72138.55085463548,-4.295066261627698,-1,0.2802203663352233
+2340,Geologic Specialist I,Geologic Specialist,1,Natural Resources,1845,B,B18,58288.0,62596.37101456351,7.391523151529461,1,0.2194253647362353
+2342,Geologic Specialist II,Geologic Specialist,2,Natural Resources,1845,B,B20,66254.5,69350.55644655282,4.672975339867964,1,0.2194253647362353
+2360,Geoscientist I,Geoscientist,1,Natural Resources,1840,B,B21,70662.0,78053.10642261065,10.459803603932237,2,0.1804055345529674
+2364,Geoscientist II,Geoscientist,2,Natural Resources,1840,B,B23,80421.0,87675.09376451744,9.020148673253791,1,0.1804055345529674
+2365,Geoscientist III,Geoscientist,3,Natural Resources,1840,B,B25,91835.5,97000.55504077104,5.6242466592669595,0,0.1804055345529674
+2366,Geoscientist IV,Geoscientist,4,Natural Resources,1840,B,B27,113278.0,108363.67135566953,-4.338290439741596,0,0.1804055345529674
+238,Information Security Officer,Information Security Officer,1,Information Technology,0922,B,B31,165850.5,150659.22754887637,-9.15961812061076,-1,0.26938805312342234
+239,Chief Information Security Officer,Chief Information Security Officer,1,Information Technology,0995,B,B32,182436.0,173259.30658160156,-5.030089137230831,-1,0.2603695270861999
+241,Programmer I,Programmer,1,Information Technology,0940,B,B20,66254.5,65363.06946532307,-1.3454641340239926,0,0.2951390020774062
+242,Programmer II,Programmer,2,Information Technology,0940,B,B22,75376.0,74083.66077585828,-1.714523487770237,0,0.2951390020774062
+243,Programmer III,Programmer,3,Information Technology,0940,B,B24,85869.0,86889.54400135003,1.1884894447938261,0,0.2951390020774062
+244,Programmer IV,Programmer,4,Information Technology,0940,B,B26,102980.0,101076.32561198412,-1.8485865100172965,0,0.2951390020774062
+245,Programmer V,Programmer,5,Information Technology,0940,B,B28,124606.0,112489.35796221739,-9.723963563377803,-1,0.2951390020774062
+2456,Hydrologist I,Hydrologist,1,Natural Resources,1820,B,B18,58288.0,55417.119282738844,-4.925337491869975,-1,0.2188699966200912
+246,Programmer VI,Programmer,6,Information Technology,0940,B,B29,137066.0,128270.5655838576,-6.416933751727233,-1,0.2951390020774062
+2460,Hydrologist II,Hydrologist,2,Natural Resources,1820,B,B20,66254.5,63933.0528458872,-3.5038331798033258,-1,0.2188699966200912
+2464,Hydrologist III,Hydrologist,3,Natural Resources,1820,B,B22,75376.0,72693.78182569108,-3.5584511970771797,-1,0.2188699966200912
+2465,Hydrologist IV,Hydrologist,4,Natural Resources,1820,B,B24,85869.0,84532.09564637733,-1.5569115205984545,0,0.2188699966200912
+2466,Hydrologist V,Hydrologist,5,Natural Resources,1820,B,B26,102980.0,95627.76837571357,-7.139475261493848,-1,0.2188699966200912
+247,Information Technology Auditor I,Information Technology Auditor,1,Information Technology,0985,B,B22,75376.0,65377.354451503335,-13.265025403970284,-2,0.21715672445335846
+2472,Chemist I,Chemist,1,Natural Resources,1825,B,B17,53722.5,49357.52389561672,-8.125042774225497,-2,0.29119405501215073
+2473,Chemist II,Chemist,2,Natural Resources,1825,B,B19,62136.0,55834.32175235198,-10.141750752620155,-2,0.29119405501215073
+2474,Chemist III,Chemist,3,Natural Resources,1825,B,B21,70662.0,71596.90072149341,1.3230600909871852,0,0.29119405501215073
+2475,Chemist IV,Chemist,4,Natural Resources,1825,B,B23,80421.0,78323.65822291205,-2.6079528693848064,0,0.29119405501215073
+2476,Chemist V,Chemist,5,Natural Resources,1825,B,B25,91835.5,90025.24195211251,-1.9711963760064584,0,0.29119405501215073
+248,Information Technology Auditor II,Information Technology Auditor,2,Information Technology,0985,B,B24,85869.0,77282.91926227622,-9.999045916132475,-2,0.21715672445335846
+249,Information Technology Auditor III,Information Technology Auditor,3,Information Technology,0985,B,B26,102980.0,95487.35013870883,-7.275830123607592,-1,0.21715672445335846
+250,Information Technology Auditor IV,Information Technology Auditor,4,Information Technology,0985,B,B28,124606.0,117879.54844136734,-5.39817629859926,-1,0.21715672445335846
+252,Systems Analyst I,Systems Analyst,1,Information Technology,0950,B,B17,53722.5,58635.19598787208,9.144578133690853,1,0.27943143077877286
+253,Systems Analyst II,Systems Analyst,2,Information Technology,0950,B,B19,62136.0,64258.471049286716,3.4158475751362714,1,0.27943143077877286
+254,Systems Analyst III,Systems Analyst,3,Information Technology,0950,B,B21,70662.0,70073.82644304275,-0.8323760393949948,0,0.27943143077877286
+255,Systems Analyst IV,Systems Analyst,4,Information Technology,0950,B,B23,80421.0,83715.32022669377,4.096343276872662,1,0.27943143077877286
+256,Systems Analyst V,Systems Analyst,5,Information Technology,0950,B,B25,91835.5,94307.57650030541,2.6918528241317174,0,0.27943143077877286
+257,Systems Analyst VI,Systems Analyst,6,Information Technology,0950,B,B27,113278.0,110114.65077410032,-2.792553916823834,0,0.27943143077877286
+258,Systems Analyst VII,Systems Analyst,7,Information Technology,0950,B,B29,137066.0,111487.88124510268,-18.661169622588663,-2,0.27943143077877286
+2583,Sanitarian I,Sanitarian,1,Natural Resources,1830,B,B18,58288.0,65760.17864951974,12.81941162764158,2,0.25534979106730915
+2584,Sanitarian II,Sanitarian,2,Natural Resources,1830,B,B20,66254.5,79567.88133949609,20.09430505021712,3,0.25534979106730915
+2585,Sanitarian III,Sanitarian,3,Natural Resources,1830,B,B22,75376.0,91358.40164920442,21.203568309812734,3,0.25534979106730915
+2586,Sanitarian IV,Sanitarian,4,Natural Resources,1830,B,B24,85869.0,98516.34717078785,14.728653146988819,2,0.25534979106730915
+2640,Park Ranger I,Park Ranger,1,Natural Resources,1855,B,B15,48510.5,54135.962970397275,11.596382165504851,2,0.13923604003999773
+2641,Park Ranger II,Park Ranger,2,Natural Resources,1855,B,B17,53722.5,58482.09179420925,8.859587312967996,1,0.13923604003999773
+2642,Park Ranger III,Park Ranger,3,Natural Resources,1855,B,B19,62136.0,68448.33071016976,10.158894538061203,2,0.13923604003999773
+2643,Park Ranger IV,Park Ranger,4,Natural Resources,1855,B,B21,70662.0,74675.51790678404,5.679881558382145,1,0.13923604003999773
+2644,Park Ranger V,Park Ranger,5,Natural Resources,1855,B,B23,80421.0,82540.15535804845,2.63507710429917,0,0.13923604003999773
+2651,Environmental Protection Specialist I,Environmental Protection Specialist,1,Natural Resources,1835,B,B16,51024.0,57350.17585280232,12.398431821892332,2,0.2463059993582251
+2652,Environmental Protection Specialist II,Environmental Protection Specialist,2,Natural Resources,1835,B,B18,58288.0,63074.421558386675,8.211675745242008,1,0.2463059993582251
+2653,Environmental Protection Specialist III,Environmental Protection Specialist,3,Natural Resources,1835,B,B20,66254.5,73438.97461425184,10.843753426939836,2,0.2463059993582251
+2654,Environmental Protection Specialist IV,Environmental Protection Specialist,4,Natural Resources,1835,B,B22,75376.0,82681.54317634182,9.692134334989708,1,0.2463059993582251
+2655,Environmental Protection Specialist V,Environmental Protection Specialist,5,Natural Resources,1835,B,B25,91835.5,90941.65735056886,-0.9733084149714131,0,0.2463059993582251
+2661,Toxicologist I,Toxicologist,1,Natural Resources,1850,B,B23,80421.0,81847.49345792481,1.7737822930886122,0,0.18859354104461537
+2662,Toxicologist II,Toxicologist,2,Natural Resources,1850,B,B25,91835.5,97436.07485220103,6.098485718704749,1,0.18859354104461537
+2663,Toxicologist III,Toxicologist,3,Natural Resources,1850,B,B27,113278.0,106193.76953775188,-6.253844932156408,-1,0.18859354104461537
+2682,Natural Resources Specialist I,Natural Resources Specialist,1,Natural Resources,1860,B,B16,51024.0,52321.88358798834,2.5436727578950333,0,0.2106636298306579
+2683,Natural Resources Specialist II,Natural Resources Specialist,2,Natural Resources,1860,B,B18,58288.0,60930.61282430559,4.533716758690582,1,0.2106636298306579
+2684,Natural Resources Specialist III,Natural Resources Specialist,3,Natural Resources,1860,B,B20,66254.5,70096.20965927247,5.798413178384087,1,0.2106636298306579
+2685,Natural Resources Specialist IV,Natural Resources Specialist,4,Natural Resources,1860,B,B22,75376.0,80750.80614612642,7.130659820269631,1,0.2106636298306579
+2686,Natural Resources Specialist V,Natural Resources Specialist,5,Natural Resources,1860,B,B24,85869.0,88690.16125488734,3.285424605954791,0,0.2106636298306579
+2688,Fish and Wildlife Technician I,Fish and Wildlife Technician,1,Natural Resources,1865,A,A14,46139.0,46266.64882349598,0.2766614436723853,0,0.19390133963633321
+2689,Fish and Wildlife Technician II,Fish and Wildlife Technician,2,Natural Resources,1865,A,A16,51024.0,50157.83904636662,-1.6975559611817188,0,0.19390133963633321
+2690,Fish and Wildlife Technician III,Fish and Wildlife Technician,3,Natural Resources,1865,A,A18,58288.0,58095.7175867959,-0.3298833605615472,0,0.19390133963633321
+2692,Assistant Park/Historic Site Superintendent I,Assistant Park/Historic Site Superintendent,1,Natural Resources,1810,B,B19,62136.0,60824.97960520732,-2.109920810468517,0,0.15176034475311626
+2694,Assistant Park/Historic Site Superintendent II,Assistant Park/Historic Site Superintendent,2,Natural Resources,1810,B,B20,66254.5,64150.05018125846,-3.176312278775832,-1,0.15176034475311626
+2696,Assistant Park/Historic Site Superintendent III,Assistant Park/Historic Site Superintendent,3,Natural Resources,1810,B,B21,70662.0,69516.57209665712,-1.620995589344946,0,0.15176034475311626
+2698,Assistant Park/Historic Site Superintendent IV,Assistant Park/Historic Site Superintendent,4,Natural Resources,1810,B,B22,75376.0,77205.88011175633,2.4276694329181105,0,0.15176034475311626
+270,Geographic Information Specialist I,Geographic Information Specialist,1,Information Technology,0990,B,B18,58288.0,56294.95661858304,-3.4193030836827085,0,0.17677040630527718
+2700,Park/Historic Site Superintendent I,Park/Historic Site Superintendent,1,Natural Resources,1815,B,B20,66254.5,72841.33335487494,9.941714683342168,1,0.1414149287008189
+2701,Park/Historic Site Superintendent II,Park/Historic Site Superintendent,2,Natural Resources,1815,B,B21,70662.0,77071.88778923058,9.071194969333622,1,0.1414149287008189
+2702,Park/Historic Site Superintendent III,Park/Historic Site Superintendent,3,Natural Resources,1815,B,B22,75376.0,84533.83157966936,12.149532450208808,2,0.1414149287008189
+2703,Park/Historic Site Superintendent IV,Park/Historic Site Superintendent,4,Natural Resources,1815,B,B23,80421.0,92232.9320792362,14.687621490949121,2,0.1414149287008189
+2704,Park/Historic Site Superintendent V,Park/Historic Site Superintendent,5,Natural Resources,1815,B,B24,85869.0,104471.96380979642,21.664353619812026,2,0.1414149287008189
+2705,Park/Historic Site Superintendent VI,Park/Historic Site Superintendent,6,Natural Resources,1815,B,B25,91835.5,103537.15634731426,12.741974886960211,1,0.1414149287008189
+271,Geographic Information Specialist II,Geographic Information Specialist,2,Information Technology,0990,B,B20,66254.5,64397.11089532666,-2.8034157750391855,0,0.17677040630527718
+272,Geographic Information Specialist III,Geographic Information Specialist,3,Information Technology,0990,B,B22,75376.0,78308.83782041504,3.890943828824911,1,0.17677040630527718
+2720,Lifeguard I,Lifeguard,1,Safety,2650,A,A8,33967.0,51645.364158689044,52.045703649686594,8,0.16277120531889192
+2721,Lifeguard II,Lifeguard,2,Safety,2650,A,A10,36740.5,60806.94422622694,65.5038560341501,9,0.16277120531889192
+273,Geographic Information Specialist IV,Geographic Information Specialist,4,Information Technology,0990,B,B24,85869.0,84286.31955187744,-1.8431336665415712,0,0.17677040630527718
+2730,Safety Officer I,Safety Officer,1,Safety,2625,B,B17,53722.5,51038.23602956347,-4.9965358470595005,-1,0.30497300441649944
+2731,Safety Officer II,Safety Officer,2,Safety,2625,B,B19,62136.0,57492.99857404298,-7.472321079498292,-1,0.30497300441649944
+2732,Safety Officer III,Safety Officer,3,Safety,2625,B,B21,70662.0,68312.14864821984,-3.325480954091615,-1,0.30497300441649944
+2733,Safety Officer IV,Safety Officer,4,Safety,2625,B,B23,80421.0,76808.01745712776,-4.492585945054472,-1,0.30497300441649944
+2734,Safety Officer V,Safety Officer,5,Safety,2625,B,B25,91835.5,84694.08942344856,-7.7763071759301985,-1,0.30497300441649944
+274,Geographic Information Specialist V,Geographic Information Specialist,5,Information Technology,0990,B,B26,102980.0,100264.41314334409,-2.6370041334781966,0,0.17677040630527718
+2740,Risk Management Specialist I,Risk Management Specialist,1,Safety,2630,B,B16,51024.0,66262.6771771992,29.865704721698094,4,0.2875188953845376
+2741,Risk Management Specialist II,Risk Management Specialist,2,Safety,2630,B,B18,58288.0,73241.20372902555,25.654000358608165,4,0.2875188953845376
+2742,Risk Management Specialist III,Risk Management Specialist,3,Safety,2630,B,B20,66254.5,75104.7227119006,13.357919404569667,2,0.2875188953845376
+2743,Risk Management Specialist IV,Risk Management Specialist,4,Safety,2630,B,B22,75376.0,89026.73012117283,18.11018112021447,3,0.2875188953845376
+2744,Risk Management Specialist V,Risk Management Specialist,5,Safety,2630,B,B24,85869.0,106675.52300516327,24.230540713369486,2,0.2875188953845376
+2761,Rescue Specialist I,Rescue Specialist,1,Safety,2640,B,B18,58288.0,47482.57729033034,-18.537988453317453,-3,0.24610004622287732
+2762,Rescue Specialist II,Rescue Specialist,2,Safety,2640,B,B20,66254.5,58042.476095607104,-12.394665878382433,-2,0.24610004622287732
+2763,Rescue Specialist III,Rescue Specialist,3,Safety,2640,B,B22,75376.0,70194.51107522225,-6.8741892973595276,-1,0.24610004622287732
+2770,Emergency Medical Services Specialist I,Emergency Medical Services Specialist,1,Safety,2620,B,B20,66254.5,62010.69405063364,-6.405309751588724,-1,0.18821559559728218
+2771,Emergency Medical Services Specialist II,Emergency Medical Services Specialist,2,Safety,2620,B,B22,75376.0,77381.09747137231,2.660127190846343,0,0.18821559559728218
+2780,School Safety and Security Specialist I,School Safety and Security Specialist,1,Safety,2660,B,B27,113278.0,80271.62404533401,-29.13749885649993,-4,0.4704455221264775
+2781,School Safety and Security Specialist II,School Safety and Security Specialist,2,Safety,2660,B,B28,124606.0,79381.31137951861,-36.29415005736589,-5,0.4704455221264775
+2782,School Safety and Security Specialist III,School Safety and Security Specialist,3,Safety,2660,B,B29,137066.0,94030.14841785106,-31.397904354215477,-4,0.4704455221264775
+2783,School Safety and Security Specialist IV,School Safety and Security Specialist,4,Safety,2660,B,B30,150773.0,96506.71391487453,-35.9920450512529,-5,0.4704455221264775
+2802,Actuary I,Actuary,1,Insurance,1105,B,B21,70662.0,53678.800250436645,-24.03441701276979,-4,0.2902696944317235
+2803,Actuary II,Actuary,2,Insurance,1105,B,B23,80421.0,61647.059384475346,-23.344574943764272,-4,0.2902696944317235
+2804,Actuary III,Actuary,3,Insurance,1105,B,B25,91835.5,77176.14430971876,-15.96262413803069,-3,0.2902696944317235
+2805,Actuary IV,Actuary,4,Insurance,1105,B,B27,113278.0,94181.21866831889,-16.858332007698866,-2,0.2902696944317235
+2806,Actuary V,Actuary,5,Insurance,1105,B,B31,165850.5,126058.3133478554,-23.992804756177733,-3,0.2902696944317235
+2808,Chief Actuary,Chief Actuary,1,Insurance,1105,B,B33,200679.0,81951.0985131463,-59.16309204593093,-10,0.5189299654082696
+282,Telecommunications Specialist I,Telecommunications Specialist,1,Information Technology,0960,B,B18,58288.0,55347.260624334645,-5.045188333216729,-1,0.1939013396363332
+283,Telecommunications Specialist II,Telecommunications Specialist,2,Information Technology,0960,B,B20,66254.5,64629.1915571016,-2.4531291352261286,0,0.1939013396363332
+284,Telecommunications Specialist III,Telecommunications Specialist,3,Information Technology,0960,B,B22,75376.0,77413.44089692319,2.703036638881367,0,0.1939013396363332
+2842,Insurance Specialist I,Insurance Specialist,1,Insurance,1120,B,B14,46139.0,68338.37147379547,48.114114900183154,6,0.18849453665585153
+2843,Insurance Specialist II,Insurance Specialist,2,Insurance,1120,B,B16,51024.0,72307.32684671452,41.71238406772215,5,0.18849453665585153
+2844,Insurance Specialist III,Insurance Specialist,3,Insurance,1120,B,B18,58288.0,76678.2020697098,31.550579998815863,4,0.18849453665585153
+2845,Insurance Specialist IV,Insurance Specialist,4,Insurance,1120,B,B20,66254.5,80915.64619957785,22.12852892947326,3,0.18849453665585153
+285,Telecommunications Specialist IV,Telecommunications Specialist,4,Information Technology,0960,B,B24,85869.0,84246.97276499843,-1.888955542747203,0,0.1939013396363332
+286,Telecommunications Specialist V,Telecommunications Specialist,5,Information Technology,0960,B,B26,102980.0,98571.62148023765,-4.2808103707149865,0,0.1939013396363332
+287,Network Specialist I,Network Specialist,1,Information Technology,0965,B,B17,53722.5,58594.809114768344,9.069401302560996,1,0.17369531397237437
+288,Network Specialist II,Network Specialist,2,Information Technology,0965,B,B19,62136.0,61845.47641166209,-0.46756081553036555,0,0.17369531397237437
+289,Network Specialist III,Network Specialist,3,Information Technology,0965,B,B21,70662.0,71432.66534850633,1.0906361955595327,0,0.17369531397237437
+290,Network Specialist IV,Network Specialist,4,Information Technology,0965,B,B23,80421.0,86638.18038119757,7.730792182635823,1,0.17369531397237437
+291,Network Specialist V,Network Specialist,5,Information Technology,0965,B,B25,91835.5,97992.8250412088,6.704732964059504,1,0.17369531397237437
+2914,Retirement System Benefits Specialist I,Retirement System Benefits Specialist,1,Insurance,1130,B,B18,58288.0,54935.024874004164,-5.752427817039276,-1,0.2780126417910116
+2915,Retirement System Benefits Specialist II,Retirement System Benefits Specialist,2,Insurance,1130,B,B20,66254.5,64351.32495746333,-2.872521930641185,0,0.2780126417910116
+2916,Retirement System Benefits Specialist III,Retirement System Benefits Specialist,3,Insurance,1130,B,B22,75376.0,69762.77860207268,-7.446961098927109,-1,0.2780126417910116
+2917,Retirement System Benefits Specialist IV,Retirement System Benefits Specialist,4,Insurance,1130,B,B24,85869.0,78759.27525441813,-8.279733950065674,-1,0.2780126417910116
+2918,Retirement System Benefits Specialist V,Retirement System Benefits Specialist,5,Insurance,1130,B,B26,102980.0,92843.14264909737,-9.84352044173876,-1,0.2780126417910116
+292,Network Specialist VI,Network Specialist,6,Information Technology,0965,B,B27,113278.0,115647.7512519382,2.091978364676443,0,0.17369531397237437
+2921,Claims Examiner I,Claims Examiner,1,Insurance,1140,B,B14,46139.0,50677.607492761636,9.836813742737514,2,0.19597220340309163
+2922,Claims Examiner II,Claims Examiner,2,Insurance,1140,B,B16,51024.0,55888.8755045736,9.534484761237112,1,0.19597220340309163
+2923,Claims Examiner III,Claims Examiner,3,Insurance,1140,B,B18,58288.0,70054.85599475453,20.187441659954896,3,0.19597220340309163
+2924,Claims Examiner IV,Claims Examiner,4,Insurance,1140,B,B20,66254.5,78688.74927413603,18.7674033826171,3,0.19597220340309163
+2925,Claims Examiner V,Claims Examiner,5,Insurance,1140,B,B22,75376.0,90064.88214605366,19.487478966851114,3,0.19597220340309163
+294,Business Continuity Coordinator I,Business Continuity Coordinator,1,Information Technology,0975,B,B26,102980.0,79420.37097727822,-22.87786854022308,-3,0.20354305951433627
+2940,Retirement System Operational Specialist I,Retirement System Operational Specialist,1,Insurance,1160,B,B15,48510.5,56425.25599106152,16.315552284683672,3,0.15633623262504723
+2941,Retirement System Operational Specialist II,Retirement System Operational Specialist,2,Insurance,1160,B,B17,53722.5,61536.56728873158,14.545241358335085,2,0.15633623262504723
+2942,Retirement System Operational Specialist III,Retirement System Operational Specialist,3,Insurance,1160,B,B19,62136.0,73119.56117794715,17.676646674950277,3,0.15633623262504723
+295,Business Continuity Coordinator II,Business Continuity Coordinator,2,Information Technology,0975,B,B27,113278.0,93611.15286011001,-17.361576952179597,-2,0.20354305951433627
+300,Web Administrator I,Web Administrator,1,Information Technology,0970,B,B19,62136.0,68115.8135452285,9.623750394664057,1,0.29458621345687436
+301,Web Administrator II,Web Administrator,2,Information Technology,0970,B,B21,70662.0,79384.61288744352,12.344135302487146,2,0.29458621345687436
+302,Web Administrator III,Web Administrator,3,Information Technology,0970,B,B23,80421.0,93210.73199710502,15.90347296987728,2,0.29458621345687436
+3021,Workforce Development Specialist I,Workforce Development Specialist,1,Employment,0521,B,B12,41819.0,49308.00194188868,17.90813252801045,3,0.1536244353485922
+3023,Workforce Development Specialist II,Workforce Development Specialist,2,Employment,0521,B,B14,46139.0,56202.30447873304,21.81084219149323,4,0.1536244353485922
+3025,Workforce Development Specialist III,Workforce Development Specialist,3,Employment,0521,B,B16,51024.0,66621.82487888368,30.56958466385174,4,0.1536244353485922
+3026,Workforce Development Specialist IV,Workforce Development Specialist,4,Employment,0521,B,B18,58288.0,78099.87462810097,33.98962844513614,5,0.1536244353485922
+303,Web Administrator IV,Web Administrator,4,Information Technology,0970,B,B25,91835.5,108150.122825297,17.765050362111694,2,0.29458621345687436
+304,Web Administrator V,Web Administrator,5,Information Technology,0970,B,B27,113278.0,132090.32518690772,16.607218689337476,2,0.29458621345687436
+310,Systems Administrator I,Systems Administrator,1,Information Technology,0928,B,B17,53722.5,65781.35247847249,22.446558664381723,3,0.29579027098729793
+311,Systems Administrator II,Systems Administrator,2,Information Technology,0928,B,B19,62136.0,69843.22542948805,12.403800420831725,2,0.29579027098729793
+312,Systems Administrator III,Systems Administrator,3,Information Technology,0928,B,B21,70662.0,80763.23800136063,14.295148738162766,2,0.29579027098729793
+313,Systems Administrator IV,Systems Administrator,4,Information Technology,0928,B,B23,80421.0,94068.66003464829,16.970269002683725,2,0.29579027098729793
+314,Systems Administrator V,Systems Administrator,5,Information Technology,0928,B,B25,91835.5,108377.6788752303,18.012836947836494,2,0.29579027098729793
+315,Systems Administrator VI,Systems Administrator,6,Information Technology,0928,B,B27,113278.0,129193.2321100667,14.04971142681429,1,0.29579027098729793
+3151,Unemployment Insurance Claims Examiner I,Unemployment Insurance Claims Examiner,1,Employment,0552,B,B11,39843.5,60933.79546858878,52.93283840171856,8,0.3123596923151592
+3153,Unemployment Insurance Claims Examiner II,Unemployment Insurance Claims Examiner,2,Employment,0552,B,B13,43913.5,62607.830583759576,42.57080529622906,6,0.3123596923151592
+3154,Unemployment Insurance Claims Examiner III,Unemployment Insurance Claims Examiner,3,Employment,0552,B,B15,48510.5,64837.49086392916,33.65661220545884,5,0.3123596923151592
+317,Data Architect I,Data Architect,1,Information Technology,0912,B,B28,124606.0,101237.10314626123,-18.754230818530978,-2,0.24722998328167634
+3171,Unemployment Insurance Specialist I,Unemployment Insurance Specialist,1,Employment,0555,B,B16,51024.0,50853.72189308684,-0.33372159554942943,0,0.16626835685643382
+3173,Unemployment Insurance Specialist II,Unemployment Insurance Specialist,2,Employment,0555,B,B18,58288.0,59752.77913325569,2.5130029049815974,0,0.16626835685643382
+318,Data Architect II,Data Architect,2,Information Technology,0912,B,B30,150773.0,124112.58733303961,-17.68248470678469,-2,0.24722998328167634
+319,Cybersecurity Analyst I,Cybersecurity Analyst,1,Information Technology,0938,B,B23,80421.0,83275.3417996376,3.5492493249743027,1,0.503922344119578
+320,Cybersecurity Analyst II,Cybersecurity Analyst,2,Information Technology,0938,B,B25,91835.5,89640.46117266349,-2.390185524482847,0,0.503922344119578
+321,Cybersecurity Analyst III,Cybersecurity Analyst,3,Information Technology,0938,B,B27,113278.0,102728.44049090132,-9.312981787371498,-1,0.503922344119578
+322,Cybersecurity Analyst IV,Cybersecurity Analyst,4,Information Technology,0938,B,B29,137066.0,113715.42728558303,-17.03600653292357,-2,0.503922344119578
+323,Cybersecurity Analyst V,Cybersecurity Analyst,5,Information Technology,0938,B,B31,165850.5,136397.45070942555,-17.758794390474776,-2,0.503922344119578
+326,Cybersecurity Officer,Cybersecurity Officer,1,Information Technology,0910,B,B31,165850.5,154135.85749062232,-7.063374852278163,-1,0.26938805312342234
+328,Chief Cybersecurity Officer,Chief Cybersecurity Officer,1,Information Technology,0948,B,B32,182436.0,182545.45836347138,0.059998225937519814,0,0.42157422544100304
+340,Accessibility Specialist I,Accessibility Specialist,1,Information Technology,0997,B,B21,70662.0,57323.77359423504,-18.876095221993435,-3,0.16138231797517272
+341,Accessibility Specialist II,Accessibility Specialist,2,Information Technology,0997,B,B23,80421.0,70432.98227084633,-12.419663681319154,-2,0.16138231797517272
+342,Accessibility Specialist III,Accessibility Specialist,3,Information Technology,0997,B,B25,91835.5,79487.35243235748,-13.445941457979163,-2,0.16138231797517272
+350,User Experience/User Interface (UX/UI) Designer I,User Experience/User Interface (UX/UI) Designer,1,Information Technology,0925,B,B24,85869.0,74667.87647463314,-13.044432246057221,-2,0.16010993671594334
+3502,Attorney I,Attorney,1,Legal,1403,B,B22,75376.0,85251.85541767684,13.102121919015156,2,0.4704823530896225
+3503,Attorney II,Attorney,2,Legal,1403,B,B24,85869.0,96683.51126773337,12.594197286253877,1,0.4704823530896225
+3504,Attorney III,Attorney,3,Legal,1403,B,B26,102980.0,114534.99309046341,11.220618654557668,1,0.4704823530896225
+3505,Attorney IV,Attorney,4,Legal,1403,B,B28,124606.0,126647.8493591621,1.6386444947772745,0,0.4704823530896225
+3506,Attorney V,Attorney,5,Legal,1403,B,B30,150773.0,161040.9355666609,6.810195171987535,1,0.4704823530896225
+3510,Assistant Attorney General I,Assistant Attorney General,1,Legal,1404,B,B22,75376.0,89942.94618156628,19.325708689193263,3,0.5584656221538342
+3511,Assistant Attorney General II,Assistant Attorney General,2,Legal,1404,B,B24,85869.0,93756.55958513462,9.18557289025678,1,0.5584656221538342
+3512,Assistant Attorney General III,Assistant Attorney General,3,Legal,1404,B,B26,102980.0,97954.26273166122,-4.880304203086731,0,0.5584656221538342
+3513,Assistant Attorney General IV,Assistant Attorney General,4,Legal,1404,B,B28,124606.0,106863.467971391,-14.238906656668973,-2,0.5584656221538342
+3514,Assistant Attorney General V,Assistant Attorney General,5,Legal,1404,B,B30,150773.0,122495.11632406902,-18.755270291054142,-2,0.5584656221538342
+3515,Assistant Attorney General VI,Assistant Attorney General,6,Legal,1404,B,B31,165850.5,135477.065570967,-18.31374305717072,-2,0.5584656221538342
+3516,Assistant Attorney General VII,Assistant Attorney General,7,Legal,1404,B,B32,182436.0,148507.9285429752,-18.5972458599316,-2,0.5584656221538342
+352,User Experience/User Interface (UX/UI) Designer II,User Experience/User Interface (UX/UI) Designer,2,Information Technology,0925,B,B26,102980.0,75277.86464220262,-26.900500444549753,-4,0.16010993671594334
+3521,General Counsel I,General Counsel,1,Legal,1405,B,B26,102980.0,87501.02490943411,-15.031049806336997,-2,0.5584656221538341
+3522,General Counsel II,General Counsel,2,Legal,1405,B,B28,124606.0,95563.07974489385,-23.307802397240973,-3,0.5584656221538341
+3523,General Counsel III,General Counsel,3,Legal,1405,B,B30,150773.0,124010.62807667124,-17.750109053563197,-2,0.5584656221538341
+3524,General Counsel IV,General Counsel,4,Legal,1405,B,B32,182436.0,134326.4505562549,-26.37064474322235,-3,0.5584656221538341
+3525,General Counsel V,General Counsel,5,Legal,1405,B,B34,220747.0,154657.0248621892,-29.939240459807255,-4,0.5584656221538341
+3530,Hearings Officer I,Hearings Officer,1,Legal,1476,B,B20,66254.5,66963.3246535269,1.0698513361762623,0,0.20583937615774975
+3531,Hearings Officer II,Hearings Officer,2,Legal,1476,B,B21,70662.0,71604.9979536526,1.3345191951155362,0,0.20583937615774975
+3532,Hearings Officer III,Hearings Officer,3,Legal,1476,B,B22,75376.0,78069.91432455786,3.573968271807855,1,0.20583937615774975
+3533,Hearings Officer IV,Hearings Officer,4,Legal,1476,B,B23,80421.0,90856.46396699107,12.976043529663963,2,0.20583937615774975
+3534,Hearings Officer V,Hearings Officer,5,Legal,1476,B,B24,85869.0,99747.90383744135,16.162880477752537,2,0.20583937615774975
+354,User Experience/User Interface (UX/UI) Designer III,User Experience/User Interface (UX/UI) Designer,3,Information Technology,0925,B,B28,124606.0,77034.38303964376,-38.17762945633131,-6,0.16010993671594334
+3559,Court Reporter I,Court Reporter,1,Legal,1416,B,B22,75376.0,53443.75728175748,-29.097116745704877,-5,0.26513379416104843
+356,User Experience/User Interface (UX/UI) Designer IV,User Experience/User Interface (UX/UI) Designer,4,Information Technology,0925,B,B30,150773.0,80743.70949060915,-46.44683763630816,-7,0.16010993671594334
+3560,Court Reporter II,Court Reporter,2,Legal,1416,B,B24,85869.0,63507.48090922978,-26.041434150590128,-5,0.26513379416104843
+3561,Court Reporter III,Court Reporter,3,Legal,1416,B,B26,102980.0,68401.66938755286,-33.57771471397078,-6,0.26513379416104843
+3565,Legal Secretary I,Legal Secretary,1,Legal,1423,A,A13,43913.5,41287.323603012104,-5.980339524264558,-1,0.19090160050613772
+3566,Legal Secretary II,Legal Secretary,2,Legal,1423,A,A15,48510.5,44436.67788134082,-8.397815150656493,-2,0.19090160050613772
+3567,Legal Secretary III,Legal Secretary,3,Legal,1423,A,A17,53722.5,48707.15890951466,-9.33564352084388,-2,0.19090160050613772
+3568,Legal Secretary IV,Legal Secretary,4,Legal,1423,A,A19,62136.0,61435.826194998444,-1.1268408088734316,0,0.19090160050613772
+3569,Legal Secretary V,Legal Secretary,5,Legal,1423,A,A21,70662.0,67205.7652364704,-4.891221255455047,-1,0.19090160050613772
+3572,Legal Assistant I,Legal Assistant,1,Legal,1426,B,B16,51024.0,49917.18809425308,-2.1691986236808276,0,0.24934029118507292
+3574,Legal Assistant II,Legal Assistant,2,Legal,1426,B,B18,58288.0,53469.01752445329,-8.267537873227294,-1,0.24934029118507292
+3576,Legal Assistant III,Legal Assistant,3,Legal,1426,B,B20,66254.5,60107.02676208562,-9.278574644611872,-2,0.24934029118507292
+3578,Legal Assistant IV,Legal Assistant,4,Legal,1426,B,B22,75376.0,70213.1035126273,-6.849523040984764,-1,0.24934029118507292
+3580,Legal Assistant V,Legal Assistant,5,Legal,1426,B,B24,85869.0,80117.73988609482,-6.697714092286168,-1,0.24934029118507292
+3582,Legal Assistant VI,Legal Assistant,6,Legal,1426,B,B26,102980.0,97498.34397418964,-5.323029739571069,0,0.24934029118507292
+3590,Mitigation Specialist I,Mitigation Specialist,1,Legal,1490,B,B20,66254.5,52325.76605039791,-21.023076092344038,-4,0.15560198681344173
+3592,Mitigation Specialist II,Mitigation Specialist,2,Legal,1490,B,B22,75376.0,62612.14526425735,-16.93357930341572,-3,0.15560198681344173
+3594,Mitigation Specialist III,Mitigation Specialist,3,Legal,1490,B,B24,85869.0,73056.3519558242,-14.92115669703365,-2,0.15560198681344173
+3596,Mitigation Specialist IV,Mitigation Specialist,4,Legal,1490,B,B26,102980.0,94945.59318191248,-7.801909902978693,-1,0.15560198681344173
+3604,Law Clerk,Law Clerk,1,Legal,1456,B,B16,51024.0,77242.72227881903,51.38507815698311,6,0.3175550944296025
+3610,Court Law Clerk I,Court Law Clerk,1,Legal,1436,B,B19,62136.0,69317.7133002473,11.55805539501617,2,0.3112101348726376
+3611,Court Law Clerk II,Court Law Clerk,2,Legal,1436,B,B21,70662.0,84740.8582387869,19.924228352985814,3,0.3112101348726376
+3620,Deputy Clerk I,Deputy Clerk,1,Legal,1443,A,A13,43913.5,44507.63543244908,1.3529676123494156,0,0.3262839055151005
+3622,Deputy Clerk II,Deputy Clerk,2,Legal,1443,A,A15,48510.5,52180.72188196396,7.565829834703658,1,0.3262839055151005
+3624,Deputy Clerk III,Deputy Clerk,3,Legal,1443,A,A17,53722.5,64257.961223994746,19.610891570561172,3,0.3262839055151005
+3626,Deputy Clerk IV,Deputy Clerk,4,Legal,1443,A,A19,62136.0,72480.53903347834,16.648221696727006,2,0.3262839055151005
+3630,Chief Deputy Clerk,Chief Deputy Clerk,1,Legal,1446,B,B23,80421.0,112201.66226450485,39.51786506572267,4,0.4125070304771529
+3635,Clerk of the Court,Clerk of the Court,1,Legal,1449,B,B29,137066.0,81073.03044837159,-40.85110060235832,-6,0.3330103200673482
+3637,Court Coordinator I,Court Coordinator,1,Legal,1450,B,B17,53722.5,61516.45415782636,14.507802425103714,2,0.33480742681424647
+3638,Court Coordinator II,Court Coordinator,2,Legal,1450,B,B19,62136.0,70846.75646688025,14.01885616531513,2,0.33480742681424647
+3639,Court Coordinator III,Court Coordinator,3,Legal,1450,B,B21,70662.0,79494.98588028202,12.500333814896218,2,0.33480742681424647
+3640,Administrative Law Judge I,Administrative Law Judge,1,Legal,1453,B,B25,91835.5,99275.09149878952,8.100997434314177,1,0.24914846574579172
+3642,Administrative Law Judge II,Administrative Law Judge,2,Legal,1453,B,B26,102980.0,107602.71370434757,4.48894319707481,0,0.24914846574579172
+3644,Administrative Law Judge III,Administrative Law Judge,3,Legal,1453,B,B27,113278.0,111025.52703764496,-1.9884469732472863,0,0.24914846574579172
+3645,Administrative Law Judge IV,Administrative Law Judge,4,Legal,1453,B,B28,124606.0,125929.42194324195,1.0620852472930924,0,0.24914846574579172
+3646,Master Administrative Law Judge I,Master Administrative Law Judge,1,Legal,1454,B,B29,137066.0,126742.78842560927,-7.5315625861926305,-1,0.24914846574579172
+3648,Master Administrative Law Judge II,Master Administrative Law Judge,2,Legal,1454,B,B31,165850.5,126234.88760042663,-23.886338841048598,-3,0.24914846574579172
+3660,Ombudsman I,Ombudsman,1,Legal,1469,B,B17,53722.5,63770.932247072844,18.704327324813303,2,0.2614488058550263
+3662,Ombudsman II,Ombudsman,2,Legal,1469,B,B19,62136.0,68305.808786512,9.929523603888171,1,0.2614488058550263
+3663,Ombudsman III,Ombudsman,3,Legal,1469,B,B21,70662.0,73350.62504940934,3.804909356385743,1,0.2614488058550263
+3665,Ombudsman IV,Ombudsman,4,Legal,1469,B,B23,80421.0,81335.41734591292,1.1370380198118777,0,0.2614488058550263
+3666,Ombudsman V,Ombudsman,5,Legal,1469,B,B25,91835.5,95976.29946523829,4.508931148889445,0,0.2614488058550263
+3667,Ombudsman VI,Ombudsman,6,Legal,1469,B,B27,113278.0,97338.23162079295,-14.071371651341885,-1,0.2614488058550263
+3668,Ombudsman VII,Ombudsman,7,Legal,1469,B,B29,137066.0,111308.9029816822,-18.791747784511,-2,0.2614488058550263
+3670,Benefit Review Officer I,Benefit Review Officer,1,Legal,1473,B,B19,62136.0,57375.61014509934,-7.661242846177256,-1,0.20636146326540947
+3672,Benefit Review Officer II,Benefit Review Officer,2,Legal,1473,B,B21,70662.0,68007.5939259223,-3.7564830801247506,-1,0.20636146326540947
+3674,Benefit Review Officer III,Benefit Review Officer,3,Legal,1473,B,B23,80421.0,94495.76795394489,17.501359040480573,2,0.20636146326540947
+3690,Medical Fee Dispute Officer I,Medical Fee Dispute Officer,1,Legal,1488,B,B19,62136.0,58353.90148709865,-6.0868071856916925,-1,0.2064043046464781
+3692,Medical Fee Dispute Officer II,Medical Fee Dispute Officer,2,Legal,1488,B,B21,70662.0,72538.73722088542,2.6559356102082763,0,0.2064043046464781
+3694,Medical Fee Dispute Officer III,Medical Fee Dispute Officer,3,Legal,1488,B,B23,80421.0,76923.53677655163,-4.348942718255652,-1,0.2064043046464781
+4001,Dietetic Technician I,Dietetic Technician,1,Medical and Health,0335,A,A10,36740.5,41138.30993671355,11.969924025839438,2,0.2455736096354454
+4002,Dietetic Technician II,Dietetic Technician,2,Medical and Health,0335,A,A12,41819.0,46124.142609502174,10.294704821976081,2,0.2455736096354454
+4007,Certified Peer Support Specialist I,Certified Peer Support Specialist,1,Medical and Health,1775,A,A10,36740.5,58733.234284975595,59.85964884793506,8,0.22561854084000416
+4008,Certified Peer Support Specialist II,Certified Peer Support Specialist,2,Medical and Health,1775,A,A12,41819.0,69354.47234062671,65.84440646745911,9,0.22561854084000416
+4016,Dietetic and Nutrition Specialist I,Dietetic and Nutrition Specialist,1,Medical and Health,1708,B,B18,58288.0,59818.85119113473,2.6263573825396587,0,0.66634851400824
+4017,Dietetic and Nutrition Specialist II,Dietetic and Nutrition Specialist,2,Medical and Health,1708,B,B20,66254.5,66214.5234253495,-0.06033790104897196,0,0.66634851400824
+4018,Dietetic and Nutrition Specialist III,Dietetic and Nutrition Specialist,3,Medical and Health,1708,B,B22,75376.0,78399.93738304959,4.01180400001275,1,0.66634851400824
+4050,Health Informatics Specialist I,Health Informatics Specialist,1,Medical and Health,1710,B,B20,66254.5,68318.06447577273,3.1146027451308833,0,0.4648866038144918
+4051,Health Informatics Specialist II,Health Informatics Specialist,2,Medical and Health,1710,B,B22,75376.0,76791.9152226454,1.8784695694192148,0,0.4648866038144918
+4052,Health Informatics Specialist III,Health Informatics Specialist,3,Medical and Health,1710,B,B24,85869.0,89424.56182225377,4.140681529135953,1,0.4648866038144918
+4053,Health Informatics Specialist IV,Health Informatics Specialist,4,Medical and Health,1710,B,B26,102980.0,98541.74709744907,-4.30982025883751,0,0.4648866038144918
+4072,Public Health and Prevention Specialist I,Public Health and Prevention Specialist,1,Medical and Health,1712,B,B14,46139.0,64357.541363457036,39.48620768429543,6,0.4203181015106018
+4074,Public Health and Prevention Specialist II,Public Health and Prevention Specialist,2,Medical and Health,1712,B,B16,51024.0,68905.56229562066,35.045394903615346,5,0.4203181015106018
+4076,Public Health and Prevention Specialist III,Public Health and Prevention Specialist,3,Medical and Health,1712,B,B18,58288.0,82774.80277346568,42.01002397314311,5,0.4203181015106018
+4078,Public Health and Prevention Specialist IV,Public Health and Prevention Specialist,4,Medical and Health,1712,B,B20,66254.5,89873.9400519629,35.64956350430976,5,0.4203181015106018
+4080,Public Health and Prevention Specialist V,Public Health and Prevention Specialist,5,Medical and Health,1712,B,B22,75376.0,103927.62108003451,37.878928412272536,4,0.4203181015106018
+4082,Epidemiologist I,Epidemiologist,1,Medical and Health,1714,B,B19,62136.0,76735.30991929703,23.49573503169978,3,0.6479164515814009
+4083,Epidemiologist II,Epidemiologist,2,Medical and Health,1714,B,B21,70662.0,92460.61076370435,30.849127909915207,4,0.6479164515814009
+4084,Epidemiologist III,Epidemiologist,3,Medical and Health,1714,B,B23,80421.0,99274.7435694007,23.443806430410817,3,0.6479164515814009
+4085,Epidemiologist IV,Epidemiologist,4,Medical and Health,1714,B,B25,91835.5,115284.33410471694,25.5335181979921,2,0.6479164515814009
+4125,Veterinarian I,Veterinarian,1,Medical and Health,1716,B,B26,102980.0,90477.25256904248,-12.140947204270208,-1,0.3941235790871654
+4127,Veterinarian II,Veterinarian,2,Medical and Health,1716,B,B28,124606.0,97626.62507529788,-21.65174624392249,-2,0.3941235790871654
+4129,Veterinarian III,Veterinarian,3,Medical and Health,1716,B,B30,150773.0,107726.37398476957,-28.550619816035038,-4,0.3941235790871654
+4131,Veterinarian IV,Veterinarian,4,Medical and Health,1716,B,B32,182436.0,123251.85067957427,-32.44104744700922,-4,0.3941235790871654
+4142,Laboratory Technician I,Laboratory Technician,1,Medical and Health,1720,A,A11,39843.5,38083.47237582466,-4.417351949942557,-1,0.17874096296156375
+4144,Laboratory Technician II,Laboratory Technician,2,Medical and Health,1720,A,A13,43913.5,43619.15277669599,-0.6702886886812262,0,0.17874096296156375
+4146,Laboratory Technician III,Laboratory Technician,3,Medical and Health,1720,A,A15,48510.5,52320.11920675676,7.85318478835865,1,0.17874096296156375
+4148,Laboratory Technician IV,Laboratory Technician,4,Medical and Health,1720,A,A17,53722.5,57845.77665578797,7.675139198265082,1,0.17874096296156375
+4160,Health Assistant,Health Assistant,1,Medical and Health,1702,B,B14,46139.0,53369.88180040599,15.671951712013717,3,0.27424341972654354
+4161,Health Specialist I,Health Specialist,1,Medical and Health,1705,B,B17,53722.5,62042.14886496339,15.486339736541252,2,0.35396700016497074
+4162,Health Specialist II,Health Specialist,2,Medical and Health,1705,B,B18,58288.0,67604.5227427823,15.983603387973996,2,0.35396700016497074
+4163,Health Specialist III,Health Specialist,3,Medical and Health,1705,B,B19,62136.0,71925.50612913066,15.754966732861156,2,0.35396700016497074
+4164,Health Specialist IV,Health Specialist,4,Medical and Health,1705,B,B20,66254.5,80926.97898774077,22.14563386296898,3,0.35396700016497074
+4165,Health Specialist V,Health Specialist,5,Medical and Health,1705,B,B21,70662.0,84865.15033096341,20.100125004901294,3,0.35396700016497074
+4166,Health Specialist VI,Health Specialist,6,Medical and Health,1705,B,B23,80421.0,101703.0866770649,26.46334499330385,3,0.35396700016497074
+4167,Health Specialist VII,Health Specialist,7,Medical and Health,1705,B,B25,91835.5,108398.59092852914,18.0356081564637,2,0.35396700016497074
+4212,Molecular Biologist I,Molecular Biologist,1,Medical and Health,1738,B,B17,53722.5,61015.09233837039,13.574558775876733,2,0.18817737947955104
+4214,Molecular Biologist II,Molecular Biologist,2,Medical and Health,1738,B,B19,62136.0,66289.92202930596,6.685209909401834,1,0.18817737947955104
+4216,Molecular Biologist III,Molecular Biologist,3,Medical and Health,1738,B,B21,70662.0,80180.01719892849,13.469781776525465,2,0.18817737947955104
+4218,Molecular Biologist IV,Molecular Biologist,4,Medical and Health,1738,B,B23,80421.0,87685.65437121115,9.033280326296774,1,0.18817737947955104
+4220,Molecular Biologist V,Molecular Biologist,5,Medical and Health,1738,B,B25,91835.5,105077.4512211005,14.419207410098045,1,0.18817737947955104
+4221,Microbiologist I,Microbiologist,1,Medical and Health,1721,B,B17,53722.5,52722.73450592645,-1.8609809559748078,0,0.18849453665585156
+4222,Microbiologist II,Microbiologist,2,Medical and Health,1721,B,B19,62136.0,56265.22403735308,-9.448268254549633,-1,0.18849453665585156
+4223,Microbiologist III,Microbiologist,3,Medical and Health,1721,B,B21,70662.0,69221.27695961016,-2.03889366334083,0,0.18849453665585156
+4224,Microbiologist IV,Microbiologist,4,Medical and Health,1721,B,B23,80421.0,80596.59324449395,0.21834252806349594,0,0.18849453665585156
+4225,Microbiologist V,Microbiologist,5,Medical and Health,1721,B,B25,91835.5,93315.3852821083,1.6114523055989975,0,0.18849453665585156
+4240,Nurse I,Nurse,1,Medical and Health,1752,B,B20,66254.5,70990.62359540837,7.148380254033131,1,0.29940648748596704
+4241,Nurse II,Nurse,2,Medical and Health,1752,B,B22,75376.0,80551.31898914788,6.866003753380277,1,0.29940648748596704
+4242,Nurse III,Nurse,3,Medical and Health,1752,B,B24,85869.0,88588.38832734106,3.1669034544958374,0,0.29940648748596704
+4243,Nurse IV,Nurse,4,Medical and Health,1752,B,B26,102980.0,102541.99622440829,-0.4253289722195086,0,0.29940648748596704
+4244,Nurse V,Nurse,5,Medical and Health,1752,B,B28,124606.0,115031.00142481964,-7.6842195200714976,-1,0.29940648748596704
+4245,Nurse VI,Nurse,6,Medical and Health,1752,B,B30,150773.0,113793.32244419795,-24.526723986258894,-3,0.29940648748596704
+4250,Public Health Nurse I,Public Health Nurse,1,Medical and Health,1755,B,B20,66254.5,67630.23616996803,2.0764418567312926,0,0.3327857615816266
+4251,Public Health Nurse II,Public Health Nurse,2,Medical and Health,1755,B,B22,75376.0,74495.23210022181,-1.168499124095432,0,0.3327857615816266
+4252,Public Health Nurse III,Public Health Nurse,3,Medical and Health,1755,B,B24,85869.0,84636.80290157242,-1.4349731549541829,0,0.3327857615816266
+4253,Public Health Nurse IV,Public Health Nurse,4,Medical and Health,1755,B,B26,102980.0,90462.24036916048,-12.155524986249228,-1,0.3327857615816266
+4254,Public Health Nurse V,Public Health Nurse,5,Medical and Health,1755,B,B28,124606.0,99487.70357674465,-20.158175708437227,-2,0.3327857615816266
+4260,Licensed Vocational Nurse I,Licensed Vocational Nurse,1,Medical and Health,1758,A,A16,51024.0,60654.12595888804,18.873718169661462,3,0.27299327435532145
+4261,Licensed Vocational Nurse II,Licensed Vocational Nurse,2,Medical and Health,1758,A,A18,58288.0,74891.66702027552,28.48556653217728,4,0.27299327435532145
+4262,Licensed Vocational Nurse III,Licensed Vocational Nurse,3,Medical and Health,1758,A,A19,62136.0,81071.43150048939,30.474171978385044,3,0.27299327435532145
+4263,Licensed Vocational Nurse IV,Licensed Vocational Nurse,4,Medical and Health,1758,A,A20,66254.5,89518.09859709683,35.112480808242225,2,0.27299327435532145
+4270,Advanced Practice Registered Nurse I,Advanced Practice Registered Nurse,1,Medical and Health,1773,B,B28,124606.0,99901.9282981832,-19.825748119526146,-2,0.27299327435532145
+4271,Advanced Practice Registered Nurse II,Advanced Practice Registered Nurse,2,Medical and Health,1773,B,B29,137066.0,118183.4560634819,-13.77624205603005,-2,0.27299327435532145
+4272,Advanced Practice Registered Nurse III,Advanced Practice Registered Nurse,3,Medical and Health,1773,B,B30,150773.0,131923.71824309207,-12.501762090631626,-1,0.27299327435532145
+4292,Radiological Technologist I,Radiological Technologist,1,Medical and Health,1728,B,B16,51024.0,51194.213192031166,0.33359437133738484,0,0.28722541928537815
+4293,Radiological Technologist II,Radiological Technologist,2,Medical and Health,1728,B,B18,58288.0,60813.77426175598,4.333266301393016,1,0.28722541928537815
+4294,Radiological Technologist III,Radiological Technologist,3,Medical and Health,1728,B,B20,66254.5,70331.34908559965,6.153316507708386,1,0.28722541928537815
+4342,Orthopedic Equipment Technician I,Orthopedic Equipment Technician,1,Medical and Health,1734,A,A12,41819.0,45341.25449875407,8.422617706674181,2,0.2646588319768901
+4344,Orthopedic Equipment Technician II,Orthopedic Equipment Technician,2,Medical and Health,1734,A,A14,46139.0,54233.81734917111,17.544414376495236,3,0.2646588319768901
+4346,Orthopedic Equipment Technician III,Orthopedic Equipment Technician,3,Medical and Health,1734,A,A16,51024.0,64167.850758164175,25.76013397257016,4,0.2646588319768901
+4350,Psychiatric Nursing Assistant I,Psychiatric Nursing Assistant,1,Medical and Health,2552,A,A10,36740.5,50835.94981630583,38.36488293927905,6,0.6961641712841015
+4351,Psychiatric Nursing Assistant II,Psychiatric Nursing Assistant,2,Medical and Health,2552,A,A12,41819.0,56810.46387620734,35.848451364708254,6,0.6961641712841015
+4352,Psychiatric Nursing Assistant III,Psychiatric Nursing Assistant,3,Medical and Health,2552,A,A14,46139.0,59453.41973066821,28.857191813147754,4,0.6961641712841015
+4353,Psychiatric Nursing Assistant IV,Psychiatric Nursing Assistant,4,Medical and Health,2552,A,A16,51024.0,67274.93924495298,31.849598708358823,4,0.6961641712841015
+4354,Psychiatric Nursing Assistant V,Psychiatric Nursing Assistant,5,Medical and Health,2552,A,A18,58288.0,80756.30237237058,38.54704634293605,4,0.6961641712841015
+4360,Registered Therapist Assistant I,Registered Therapist Assistant,1,Medical and Health,1740,A,A19,62136.0,42243.180973063034,-32.01496560276973,-7,0.3619445538569347
+4361,Registered Therapist Assistant II,Registered Therapist Assistant,2,Medical and Health,1740,A,A21,70662.0,46223.57954319038,-34.58495436983053,-7,0.3619445538569347
+4362,Registered Therapist I,Registered Therapist,1,Medical and Health,1730,B,B20,66254.5,63476.769965207066,-4.192515277894975,-1,0.35958211389474287
+4363,Registered Therapist II,Registered Therapist,2,Medical and Health,1730,B,B21,70662.0,67194.71845982016,-4.906854518949214,-1,0.35958211389474287
+4364,Registered Therapist III,Registered Therapist,3,Medical and Health,1730,B,B23,80421.0,78796.0837236979,-2.020512398878541,0,0.35958211389474287
+4365,Registered Therapist IV,Registered Therapist,4,Medical and Health,1730,B,B25,91835.5,84295.28513866411,-8.210566568849549,-1,0.35958211389474287
+4366,Registered Therapist V,Registered Therapist,5,Medical and Health,1730,B,B27,113278.0,94477.6354242135,-16.596660053837915,-2,0.35958211389474287
+4370,Occupational Therapist,Occupational Therapist,1,Medical and Health,1703,B,B27,113278.0,95214.26431241666,-15.946375896099282,-2,0.3564908555893431
+4374,Physical Therapist,Physical Therapist,1,Medical and Health,1704,B,B27,113278.0,100934.83882846188,-10.896344543104691,-1,0.25139276204205735
+4378,Speech-Language Pathologist,Speech-Language Pathologist,1,Medical and Health,1706,B,B27,113278.0,100150.02456330741,-11.589165978118084,-1,0.5022064461859584
+4380,Audiologist,Audiologist,1,Medical and Health,1707,B,B25,91835.5,109841.78172064025,19.607103702424816,2,0.28965295953885467
+4383,Medical Technician I,Medical Technician,1,Medical and Health,1746,A,A8,33967.0,43600.24038629126,28.360586411196937,5,0.38311506785133814
+4384,Medical Technician II,Medical Technician,2,Medical and Health,1746,A,A10,36740.5,45623.20026201711,24.17686275912712,4,0.38311506785133814
+4385,Medical Technician III,Medical Technician,3,Medical and Health,1746,A,A12,41819.0,48732.39572819487,16.531709816578285,3,0.38311506785133814
+4386,Medical Technician IV,Medical Technician,4,Medical and Health,1746,A,A14,46139.0,55151.125581281594,19.53255506465598,3,0.38311506785133814
+4387,Medical Technician V,Medical Technician,5,Medical and Health,1746,A,A16,51024.0,61424.13448707304,20.3828286435267,3,0.38311506785133814
+4390,Health Physicist I,Health Physicist,1,Medical and Health,1790,B,B23,80421.0,75160.79100083554,-6.5408400780448765,-1,0.2290217994120573
+4392,Health Physicist II,Health Physicist,2,Medical and Health,1790,B,B25,91835.5,90363.67393578633,-1.6026765947956945,0,0.2290217994120573
+4394,Health Physicist III,Health Physicist,3,Medical and Health,1790,B,B27,113278.0,98340.85886313872,-13.186268416516258,-1,0.2290217994120573
+4401,Medical Technologist I,Medical Technologist,1,Medical and Health,1747,B,B16,51024.0,58513.087817440704,14.677578820634855,2,0.2812863583337355
+4402,Medical Technologist II,Medical Technologist,2,Medical and Health,1747,B,B18,58288.0,62954.50096137091,8.005937691070027,1,0.2812863583337355
+4403,Medical Technologist III,Medical Technologist,3,Medical and Health,1747,B,B20,66254.5,65467.615076377115,-1.187670156174866,0,0.2812863583337355
+4404,Medical Technologist IV,Medical Technologist,4,Medical and Health,1747,B,B22,75376.0,80798.43980230605,7.193854545619403,1,0.2812863583337355
+4405,Medical Technologist V,Medical Technologist,5,Medical and Health,1747,B,B24,85869.0,93401.95639180302,8.772614554499288,1,0.2812863583337355
+4428,Respiratory Care Practitioner I,Respiratory Care Practitioner,1,Medical and Health,1762,B,B21,70662.0,67620.79424100413,-4.303877273493416,-1,0.43741602174997174
+4429,Respiratory Care Practitioner II,Respiratory Care Practitioner,2,Medical and Health,1762,B,B22,75376.0,71262.68638025227,-5.4570600983704365,-1,0.43741602174997174
+4435,Resident Physician,Resident Physician,1,Medical and Health,1757,B,B20,66254.5,150635.32397213744,127.35863069246234,10,0.19085989408428494
+4436,Physician I,Physician,1,Medical and Health,1759,B,B33,200679.0,101918.56755708178,-49.21313761924179,-7,0.5314997028557937
+4437,Physician II,Physician,2,Medical and Health,1759,B,B34,220747.0,111180.10579738762,-49.63460169452464,-7,0.5314997028557937
+4438,Physician III,Physician,3,Medical and Health,1759,B,B35,242822.0,130293.0095412507,-46.34217264446769,-7,0.5314997028557937
+4439,Physician IV,Physician,4,Medical and Health,1759,B,B36,267104.5,141147.62797515176,-47.15640209163385,-7,0.5314997028557937
+4440,Physician Assistant,Physician Assistant,1,Medical and Health,1760,B,B29,137066.0,90195.97967410913,-34.19522005887012,-4,0.45889726248149765
+4453,Medical Research Specialist,Medical Research Specialist,1,Medical and Health,1786,B,B24,85869.0,102581.33113802316,19.4625896866426,2,0.6815852876816095
+4455,Dentist I,Dentist,1,Medical and Health,1780,B,B29,137066.0,91276.73562820716,-33.40672695766484,-4,0.5136263649836159
+4457,Dentist II,Dentist,2,Medical and Health,1780,B,B31,165850.5,110123.25606076233,-33.6008899214881,-4,0.5136263649836159
+4459,Dentist III,Dentist,3,Medical and Health,1780,B,B33,200679.0,124007.94118358818,-38.20582064710899,-5,0.5136263649836159
+4462,Psychologist I,Psychologist,1,Medical and Health,1782,B,B23,80421.0,83839.41730448714,4.250652571451648,1,0.5722103351046629
+4464,Psychologist II,Psychologist,2,Medical and Health,1782,B,B25,91835.5,89005.57480670918,-3.0815155286253764,0,0.5722103351046629
+4465,Psychologist III,Psychologist,3,Medical and Health,1782,B,B27,113278.0,95369.36664243702,-15.809454048944193,-2,0.5722103351046629
+4466,Psychologist IV,Psychologist,4,Medical and Health,1782,B,B29,137066.0,111004.78921869713,-19.01362174521976,-2,0.5722103351046629
+4469,Psychological Associate I,Psychological Associate,1,Medical and Health,1761,B,B19,62136.0,75680.06811913775,21.797457382415512,3,0.30642934897860313
+4470,Psychological Associate II,Psychological Associate,2,Medical and Health,1761,B,B20,66254.5,89038.21270432365,34.38817394188118,5,0.30642934897860313
+4471,Psychological Associate III,Psychological Associate,3,Medical and Health,1761,B,B21,70662.0,98679.09093523868,39.649445154734664,5,0.30642934897860313
+4472,Psychological Associate IV,Psychological Associate,4,Medical and Health,1761,B,B22,75376.0,111484.10275273447,47.90397839197424,5,0.30642934897860313
+4473,Behavior Analyst I,Behavior Analyst,1,Medical and Health,1781,B,B23,80421.0,91199.8982412025,13.403089045401684,2,0.3376006677814471
+4474,Behavior Analyst II,Behavior Analyst,2,Medical and Health,1781,B,B25,91835.5,103163.0676172002,12.334628348732544,1,0.3376006677814471
+4476,Psychiatrist I,Psychiatrist,1,Medical and Health,1784,B,B32,182436.0,97407.23981273592,-46.60744600148221,-6,0.46798557337245683
+4477,Psychiatrist II,Psychiatrist,2,Medical and Health,1784,B,B33,200679.0,102208.79082684046,-49.068516971461676,-7,0.46798557337245683
+4478,Psychiatrist III,Psychiatrist,3,Medical and Health,1784,B,B34,220747.0,125395.14434954815,-43.195085618582254,-6,0.46798557337245683
+4479,Psychiatrist IV,Psychiatrist,4,Medical and Health,1784,B,B35,242822.0,135944.2896759247,-44.0148381629652,-6,0.46798557337245683
+4481,Psychiatrist V,Psychiatrist,5,Medical and Health,1784,B,B36,267104.5,152113.2524545257,-43.051033414066104,-6,0.46798557337245683
+4482,Dental Assistant I,Dental Assistant,1,Medical and Health,1766,A,A12,41819.0,46398.42668742813,10.950588697549286,2,0.41406670458691547
+4483,Dental Assistant II,Dental Assistant,2,Medical and Health,1766,A,A14,46139.0,57289.049040800266,24.166213053599545,4,0.41406670458691547
+4489,Dental Hygienist I,Dental Hygienist,1,Medical and Health,1768,B,B21,70662.0,65093.560991316524,-7.88038692463208,-1,0.5061112686607496
+4490,Dental Hygienist II,Dental Hygienist,2,Medical and Health,1768,B,B23,80421.0,72561.51954231656,-9.772920577564872,-2,0.5061112686607496
+4491,Dental Hygienist III,Dental Hygienist,3,Medical and Health,1768,B,B25,91835.5,81380.93826245377,-11.384009165895725,-2,0.5061112686607496
+4492,Pharmacist I,Pharmacist,1,Medical and Health,1770,B,B27,113278.0,85548.87756953336,-24.478824158677465,-3,0.508003532481204
+4493,Pharmacist II,Pharmacist,2,Medical and Health,1770,B,B29,137066.0,94199.06303218161,-31.27466838444139,-4,0.508003532481204
+4494,Pharmacist III,Pharmacist,3,Medical and Health,1770,B,B31,165850.5,115484.25613009946,-30.36846067386018,-4,0.508003532481204
+4498,Pharmacy Technician I,Pharmacy Technician,1,Medical and Health,1772,A,A12,41819.0,43907.43230301246,4.993979538038848,1,0.3686685738617673
+4499,Pharmacy Technician II,Pharmacy Technician,2,Medical and Health,1772,A,A14,46139.0,51404.04305999979,11.411263919893843,2,0.3686685738617673
+4502,Correctional Officer I,Correctional Officer,1,Criminal Justice,0205,A,A14,46139.0,52568.44854558714,13.934954259058852,3,0.3332549708589664
+4503,Correctional Officer II,Correctional Officer,2,Criminal Justice,0205,A,A15,48510.5,57939.25664293777,19.43652743826125,3,0.3332549708589664
+4504,Correctional Officer III,Correctional Officer,3,Criminal Justice,0205,A,A16,51024.0,65262.9158210909,27.906310405085694,4,0.3332549708589664
+4505,Correctional Officer IV,Correctional Officer,4,Criminal Justice,0205,A,A18,58288.0,76889.20296462553,31.91257714216562,4,0.3332549708589664
+4510,Sergeant of Correctional Officers,Sergeant of Correctional Officers,1,Criminal Justice,0207,B,B19,62136.0,66659.18547769568,7.27949252880075,1,0.3279939905942658
+4511,Lieutenant of Correctional Officers,Lieutenant of Correctional Officers,1,Criminal Justice,0207,B,B20,66254.5,68730.15550218323,3.7365846881090956,1,0.3332549708589664
+4512,Captain of Correctional Officers,Captain of Correctional Officers,1,Criminal Justice,0207,B,B21,70662.0,70140.83774508812,-0.7375424625851688,0,0.3345544884162807
+4513,Major of Correctional Officers,Major of Correctional Officers,1,Criminal Justice,0207,B,B22,75376.0,74151.78269467197,-1.624147348397364,0,0.3332549708589664
+4521,Juvenile Correctional Officer I,Juvenile Correctional Officer,1,Criminal Justice,0215,A,A13,43913.5,44994.94894739369,2.4626799216497632,0,0.17015675233079008
+4522,Juvenile Correctional Officer II,Juvenile Correctional Officer,2,Criminal Justice,0215,A,A16,51024.0,47511.741380338746,-6.88354229315858,-1,0.17015675233079008
+4523,Juvenile Correctional Officer III,Juvenile Correctional Officer,3,Criminal Justice,0215,A,A17,53722.5,60821.662313772955,13.214504748984021,2,0.17015675233079008
+4524,Juvenile Correctional Officer IV,Juvenile Correctional Officer,4,Criminal Justice,0215,A,A19,62136.0,54241.15710837661,-12.705746896522838,-2,0.17015675233079008
+4525,Juvenile Correctional Officer Supervisor,Juvenile Correctional Officer Supervisor,1,Criminal Justice,0280,B,B20,66254.5,71412.86526994329,7.785682889378517,1,0.17095242131326605
+4526,Dorm Supervisor I,Dorm Supervisor,1,Criminal Justice,0260,B,B21,70662.0,71538.16977027476,1.239944765609119,0,0.3278565200931265
+4527,Dorm Supervisor II,Dorm Supervisor,2,Criminal Justice,0260,B,B22,75376.0,75253.62079006466,-0.16235832351852414,0,0.3278565200931265
+4530,Halfway House Assistant Superintendent,Halfway House Assistant Superintendent,1,Criminal Justice,0265,B,B22,75376.0,87969.08549840545,16.707022790285347,2,0.3480273017352743
+4531,Halfway House Superintendent,Halfway House Superintendent,1,Criminal Justice,0265,B,B24,85869.0,90697.84980936829,5.623507679568014,1,0.3347711105472294
+4532,Youth Facility Assistant Superintendent,Youth Facility Assistant Superintendent,1,Criminal Justice,0270,B,B25,91835.5,78387.00857898495,-14.644109762580907,-2,0.3278565200931265
+4533,Youth Facility Superintendent,Youth Facility Superintendent,1,Criminal Justice,0270,B,B27,113278.0,82117.07409230863,-27.508365179197536,-4,0.3278565200931265
+4540,Parole Officer I,Parole Officer,1,Criminal Justice,0225,B,B17,53722.5,50448.24646368261,-6.094752731755596,-1,0.3315785477367396
+4541,Parole Officer II,Parole Officer,2,Criminal Justice,0225,B,B18,58288.0,53935.56139681879,-7.467126343640586,-1,0.3315785477367396
+4542,Parole Officer III,Parole Officer,3,Criminal Justice,0225,B,B19,62136.0,69307.78774300989,11.542081471304625,2,0.3315785477367396
+4543,Parole Officer IV,Parole Officer,4,Criminal Justice,0225,B,B21,70662.0,77092.33794841531,9.100135785026268,1,0.3315785477367396
+4544,Parole Officer V,Parole Officer,5,Criminal Justice,0225,B,B23,80421.0,90775.77625178301,12.87571188095523,2,0.3315785477367396
+4550,Assistant Warden,Assistant Warden,1,Criminal Justice,0230,B,B25,91835.5,69724.25401676584,-24.07701377270674,-4,0.27044547897438914
+4551,Warden I,Warden,1,Criminal Justice,0230,B,B27,113278.0,73276.16330563427,-35.31297930257044,-5,0.2704454789743891
+4552,Warden II,Warden,2,Criminal Justice,0230,B,B28,124606.0,79967.49518800697,-35.82372021571432,-5,0.2704454789743891
+4560,Counsel Substitute I,Counsel Substitute,1,Criminal Justice,0235,A,A13,43913.5,52882.00893621196,20.42312486185783,4,0.37070344792721555
+4561,Counsel Substitute II,Counsel Substitute,2,Criminal Justice,0235,A,A15,48510.5,57605.760714085125,18.749055800466046,3,0.37070344792721555
+4562,Counsel Substitute III,Counsel Substitute,3,Criminal Justice,0235,A,A17,53722.5,68380.12153621958,27.283952787416,3,0.37070344792721555
+4647,Industrial Specialist I,Industrial Specialist,1,Criminal Justice,0250,A,A14,46139.0,42224.68474919858,-8.483745314812621,-2,0.3191872694257676
+4648,Industrial Specialist II,Industrial Specialist,2,Criminal Justice,0250,A,A15,48510.5,48287.481110123095,-0.45973323275774164,0,0.3191872694257676
+4649,Industrial Specialist III,Industrial Specialist,3,Criminal Justice,0250,A,A16,51024.0,57241.18331711111,12.184821490104904,2,0.3191872694257676
+4650,Industrial Specialist IV,Industrial Specialist,4,Criminal Justice,0250,A,A17,53722.5,66891.75262142826,24.513476888507114,3,0.3191872694257676
+4651,Industrial Specialist V,Industrial Specialist,5,Criminal Justice,0250,A,A18,58288.0,77036.91154817244,32.16598879387253,4,0.3191872694257676
+4672,Agriculture Specialist I,Agriculture Specialist,1,Criminal Justice,0255,A,A14,46139.0,45059.438394092365,-2.3398027826949233,0,0.33197958812029527
+4673,Agriculture Specialist II,Agriculture Specialist,2,Criminal Justice,0255,A,A15,48510.5,55610.68795457427,14.636394089061602,2,0.33197958812029527
+4674,Agriculture Specialist III,Agriculture Specialist,3,Criminal Justice,0255,A,A16,51024.0,63736.74430867766,24.915224813181418,3,0.33197958812029527
+4675,Agriculture Specialist IV,Agriculture Specialist,4,Criminal Justice,0255,A,A17,53722.5,73452.73896757551,36.72621148973986,5,0.33197958812029527
+4676,Agriculture Specialist V,Agriculture Specialist,5,Criminal Justice,0255,A,A18,58288.0,84979.10065576663,45.79175929139205,4,0.33197958812029527
+5002,Adult Protective Services Specialist I,Adult Protective Services Specialist,1,Social Services,2500,B,B17,53722.5,47828.219318105104,-10.97171703084352,-2,0.1006075225240964
+5003,Adult Protective Services Specialist II,Adult Protective Services Specialist,2,Social Services,2500,B,B18,58288.0,50768.71042503148,-12.900236026229297,-2,0.1006075225240964
+5004,Adult Protective Services Specialist III,Adult Protective Services Specialist,3,Social Services,2500,B,B19,62136.0,56083.15658759453,-9.741282690236753,-1,0.1006075225240964
+5005,Adult Protective Services Specialist IV,Adult Protective Services Specialist,4,Social Services,2500,B,B20,66254.5,59661.79563497575,-9.950575983554685,-2,0.1006075225240964
+5006,Adult Protective Services Specialist V,Adult Protective Services Specialist,5,Social Services,2500,B,B21,70662.0,67903.83206975201,-3.903325592607111,-1,0.1006075225240964
+5010,Family Services Specialist I,Family Services Specialist,1,Social Services,2512,B,B21,70662.0,65160.25341069322,-7.786004626683115,-1,0.2662618071023893
+5011,Family Services Specialist II,Family Services Specialist,2,Social Services,2512,B,B22,75376.0,79929.23264680535,6.0406928555579755,1,0.2662618071023893
+5016,Family and Protective Services Supervisor I,Family and Protective Services Supervisor,1,Social Services,2525,B,B22,75376.0,59386.27145678252,-21.2132887699234,-4,0.13549943747253398
+5017,Family and Protective Services Supervisor II,Family and Protective Services Supervisor,2,Social Services,2525,B,B24,85869.0,67397.5732611517,-21.511170199779098,-4,0.13549943747253398
+5018,Family and Protective Services Supervisor III,Family and Protective Services Supervisor,3,Social Services,2525,B,B26,102980.0,74606.96335410897,-27.551987420752553,-4,0.13549943747253398
+5023,Child Protective Services Specialist I,Child Protective Services Specialist,1,Social Services,2505,B,B17,53722.5,51592.23069792172,-3.965320493421367,-1,0.1006075225240964
+5024,Child Protective Services Specialist II,Child Protective Services Specialist,2,Social Services,2505,B,B18,58288.0,55503.11483993694,-4.777801880426624,-1,0.1006075225240964
+5025,Child Protective Services Specialist III,Child Protective Services Specialist,3,Social Services,2505,B,B19,62136.0,59312.582941537956,-4.543931148548482,-1,0.1006075225240964
+5026,Child Protective Services Specialist IV,Child Protective Services Specialist,4,Social Services,2505,B,B20,66254.5,66723.45700128382,0.7078115468139273,0,0.1006075225240964
+5027,Child Protective Services Specialist V,Child Protective Services Specialist,5,Social Services,2505,B,B21,70662.0,75204.72519466942,6.428809253445074,1,0.1006075225240964
+5030,Protective Services Intake Specialist I,Protective Services Intake Specialist,1,Social Services,2503,B,B16,51024.0,48956.93152214391,-4.051169014299288,-1,0.09576226234680514
+5031,Protective Services Intake Specialist II,Protective Services Intake Specialist,2,Social Services,2503,B,B17,53722.5,52490.51147249512,-2.293244967201631,0,0.09576226234680514
+5032,Protective Services Intake Specialist III,Protective Services Intake Specialist,3,Social Services,2503,B,B18,58288.0,59319.44439143389,1.7695655905741816,0,0.09576226234680514
+5033,Protective Services Intake Specialist IV,Protective Services Intake Specialist,4,Social Services,2503,B,B19,62136.0,65049.83557858362,4.6894482724726,1,0.09576226234680514
+5034,Protective Services Intake Specialist V,Protective Services Intake Specialist,5,Social Services,2503,B,B20,66254.5,76477.58444093182,15.43002277721789,2,0.09576226234680514
+5050,Rehabilitation Therapy Technician I,Rehabilitation Therapy Technician,1,Social Services,2515,A,A8,33967.0,35709.73754545644,5.130678439239376,1,0.3044389278943721
+5051,Rehabilitation Therapy Technician II,Rehabilitation Therapy Technician,2,Social Services,2515,A,A10,36740.5,37654.296084215566,2.487162897117765,0,0.3044389278943721
+5052,Rehabilitation Therapy Technician III,Rehabilitation Therapy Technician,3,Social Services,2515,A,A12,41819.0,41084.28061006688,-1.7569032973842245,0,0.3044389278943721
+5053,Rehabilitation Therapy Technician IV,Rehabilitation Therapy Technician,4,Social Services,2515,A,A14,46139.0,49479.66858391439,7.240444274722924,1,0.3044389278943721
+5054,Rehabilitation Therapy Technician V,Rehabilitation Therapy Technician,5,Social Services,2515,A,A16,51024.0,51892.59494268954,1.702326243903972,0,0.3044389278943721
+5062,Vocational Rehabilitation Counselor I,Vocational Rehabilitation Counselor,1,Social Services,2517,B,B18,58288.0,46586.517146430495,-20.075286257153298,-4,0.13046605935196592
+5063,Vocational Rehabilitation Counselor II,Vocational Rehabilitation Counselor,2,Social Services,2517,B,B19,62136.0,51808.50698385972,-16.620788296865452,-3,0.13046605935196592
+5064,Vocational Rehabilitation Counselor III,Vocational Rehabilitation Counselor,3,Social Services,2517,B,B20,66254.5,57444.06743635293,-13.29786288274315,-2,0.13046605935196592
+5065,Vocational Rehabilitation Counselor IV,Vocational Rehabilitation Counselor,4,Social Services,2517,B,B22,75376.0,68324.60553710387,-9.35495975230326,-2,0.13046605935196592
+5079,Chaplaincy Services Assistant,Chaplaincy Services Assistant,1,Social Services,2519,A,A14,46139.0,50883.81552522181,10.283741574853893,2,0.16600907980758953
+5081,Chaplain I,Chaplain,1,Social Services,2521,B,B17,53722.5,52645.07537412124,-2.005537020575685,0,0.29314332045147184
+5082,Chaplain II,Chaplain,2,Social Services,2521,B,B19,62136.0,58444.52223949571,-5.9409645946059175,-1,0.29314332045147184
+5083,Chaplain III,Chaplain,3,Social Services,2521,B,B21,70662.0,77856.07823391217,10.180971715932337,1,0.29314332045147184
+5090,Rehabilitation Teacher I,Rehabilitation Teacher,1,Social Services,2524,B,B14,46139.0,43017.09917524691,-6.766294945172345,-1,0.2523708381724338
+5091,Rehabilitation Teacher II,Rehabilitation Teacher,2,Social Services,2524,B,B16,51024.0,49221.6547739068,-3.5323479658458363,-1,0.2523708381724338
+5092,Rehabilitation Teacher III,Rehabilitation Teacher,3,Social Services,2524,B,B18,58288.0,58296.7140129154,0.01494992608321195,0,0.2523708381724338
+5093,Rehabilitation Teacher IV,Rehabilitation Teacher,4,Social Services,2524,B,B20,66254.5,64990.69244262038,-1.9075044825326823,0,0.2523708381724338
+5104,Veterans Services Representative I,Veterans Services Representative,1,Social Services,2542,B,B16,51024.0,42128.42508153564,-17.434099479586745,-4,0.17240348580781065
+5105,Veterans Services Representative II,Veterans Services Representative,2,Social Services,2542,B,B17,53722.5,46785.68803206888,-12.912302979070475,-3,0.17240348580781065
+5106,Veterans Services Representative III,Veterans Services Representative,3,Social Services,2542,B,B18,58288.0,52276.06363995197,-10.314192218034659,-2,0.17240348580781065
+5107,Veterans Services Representative IV,Veterans Services Representative,4,Social Services,2542,B,B19,62136.0,57269.96376920036,-7.831267269859142,-1,0.17240348580781065
+5108,Veterans Services Representative V,Veterans Services Representative,5,Social Services,2542,B,B20,66254.5,67201.10251947182,1.4287369453725167,0,0.17240348580781065
+5109,Veterans Services Representative VI,Veterans Services Representative,6,Social Services,2542,B,B21,70662.0,73760.61943880502,4.385128412449362,1,0.17240348580781065
+5111,Substance Abuse Counselor I,Substance Abuse Counselor,1,Social Services,2546,B,B16,51024.0,55908.27636192321,9.572507764822886,1,0.28660015047693166
+5112,Substance Abuse Counselor II,Substance Abuse Counselor,2,Social Services,2546,B,B17,53722.5,69808.60112446998,29.942949647670815,4,0.28660015047693166
+5113,Substance Abuse Counselor III,Substance Abuse Counselor,3,Social Services,2546,B,B18,58288.0,81607.85945179137,40.00799384400108,5,0.28660015047693166
+5114,Substance Abuse Counselor IV,Substance Abuse Counselor,4,Social Services,2546,B,B19,62136.0,90529.5330918961,45.695785200038685,6,0.28660015047693166
+5121,Direct Support Professional I,Direct Support Professional,1,Social Services,2548,A,A10,36740.5,47561.727497169566,29.453130733576167,5,0.23750888744735388
+5122,Direct Support Professional II,Direct Support Professional,2,Social Services,2548,A,A12,41819.0,51451.78890888306,23.034479324907515,4,0.23750888744735388
+5123,Direct Support Professional III,Direct Support Professional,3,Social Services,2548,A,A14,46139.0,55404.037332705455,20.080706848231394,3,0.23750888744735388
+5124,Direct Support Professional IV,Direct Support Professional,4,Social Services,2548,A,A16,51024.0,65159.47164925437,27.70357410092191,4,0.23750888744735388
+5125,Direct Support Professional V,Direct Support Professional,5,Social Services,2548,A,A18,58288.0,76231.72287237951,30.784591806854735,4,0.23750888744735388
+5131,Qualified Intellectual Disability Professional I,Qualified Intellectual Disability Professional,1,Social Services,2572,B,B19,62136.0,56051.77322267334,-9.791790230022357,-1,0.13263542750071275
+5132,Qualified Intellectual Disability Professional II,Qualified Intellectual Disability Professional,2,Social Services,2572,B,B20,66254.5,63422.63501530208,-4.274222859878064,-1,0.13263542750071275
+5133,Qualified Intellectual Disability Professional III,Qualified Intellectual Disability Professional,3,Social Services,2572,B,B21,70662.0,70074.69101417658,-0.8311525088781305,0,0.13263542750071275
+5134,Qualified Intellectual Disability Professional IV,Qualified Intellectual Disability Professional,4,Social Services,2572,B,B23,80421.0,82613.47228947756,2.7262435053997653,0,0.13263542750071275
+5140,Recreation Program Specialist I,Recreation Program Specialist,1,Social Services,2554,B,B14,46139.0,55307.71442396238,19.87194005930429,3,0.1540015326893418
+5142,Recreation Program Specialist II,Recreation Program Specialist,2,Social Services,2554,B,B16,51024.0,62019.2603894541,21.549193300121754,3,0.1540015326893418
+5144,Recreation Program Specialist III,Recreation Program Specialist,3,Social Services,2554,B,B18,58288.0,67197.65787138711,15.285578286074475,2,0.1540015326893418
+516,Planner I,Planner,1,"Planning, Research, and Statistics",2005,B,B18,58288.0,61612.111367525875,5.702908604731428,1,0.22735081919670053
+517,Planner II,Planner,2,"Planning, Research, and Statistics",2005,B,B20,66254.5,68930.2943599059,4.038660558763431,1,0.22735081919670053
+518,Planner III,Planner,3,"Planning, Research, and Statistics",2005,B,B22,75376.0,95694.89456421531,26.956716413998283,3,0.22735081919670053
+519,Planner IV,Planner,4,"Planning, Research, and Statistics",2005,B,B24,85869.0,101239.33111543185,17.899743930209763,2,0.22735081919670053
+520,Planner V,Planner,5,"Planning, Research, and Statistics",2005,B,B26,102980.0,122523.64985707116,18.978102405390604,2,0.22735081919670053
+5203,Resident Specialist I,Resident Specialist,1,Social Services,2557,A,A11,39843.5,46014.27418929313,15.487530436063846,3,0.1639935909978138
+5205,Resident Specialist II,Resident Specialist,2,Social Services,2557,A,A13,43913.5,49293.0350166567,12.250298920962072,2,0.1639935909978138
+5207,Resident Specialist III,Resident Specialist,3,Social Services,2557,A,A15,48510.5,57676.73550961197,18.89536391010591,3,0.1639935909978138
+5209,Resident Specialist IV,Resident Specialist,4,Social Services,2557,A,A17,53722.5,63889.142091689246,18.92436519463768,2,0.1639935909978138
+5226,Case Manager I,Case Manager,1,Social Services,2564,B,B13,43913.5,51684.0904634043,17.695220065365504,3,0.13445660529580986
+5227,Case Manager II,Case Manager,2,Social Services,2564,B,B15,48510.5,61527.6776883232,26.833732260692333,4,0.13445660529580986
+5228,Case Manager III,Case Manager,3,Social Services,2564,B,B17,53722.5,70971.58474448626,32.10774767459861,4,0.13445660529580986
+5229,Case Manager IV,Case Manager,4,Social Services,2564,B,B19,62136.0,85552.2729872044,37.68551723188545,5,0.13445660529580986
+5230,Case Manager V,Case Manager,5,Social Services,2564,B,B21,70662.0,93614.88596043736,32.48264408088831,4,0.13445660529580986
+5232,Volunteer Services Coordinator I,Volunteer Services Coordinator,1,Social Services,2568,B,B13,43913.5,44514.318557118284,1.3681864509052182,0,0.16263153391164625
+5233,Volunteer Services Coordinator II,Volunteer Services Coordinator,2,Social Services,2568,B,B15,48510.5,50171.61688712111,3.424241941684948,1,0.16263153391164625
+5234,Volunteer Services Coordinator III,Volunteer Services Coordinator,3,Social Services,2568,B,B17,53722.5,58865.09241427729,9.572511357954811,1,0.16263153391164625
+5235,Volunteer Services Coordinator IV,Volunteer Services Coordinator,4,Social Services,2568,B,B19,62136.0,68434.74626019811,10.137032091216154,2,0.16263153391164625
+5400,Social Worker I,Social Worker,1,Social Services,2562,B,B17,53722.5,62113.97075448637,15.62003025638486,2,0.3225689365090177
+5402,Social Worker II,Social Worker,2,Social Services,2562,B,B19,62136.0,66996.2679853489,7.821984011440794,1,0.3225689365090177
+5404,Social Worker III,Social Worker,3,Social Services,2562,B,B21,70662.0,78291.69981268095,10.797458057627713,2,0.3225689365090177
+5406,Social Worker IV,Social Worker,4,Social Services,2562,B,B23,80421.0,87907.27737468055,9.308858848659602,1,0.3225689365090177
+55,Clerk I,Clerk,1,Administrative Support,0115,A,A7,32679.0,38229.49411010118,16.984895835555484,3,0.13883524746241846
+5505,Human Services Technician I,Human Services Technician,1,Social Services,2574,A,A11,39843.5,33510.54052444612,-15.894586257617691,-3,0.09791976949145566
+5506,Human Services Technician II,Human Services Technician,2,Social Services,2574,A,A13,43913.5,38380.47421838543,-12.599828712388186,-2,0.09791976949145566
+5540,Child Support Officer I,Child Support Officer,1,Social Services,2580,B,B12,41819.0,39968.98794888979,-4.4238553076596725,-1,0.27290548638179335
+5541,Child Support Officer II,Child Support Officer,2,Social Services,2580,B,B14,46139.0,43966.19862521451,-4.709251121145828,-1,0.27290548638179335
+5542,Child Support Officer III,Child Support Officer,3,Social Services,2580,B,B16,51024.0,48858.84167749962,-4.243411575925761,-1,0.27290548638179335
+5543,Child Support Officer IV,Child Support Officer,4,Social Services,2580,B,B18,58288.0,57363.2466424949,-1.5865244261342206,0,0.27290548638179335
+5544,Child Support Officer V,Child Support Officer,5,Social Services,2580,B,B20,66254.5,67324.70305939956,1.6152911264888687,0,0.27290548638179335
+5551,Child Support Technician I,Child Support Technician,1,Social Services,2584,A,A12,41819.0,40618.32300142861,-2.87112795277598,-1,0.11704070916250373
+5552,Child Support Technician II,Child Support Technician,2,Social Services,2584,A,A14,46139.0,45460.571432812765,-1.4704015414014457,0,0.11704070916250373
+5553,Child Support Technician III,Child Support Technician,3,Social Services,2584,A,A16,51024.0,47046.37062306887,-7.795604768209291,-2,0.11704070916250373
+5560,Victim Compensation Officer I,Victim Compensation Officer,1,Social Services,2595,B,B17,53722.5,49839.206269250615,-7.2284307892398925,-1,0.15145393491447715
+5561,Victim Compensation Officer II,Victim Compensation Officer,2,Social Services,2595,B,B19,62136.0,59159.70051042279,-4.789976003568392,-1,0.15145393491447715
+5562,Victim Compensation Officer III,Victim Compensation Officer,3,Social Services,2595,B,B21,70662.0,65762.5747669179,-6.933606794432863,-1,0.15145393491447715
+5570,Victim Support Specialist I,Victim Support Specialist,1,Social Services,2597,A,A12,41819.0,46824.69996816891,11.969917903749296,2,0.1170407091625037
+5571,Victim Support Specialist II,Victim Support Specialist,2,Social Services,2597,A,A14,46139.0,49299.80118964742,6.850606189226993,1,0.1170407091625037
+5572,Victim Support Specialist III,Victim Support Specialist,3,Social Services,2597,A,A16,51024.0,56100.4866382559,9.949213386359206,2,0.1170407091625037
+5573,Victim Support Specialist IV,Victim Support Specialist,4,Social Services,2597,A,A18,58288.0,62413.43902547383,7.077681556193063,1,0.1170407091625037
+5616,Interpreter/Translator I,Interpreter/Translator,1,Social Services,2585,B,B17,53722.5,52075.933993273815,-3.064946729445199,-1,0.3064682845696085
+5617,Interpreter/Translator II,Interpreter/Translator,2,Social Services,2585,B,B19,62136.0,60415.93999109873,-2.7682181165529074,0,0.3064682845696085
+5618,Interpreter/Translator III,Interpreter/Translator,3,Social Services,2585,B,B21,70662.0,73318.29518614017,3.759156528459588,1,0.3064682845696085
+5619,Interpreter/Translator IV,Interpreter/Translator,4,Social Services,2585,B,B23,80421.0,64326.21129052834,-20.013166597619612,-3,0.3064682845696085
+5620,Eligibility Advisor I,Eligibility Advisor,1,Social Services,2590,B,B13,43913.5,48556.39574259108,10.572820983504059,2,0.22835409131619594
+5622,Eligibility Advisor II,Eligibility Advisor,2,Social Services,2590,B,B14,46139.0,50840.66080398712,10.190209592724472,2,0.22835409131619594
+5624,Eligibility Advisor III,Eligibility Advisor,3,Social Services,2590,B,B15,48510.5,55263.86255889371,13.921444963242324,2,0.22835409131619594
+5626,Eligibility Advisor IV,Eligibility Advisor,4,Social Services,2590,B,B16,51024.0,65455.04555678619,28.282858178085245,4,0.22835409131619594
+5628,Eligibility Advisor V,Eligibility Advisor,5,Social Services,2590,B,B17,53722.5,70292.2610205426,30.84324262747003,4,0.22835409131619594
+5630,Eligibility Supervisor I,Eligibility Supervisor,1,Social Services,2592,B,B19,62136.0,68898.81638539191,10.883894015372514,2,0.25787620747246076
+5632,Eligibility Supervisor II,Eligibility Supervisor,2,Social Services,2592,B,B21,70662.0,82593.60335356183,16.885459445758375,2,0.25787620747246076
+57,Clerk II,Clerk,2,Administrative Support,0115,A,A9,35320.0,41779.14703338369,18.287505757032054,3,0.13883524746241846
+5700,Human Services Specialist I,Human Services Specialist,1,Social Services,2588,B,B11,39843.5,47551.069999171465,19.3446107876352,4,0.21779159897752856
+5701,Human Services Specialist II,Human Services Specialist,2,Social Services,2588,B,B12,41819.0,51231.882013809016,22.50862529904834,4,0.21779159897752856
+5702,Human Services Specialist III,Human Services Specialist,3,Social Services,2588,B,B13,43913.5,54348.513205142364,23.76265432074952,4,0.21779159897752856
+5703,Human Services Specialist IV,Human Services Specialist,4,Social Services,2588,B,B14,46139.0,60034.64972149397,30.11692867529423,4,0.21779159897752856
+5704,Human Services Specialist V,Human Services Specialist,5,Social Services,2588,B,B15,48510.5,64633.7224294459,33.236562042126664,5,0.21779159897752856
+5705,Human Services Specialist VI,Human Services Specialist,6,Social Services,2588,B,B16,51024.0,77786.52195747066,52.45085049676758,6,0.21779159897752856
+5706,Human Services Specialist VII,Human Services Specialist,7,Social Services,2588,B,B17,53722.5,80531.32643674503,49.90241786354882,6,0.21779159897752856
+5711,Transition Coordinator I,Transition Coordinator,1,Social Services,2575,B,B17,53722.5,53972.17598964713,0.46475124881959873,0,0.18777635789901864
+5713,Transition Coordinator II,Transition Coordinator,2,Social Services,2575,B,B21,70662.0,67562.56668524139,-4.386280199766018,-1,0.18777635789901864
+5720,Human Rights Officer I,Human Rights Officer,1,Social Services,2560,B,B19,62136.0,54361.443653651695,-12.512160979703136,-2,0.25238490476803227
+5721,Human Rights Officer II,Human Rights Officer,2,Social Services,2560,B,B21,70662.0,62281.94405359674,-11.859352900290544,-2,0.25238490476803227
+5722,Human Rights Officer III,Human Rights Officer,3,Social Services,2560,B,B23,80421.0,70695.67383418034,-12.093018199002332,-2,0.25238490476803227
+5723,Human Rights Officer IV,Human Rights Officer,4,Social Services,2560,B,B25,91835.5,82188.58426902232,-10.504560579490088,-2,0.25238490476803227
+5730,Guardianship Specialist I,Guardianship Specialist,1,Social Services,2545,B,B19,62136.0,57523.075726569,-7.4239157226584265,-1,0.25176049164437636
+5731,Guardianship Specialist II,Guardianship Specialist,2,Social Services,2545,B,B20,66254.5,63574.395587762214,-4.04516585626302,-1,0.25176049164437636
+5732,Guardianship Specialist III,Guardianship Specialist,3,Social Services,2545,B,B21,70662.0,79307.02466591878,12.234333398316966,2,0.25176049164437636
+5735,Guardianship Supervisor I,Guardianship Supervisor,1,Social Services,2547,B,B21,70662.0,77339.69497866617,9.450192435348727,1,0.23548055196807746
+5736,Guardianship Supervisor II,Guardianship Supervisor,2,Social Services,2547,B,B22,75376.0,87998.72909127884,16.746350418274883,2,0.23548055196807746
+5737,Guardianship Supervisor III,Guardianship Supervisor,3,Social Services,2547,B,B23,80421.0,95242.07776380752,18.429362683636757,2,0.23548055196807746
+59,Clerk III,Clerk,3,Administrative Support,0115,A,A11,39843.5,46486.79897120071,16.673482428001247,3,0.13883524746241846
+590,Research and Statistics Technician I,Research and Statistics Technician,1,"Planning, Research, and Statistics",2020,A,A12,41819.0,52559.27362200359,25.68276052034625,5,0.19713949157360924
+592,Research and Statistics Technician II,Research and Statistics Technician,2,"Planning, Research, and Statistics",2020,A,A14,46139.0,60332.63648898149,30.762774418564593,5,0.19713949157360924
+6,Receptionist I,Receptionist,1,Administrative Support,0105,A,A9,35320.0,40385.177039446426,14.34081834497865,2,0.18287966271721615
+600,Research Specialist I,Research Specialist,1,"Planning, Research, and Statistics",2015,B,B16,51024.0,58527.26359989797,14.705361398357619,2,0.2028244719624069
+602,Research Specialist II,Research Specialist,2,"Planning, Research, and Statistics",2015,B,B18,58288.0,66420.5073613135,13.952284108759066,2,0.2028244719624069
+604,Research Specialist III,Research Specialist,3,"Planning, Research, and Statistics",2015,B,B20,66254.5,71371.7826677019,7.723675626111302,1,0.2028244719624069
+6052,Forensic Scientist I,Forensic Scientist,1,Public Safety,2410,B,B20,66254.5,50735.35521051901,-23.423533178095052,-4,0.15023476276782918
+6053,Forensic Scientist II,Forensic Scientist,2,Public Safety,2410,B,B21,70662.0,55766.50047523032,-21.07992913414525,-4,0.15023476276782918
+6054,Forensic Scientist III,Forensic Scientist,3,Public Safety,2410,B,B22,75376.0,58890.39087687808,-21.871164725007823,-4,0.15023476276782918
+6055,Forensic Scientist IV,Forensic Scientist,4,Public Safety,2410,B,B23,80421.0,63715.56576982006,-20.77247762422744,-4,0.15023476276782918
+6056,Forensic Scientist V,Forensic Scientist,5,Public Safety,2410,B,B24,85869.0,72757.84733290509,-15.268784622034643,-3,0.15023476276782918
+6057,Forensic Scientist VI,Forensic Scientist,6,Public Safety,2410,B,B25,91835.5,88730.19319672194,-3.381379535449779,-1,0.15023476276782918
+606,Research Specialist IV,Research Specialist,4,"Planning, Research, and Statistics",2015,B,B22,75376.0,84405.13496654823,11.978792940124524,2,0.2028244719624069
+608,Research Specialist V,Research Specialist,5,"Planning, Research, and Statistics",2015,B,B24,85869.0,98479.37524896323,14.68559695462065,2,0.2028244719624069
+6095,Police Communications Operator I,Police Communications Operator,1,Public Safety,2425,B,B14,46139.0,55719.4288517222,20.764275020529762,3,0.27187594728764836
+6096,Police Communications Operator II,Police Communications Operator,2,Public Safety,2425,B,B15,48510.5,56740.78725863387,16.965991401106617,3,0.27187594728764836
+6097,Police Communications Operator III,Police Communications Operator,3,Public Safety,2425,B,B16,51024.0,62046.67595212073,21.602924020305647,3,0.27187594728764836
+6098,Police Communications Operator IV,Police Communications Operator,4,Public Safety,2425,B,B17,53722.5,70650.1046461083,31.509339003412517,4,0.27187594728764836
+6099,Police Communications Operator V,Police Communications Operator,5,Public Safety,2425,B,B19,62136.0,74056.2505939289,19.1841293194426,3,0.27187594728764836
+61,Clerk IV,Clerk,4,Administrative Support,0115,A,A13,43913.5,50855.249715999475,15.807780559507783,3,0.13883524746241846
+610,Research Specialist VI,Research Specialist,6,"Planning, Research, and Statistics",2015,B,B26,102980.0,117693.76757002131,14.287985599166236,1,0.2028244719624069
+6100,Police Communications Operator VI,Police Communications Operator,6,Public Safety,2425,B,B20,66254.5,79382.65080299783,19.81473077752882,3,0.27187594728764836
+6101,Police Communications Operator VII,Police Communications Operator,7,Public Safety,2425,B,B22,75376.0,82820.66400122484,9.876703461612275,1,0.27187594728764836
+6115,Biometrics Analyst I,Biometrics Analyst,1,Public Safety,2405,B,B13,43913.5,54206.50384941166,23.4392700409023,4,0.17792324759963238
+6116,Biometrics Analyst II,Biometrics Analyst,2,Public Safety,2405,B,B15,48510.5,60412.15928183516,24.53419214775174,4,0.17792324759963238
+6117,Biometrics Analyst III,Biometrics Analyst,3,Public Safety,2405,B,B17,53722.5,68625.99257612409,27.741621436314528,4,0.17792324759963238
+6118,Biometrics Analyst IV,Biometrics Analyst,4,Public Safety,2405,B,B19,62136.0,77019.784730972,23.95356110945658,3,0.17792324759963238
+6121,Crime Laboratory Specialist I,Crime Laboratory Specialist,1,Public Safety,2440,B,B18,58288.0,53964.06616439424,-7.418223022930588,-1,0.23377906103633855
+6122,Crime Laboratory Specialist II,Crime Laboratory Specialist,2,Public Safety,2440,B,B19,62136.0,59262.594953492444,-4.624380466247577,-1,0.23377906103633855
+6123,Crime Laboratory Specialist III,Crime Laboratory Specialist,3,Public Safety,2440,B,B20,66254.5,64878.18713634888,-2.0773122786393503,0,0.23377906103633855
+6124,Crime Laboratory Specialist IV,Crime Laboratory Specialist,4,Public Safety,2440,B,B21,70662.0,74595.25358037889,5.566292463245938,1,0.23377906103633855
+6160,Crime Analyst I,Crime Analyst,1,Public Safety,2480,B,B15,48510.5,61515.32689500134,26.808272219419077,4,0.4101818922634107
+6162,Crime Analyst II,Crime Analyst,2,Public Safety,2480,B,B17,53722.5,73488.69478122747,36.793140269398215,5,0.4101818922634107
+6163,Crime Analyst III,Crime Analyst,3,Public Safety,2480,B,B19,62136.0,76411.31302797134,22.97430318651231,3,0.4101818922634107
+6170,Criminal Intelligence Analyst I,Criminal Intelligence Analyst,1,Public Safety,2420,B,B21,70662.0,63313.08916460874,-10.400088923878897,-2,0.43412172485914313
+6172,Criminal Intelligence Analyst II,Criminal Intelligence Analyst,2,Public Safety,2420,B,B23,80421.0,73309.7496798471,-8.842529090850542,-1,0.43412172485914313
+6174,Criminal Intelligence Analyst III,Criminal Intelligence Analyst,3,Public Safety,2420,B,B25,91835.5,85627.39487293793,-6.760027578727181,-1,0.43412172485914313
+6221,Public Safety Records Technician I,Public Safety Records Technician,1,Public Safety,2471,A,A10,36740.5,40119.3421618523,9.196505659564473,1,0.24031442082494325
+6222,Public Safety Records Technician II,Public Safety Records Technician,2,Public Safety,2471,A,A11,39843.5,45252.27061153624,13.575038868413184,3,0.24031442082494325
+6223,Public Safety Records Technician III,Public Safety Records Technician,3,Public Safety,2471,A,A12,41819.0,50082.13368810985,19.759280920418604,4,0.24031442082494325
+6224,Public Safety Records Technician IV,Public Safety Records Technician,4,Public Safety,2471,A,A13,43913.5,58400.63264085875,32.99015710626282,5,0.24031442082494325
+6230,Security Officer I,Security Officer,1,Public Safety,2470,A,A11,39843.5,47393.54969526293,18.949263230546755,4,0.47556651262381644
+6232,Security Officer II,Security Officer,2,Public Safety,2470,A,A13,43913.5,57712.767894068464,31.423748719797867,5,0.47556651262381644
+6234,Security Officer III,Security Officer,3,Public Safety,2470,A,A15,48510.5,64687.63686816366,33.34770177211864,5,0.47556651262381644
+6236,Security Officer IV,Security Officer,4,Public Safety,2470,A,A17,53722.5,73450.86355413671,36.7227205624025,5,0.47556651262381644
+624,Statistician I,Statistician,1,"Planning, Research, and Statistics",2030,B,B18,58288.0,53644.58301704661,-7.966334379209108,-1,0.2854805911428562
+6241,Emergency Management Program Coordinator I,Emergency Management Program Coordinator,1,Public Safety,2490,B,B20,66254.5,64283.783730663294,-2.9744640278572745,0,0.15561094509979084
+6242,Emergency Management Program Coordinator II,Emergency Management Program Coordinator,2,Public Safety,2490,B,B22,75376.0,73813.483684905,-2.0729626341208913,0,0.15561094509979084
+6243,Emergency Management Program Coordinator III,Emergency Management Program Coordinator,3,Public Safety,2490,B,B24,85869.0,76367.7407109627,-11.064830484851718,-2,0.15561094509979084
+6244,Emergency Management Program Coordinator IV,Emergency Management Program Coordinator,4,Public Safety,2490,B,B25,91835.5,92011.51423832146,0.19166252519071883,0,0.15561094509979084
+626,Statistician II,Statistician,2,"Planning, Research, and Statistics",2030,B,B20,66254.5,61300.65005328483,-7.477001481733561,-1,0.2854805911428562
+628,Statistician III,Statistician,3,"Planning, Research, and Statistics",2030,B,B21,70662.0,75836.27621737057,7.322572552957057,1,0.2854805911428562
+630,Statistician IV,Statistician,4,"Planning, Research, and Statistics",2030,B,B23,80421.0,92573.49926570471,15.111101908338245,2,0.2854805911428562
+640,Economist I,Economist,1,"Planning, Research, and Statistics",2035,B,B19,62136.0,53852.15369209559,-13.331798487035606,-2,0.19713949157360922
+6400,Military Technician I,Military Technician,1,Military,2720,A,A10,36740.5,67919.29712628758,84.86220145694143,10,0.32052964854755084
+6401,Military Technician II,Military Technician,2,Military,2720,A,A12,41819.0,69936.40887760358,67.23596661231397,9,0.32052964854755084
+6402,Military Technician III,Military Technician,3,Military,2720,A,A14,46139.0,73996.52048815113,60.37738244901529,8,0.32052964854755084
+6403,Military Technician IV,Military Technician,4,Military,2720,A,A16,51024.0,80467.6944400794,57.705578629820145,6,0.32052964854755084
+6405,Military Technician V,Military Technician,5,Military,2720,A,A20,66254.5,84696.96005306588,27.835784819243813,2,0.32052964854755084
+642,Economist II,Economist,2,"Planning, Research, and Statistics",2035,B,B21,70662.0,61478.04087561207,-12.997026866474167,-2,0.19713949157360922
+644,Economist III,Economist,3,"Planning, Research, and Statistics",2035,B,B23,80421.0,80475.76558266784,0.06809860940280302,0,0.19713949157360922
+646,Economist IV,Economist,4,"Planning, Research, and Statistics",2035,B,B25,91835.5,103550.39293173143,12.756388250438572,1,0.19713949157360922
+650,Data Analyst I,Data Analyst,1,"Planning, Research, and Statistics",2040,B,B18,58288.0,60472.10631747591,3.7470942860895833,1,0.293613790533677
+6501,Military Specialist I,Military Specialist,1,Military,2705,B,B20,66254.5,54240.65469600667,-18.132874452291272,-3,0.27630228476786134
+6502,Military Specialist II,Military Specialist,2,Military,2705,B,B22,75376.0,56040.45408518849,-25.6521252319193,-4,0.27630228476786134
+6503,Military Specialist III,Military Specialist,3,Military,2705,B,B24,85869.0,60721.51456978608,-29.285872002950935,-5,0.27630228476786134
+6504,Military Specialist IV,Military Specialist,4,Military,2705,B,B27,113278.0,62946.98171298801,-44.43141500292378,-8,0.27630228476786134
+6505,Military Specialist V,Military Specialist,5,Military,2705,B,B30,150773.0,65660.77351377743,-56.45057569075538,-10,0.27630228476786134
+651,Data Analyst II,Data Analyst,2,"Planning, Research, and Statistics",2040,B,B20,66254.5,65927.56071386635,-0.49345974406817555,0,0.293613790533677
+652,Data Analyst III,Data Analyst,3,"Planning, Research, and Statistics",2040,B,B22,75376.0,73176.09598531616,-2.918573570743758,0,0.293613790533677
+653,Data Analyst IV,Data Analyst,4,"Planning, Research, and Statistics",2040,B,B24,85869.0,81656.92940953418,-4.905228418248553,-1,0.293613790533677
+654,Data Analyst V,Data Analyst,5,"Planning, Research, and Statistics",2040,B,B26,102980.0,95550.61852421863,-7.214392576987088,-1,0.293613790533677
+655,Data Analyst VI,Data Analyst,6,"Planning, Research, and Statistics",2040,B,B28,124606.0,109226.16514922115,-12.342772298909184,-1,0.293613790533677
+660,Data Scientist I,Data Scientist,1,"Planning, Research, and Statistics",2050,B,B28,124606.0,96136.69418572437,-22.847459844851432,-3,0.364719382607184
+662,Data Scientist II,Data Scientist,2,"Planning, Research, and Statistics",2050,B,B30,150773.0,109742.62749903227,-27.213342243616427,-3,0.364719382607184
+7306,Archeologist I,Archeologist,1,Library and Records,1520,B,B20,66254.5,57220.868261305295,-13.634744415390193,-2,0.2024711187963125
+7308,Archeologist II,Archeologist,2,Library and Records,1520,B,B22,75376.0,68342.93068956319,-9.330648098117148,-2,0.2024711187963125
+7310,Archeologist III,Archeologist,3,Library and Records,1520,B,B24,85869.0,78379.55921437468,-8.721937818799978,-1,0.2024711187963125
+7311,Archeologist IV,Archeologist,4,Library and Records,1520,B,B25,91835.5,92070.00321459428,0.2553513778379242,0,0.2024711187963125
+7315,Historian I,Historian,1,Library and Records,1525,B,B17,53722.5,56095.23497592254,4.416650334445572,1,0.16897854240284454
+7317,Historian II,Historian,2,Library and Records,1525,B,B19,62136.0,63731.44051903811,2.567658875753286,0,0.16897854240284454
+7319,Historian III,Historian,3,Library and Records,1525,B,B21,70662.0,80984.26104010607,14.60793784510205,2,0.16897854240284454
+7352,Library Assistant I,Library Assistant,1,Library and Records,1530,A,A11,39843.5,40075.9562848052,0.5834233558928643,0,0.14948720391851897
+7354,Library Assistant II,Library Assistant,2,Library and Records,1530,A,A13,43913.5,50726.56468372055,15.514738482973417,3,0.14948720391851897
+7401,Librarian I,Librarian,1,Library and Records,1540,B,B16,51024.0,52658.085497859814,3.202582114024446,1,0.2830043599239507
+7402,Librarian II,Librarian,2,Library and Records,1540,B,B18,58288.0,57367.26566101321,-1.5796293216216142,0,0.2830043599239507
+7403,Librarian III,Librarian,3,Library and Records,1540,B,B20,66254.5,70130.438618221,5.850076022339616,1,0.2830043599239507
+7404,Librarian IV,Librarian,4,Library and Records,1540,B,B22,75376.0,77658.36400681971,3.0279717772497037,0,0.2830043599239507
+7405,Archivist I,Archivist,1,Library and Records,1545,B,B16,51024.0,51303.36308350599,0.5475130987496228,0,0.197230313809303
+7407,Archivist II,Archivist,2,Library and Records,1545,B,B18,58288.0,55440.8768614731,-4.884578538510356,-1,0.197230313809303
+7409,Archivist III,Archivist,3,Library and Records,1545,B,B20,66254.5,62697.60642678724,-5.368531304609878,-1,0.197230313809303
+7411,Archivist IV,Archivist,4,Library and Records,1545,B,B22,75376.0,79842.82744724929,5.926060612461958,1,0.197230313809303
+7464,Exhibit Technician,Exhibit Technician,1,Library and Records,1555,B,B17,53722.5,58920.26328072867,9.675207372569519,1,0.17248803419410008
+7466,Curator I,Curator,1,Library and Records,1510,B,B16,51024.0,49985.566955245326,-2.0351854906605773,0,0.19430805967630527
+7468,Curator II,Curator,2,Library and Records,1510,B,B18,58288.0,54206.14785505293,-7.002903076014078,-1,0.19430805967630527
+7470,Curator III,Curator,3,Library and Records,1510,B,B20,66254.5,61505.11891606277,-7.168390198306864,-1,0.19430805967630527
+7472,Curator IV,Curator,4,Library and Records,1510,B,B22,75376.0,77687.52366004727,3.0666573711092413,0,0.19430805967630527
+7480,Records Analyst I,Records Analyst,1,Library and Records,1560,B,B15,48510.5,53366.89414828227,10.011016477427011,2,0.24332480107995766
+7481,Records Analyst II,Records Analyst,2,Library and Records,1560,B,B17,53722.5,61046.201191565,13.63246533866627,2,0.24332480107995766
+7482,Records Analyst III,Records Analyst,3,Library and Records,1560,B,B19,62136.0,71772.76368759888,15.509147173295396,2,0.24332480107995766
+8,Receptionist II,Receptionist,2,Administrative Support,0105,A,A11,39843.5,41583.8510573498,4.3679673154963,1,0.18287966271721615
+8003,Custodian I,Custodian,1,Custodial,0303,A,A7,32679.0,34985.09667496523,7.056815309419591,2,0.18244140023909064
+8005,Custodian II,Custodian,2,Custodial,0303,A,A8,33967.0,38853.589655098825,14.386285674621924,3,0.18244140023909064
+8007,Custodian III,Custodian,3,Custodial,0303,A,A10,36740.5,43933.23727222035,19.577134966101006,3,0.18244140023909064
+8009,Custodian IV,Custodian,4,Custodial,0303,A,A12,41819.0,53834.29497878354,28.73166498190667,5,0.18244140023909064
+8021,Custodial Manager I,Custodial Manager,1,Custodial,0306,A,A13,43913.5,43981.30694504726,0.15441024980300397,0,0.2501174915713252
+8023,Custodial Manager II,Custodial Manager,2,Custodial,0306,A,A15,48510.5,46384.55754670775,-4.382437726455689,-1,0.2501174915713252
+8025,Custodial Manager III,Custodial Manager,3,Custodial,0306,A,A17,53722.5,51742.94567099208,-3.6847770096476022,-1,0.2501174915713252
+8032,Groundskeeper I,Groundskeeper,1,Custodial,0313,A,A8,33967.0,38208.3978743799,12.486819190331511,2,0.2570149228750377
+8033,Groundskeeper II,Groundskeeper,2,Custodial,0313,A,A10,36740.5,42750.14923527786,16.357015378881197,2,0.2570149228750377
+8034,Groundskeeper III,Groundskeeper,3,Custodial,0313,A,A12,41819.0,46979.87796343928,12.340988458450195,2,0.2570149228750377
+8035,Groundskeeper IV,Groundskeeper,4,Custodial,0313,A,A14,46139.0,57538.207696968704,24.706230514247675,4,0.2570149228750377
+8103,Food Service Worker I,Food Service Worker,1,Custodial,0323,A,A7,32679.0,33686.48540787277,3.082975023326212,1,0.19151829934537987
+8104,Food Service Worker II,Food Service Worker,2,Custodial,0323,A,A9,35320.0,34758.25446906869,-1.5904460105642055,0,0.19151829934537987
+8105,Food Service Worker III,Food Service Worker,3,Custodial,0323,A,A11,39843.5,44224.32154607864,10.995072084728003,2,0.19151829934537987
+8108,Food Service Manager I,Food Service Manager,1,Custodial,0326,A,A13,43913.5,48686.75414788506,10.86967367184361,2,0.19090160050613772
+8109,Food Service Manager II,Food Service Manager,2,Custodial,0326,A,A15,48510.5,52919.13542769975,9.088002448335326,2,0.19090160050613772
+8110,Food Service Manager III,Food Service Manager,3,Custodial,0326,A,A17,53722.5,57372.52934311954,6.794228383116057,1,0.19090160050613772
+8111,Food Service Manager IV,Food Service Manager,4,Custodial,0326,A,A19,62136.0,66716.00750141664,7.370940358916878,1,0.19090160050613772
+8117,Cook I,Cook,1,Custodial,0329,A,A9,35320.0,36581.0948048919,3.5704835925592557,1,0.18935047780185266
+8118,Cook II,Cook,2,Custodial,0329,A,A11,39843.5,46926.31199648241,17.776580863835687,3,0.18935047780185266
+8119,Cook III,Cook,3,Custodial,0329,A,A13,43913.5,56766.59118525718,29.26911128754746,5,0.18935047780185266
+812,Teacher Aide I,Teacher Aide,1,Education,0405,A,A11,39843.5,40194.62904511487,0.8812705839467903,0,0.15803065526428792
+813,Teacher Aide II,Teacher Aide,2,Education,0405,A,A13,43913.5,46166.99013180452,5.131656852231091,1,0.15803065526428792
+814,Teacher Aide III,Teacher Aide,3,Education,0405,A,A15,48510.5,51759.92453998959,6.6983942445234534,1,0.15803065526428792
+815,Teacher Aide IV,Teacher Aide,4,Education,0405,A,A17,53722.5,57701.485715871175,7.406553522027382,1,0.15803065526428792
+820,Education Specialist I,Education Specialist,1,Education,0415,B,B17,53722.5,56302.26747865998,4.8020242517752605,1,0.17130828933121936
+821,Education Specialist II,Education Specialist,2,Education,0415,B,B19,62136.0,60968.33367184802,-1.8792106478563477,0,0.17130828933121936
+822,Education Specialist III,Education Specialist,3,Education,0415,B,B21,70662.0,67030.21971852094,-5.139651129997882,-1,0.17130828933121936
+823,Education Specialist IV,Education Specialist,4,Education,0415,B,B23,80421.0,79524.64768756562,-1.1145749399216416,0,0.17130828933121936
+824,Education Specialist V,Education Specialist,5,Education,0415,B,B25,91835.5,90173.65177267279,-1.8095923987206928,0,0.17130828933121936
+8252,Laundry/Sewing Room Worker I,Laundry/Sewing Room Worker,1,Custodial,0347,A,A7,32679.0,34523.1893370263,5.643346910940645,1,0.2504037513620312
+8253,Laundry/Sewing Room Worker II,Laundry/Sewing Room Worker,2,Custodial,0347,A,A9,35320.0,38700.60990141521,9.571375711821196,2,0.2504037513620312
+8254,Laundry/Sewing Room Worker III,Laundry/Sewing Room Worker,3,Custodial,0347,A,A11,39843.5,43698.99796049006,9.676604616788257,2,0.2504037513620312
+8261,Laundry Manager I,Laundry Manager,1,Custodial,0349,A,A15,48510.5,44358.8469491374,-8.55825656479038,-2,0.23721420387920125
+8262,Laundry Manager II,Laundry Manager,2,Custodial,0349,A,A17,53722.5,50193.88070075312,-6.5682336064905575,-1,0.23721420387920125
+8263,Laundry Manager III,Laundry Manager,3,Custodial,0349,A,A19,62136.0,58131.28992105133,-6.4450722269677945,-1,0.23721420387920125
+8302,Barber/Cosmetologist,Barber/Cosmetologist,1,Custodial,0353,A,A9,35320.0,55976.96169258639,58.48516900505785,9,0.28278679786612515
+9026,Equipment Operator I,Equipment Operator,1,Maintenance,1605,A,A18,58288.0,47574.29119061305,-18.380642343856316,-3,0.1756588431347596
+9027,Equipment Operator II,Equipment Operator,2,Maintenance,1605,A,A19,62136.0,53256.371457240624,-14.290634322710527,-2,0.1756588431347596
+9028,Equipment Operator III,Equipment Operator,3,Maintenance,1605,A,A20,66254.5,64581.5102347875,-2.5250960541736696,0,0.1756588431347596
+9034,Air Conditioning and Boiler Operator I,Air Conditioning and Boiler Operator,1,Maintenance,1608,A,A13,43913.5,55325.812442027556,25.988164099940864,4,0.11656487751310889
+9035,Air Conditioning and Boiler Operator II,Air Conditioning and Boiler Operator,2,Maintenance,1608,A,A15,48510.5,56604.992906623665,16.68606364936173,3,0.11656487751310889
+9036,Air Conditioning and Boiler Operator III,Air Conditioning and Boiler Operator,3,Maintenance,1608,A,A17,53722.5,59935.79126832875,11.565528909355924,1,0.11656487751310889
+9037,Air Conditioning and Boiler Operator IV,Air Conditioning and Boiler Operator,4,Maintenance,1608,A,A19,62136.0,67612.12152920691,8.813122069664717,1,0.11656487751310889
+9041,Maintenance Specialist I,Maintenance Specialist,1,Maintenance,1610,A,A11,39843.5,43215.80769964778,8.463884196036368,2,0.10706338746768249
+9042,Maintenance Specialist II,Maintenance Specialist,2,Maintenance,1610,A,A13,43913.5,45044.361631777065,2.575202686593071,1,0.10706338746768249
+9043,Maintenance Specialist III,Maintenance Specialist,3,Maintenance,1610,A,A14,46139.0,49502.91867562,7.29083568265464,1,0.10706338746768249
+9044,Maintenance Specialist IV,Maintenance Specialist,4,Maintenance,1610,A,A16,51024.0,57212.149923827055,12.127920045129903,2,0.10706338746768249
+9045,Maintenance Specialist V,Maintenance Specialist,5,Maintenance,1610,A,A18,58288.0,59252.33893324111,1.6544381918080804,0,0.10706338746768249
+9046,Maintenance Specialist VI,Maintenance Specialist,6,Maintenance,1610,A,A20,66254.5,69652.42385263299,5.128593307070446,1,0.10706338746768249
+9053,Maintenance Supervisor I,Maintenance Supervisor,1,Maintenance,1614,A,A17,53722.5,56143.1486769855,4.505837734627917,1,0.16706591005061983
+9054,Maintenance Supervisor II,Maintenance Supervisor,2,Maintenance,1614,A,A18,58288.0,65225.87145230579,11.902744050757919,2,0.16706591005061983
+9055,Maintenance Supervisor III,Maintenance Supervisor,3,Maintenance,1614,A,A19,62136.0,68713.248279618,10.58524571845299,2,0.16706591005061983
+9056,Maintenance Supervisor IV,Maintenance Supervisor,4,Maintenance,1614,A,A21,70662.0,79607.23261598594,12.659184025340192,1,0.16706591005061983
+9060,Electronics Technician I,Electronics Technician,1,Maintenance,1625,A,A16,51024.0,47008.849312538834,-7.869141359872109,-2,0.2657682772416151
+9062,Electronics Technician II,Electronics Technician,2,Maintenance,1625,A,A18,58288.0,54333.479343575505,-6.784450755600649,-1,0.2657682772416151
+9064,Electronics Technician III,Electronics Technician,3,Maintenance,1625,A,A20,66254.5,58898.87507996534,-11.102075964703763,-2,0.2657682772416151
+9066,Electronics Technician IV,Electronics Technician,4,Maintenance,1625,A,A22,75376.0,67131.84435903809,-10.93737481554061,-2,0.2657682772416151
+9305,Transportation Maintenance Specialist I,Transportation Maintenance Specialist,1,Maintenance,1618,A,A16,51024.0,51869.26653553009,1.6566057845917908,0,0.19428045904054192
+9306,Transportation Maintenance Specialist II,Transportation Maintenance Specialist,2,Maintenance,1618,A,A17,53722.5,53882.95319446764,0.2986703792035476,0,0.19428045904054192
+9307,Transportation Maintenance Specialist III,Transportation Maintenance Specialist,3,Maintenance,1618,A,A18,58288.0,59570.27006383214,2.199886878657916,0,0.19428045904054192
+9308,Transportation Maintenance Specialist IV,Transportation Maintenance Specialist,4,Maintenance,1618,A,A19,62136.0,65531.3732643194,5.464422016736447,1,0.19428045904054192
+9309,Transportation Maintenance Specialist V,Transportation Maintenance Specialist,5,Maintenance,1618,A,A20,66254.5,68686.1735499525,3.670201344742617,1,0.19428045904054192
+9310,Transportation Maintenance Specialist VI,Transportation Maintenance Specialist,6,Maintenance,1618,A,A21,70662.0,77382.35260864091,9.51056099267054,1,0.19428045904054192
+9311,Transportation Maintenance Specialist VII,Transportation Maintenance Specialist,7,Maintenance,1618,A,A22,75376.0,77556.45406309278,2.8927696655338733,0,0.19428045904054192
+9323,Vehicle Driver I,Vehicle Driver,1,Maintenance,1640,A,A12,41819.0,55793.15936270359,33.41581425357756,5,0.14740219740090132
+9324,Vehicle Driver II,Vehicle Driver,2,Maintenance,1640,A,A14,46139.0,61060.257397916546,32.339793662447335,5,0.14740219740090132
+9325,Vehicle Driver III,Vehicle Driver,3,Maintenance,1640,A,A16,51024.0,70581.36519800949,38.329737374587474,5,0.14740219740090132
+9326,Vehicle Driver IV,Vehicle Driver,4,Maintenance,1640,A,A18,58288.0,73755.78772209233,26.536830431808106,4,0.14740219740090132
+9327,Vehicle Driver V,Vehicle Driver,5,Maintenance,1640,A,A20,66254.5,74624.87795122291,12.633674620173604,2,0.14740219740090132
+9330,Commercial Driver I,Commercial Driver,1,Maintenance,1612,B,B20,66254.5,56391.20927821211,-14.886974804410094,-2,0.3105302474339613
+9332,Commercial Driver II,Commercial Driver,2,Maintenance,1612,B,B21,70662.0,57393.94898144596,-18.77678387047364,-3,0.3105302474339613
+9334,Commercial Driver III,Commercial Driver,3,Maintenance,1612,B,B22,75376.0,60853.330184818304,-19.2669680205658,-3,0.3105302474339613
+9336,Commercial Driver IV,Commercial Driver,4,Maintenance,1612,B,B23,80421.0,66460.78485208424,-17.3589176308623,-3,0.3105302474339613
+9416,Motor Vehicle Technician I,Motor Vehicle Technician,1,Maintenance,1642,A,A12,41819.0,43766.26933967293,4.656422534429167,1,0.1648536028184434
+9417,Motor Vehicle Technician II,Motor Vehicle Technician,2,Maintenance,1642,A,A14,46139.0,48819.34322811409,5.809278978985488,1,0.1648536028184434
+9418,Motor Vehicle Technician III,Motor Vehicle Technician,3,Maintenance,1642,A,A16,51024.0,50167.69458349356,-1.6782404682236236,0,0.1648536028184434
+9419,Motor Vehicle Technician IV,Motor Vehicle Technician,4,Maintenance,1642,A,A18,58288.0,57928.9460120683,-0.6159998420459081,0,0.1648536028184434
+9420,Motor Vehicle Technician V,Motor Vehicle Technician,5,Maintenance,1642,A,A20,66254.5,64171.56720126242,-3.143835963953507,0,0.1648536028184434
+9512,Machinist I,Machinist,1,Maintenance,1644,A,A16,51024.0,48162.72823047217,-5.60769788634331,-1,0.13840318559731024
+9514,Machinist II,Machinist,2,Maintenance,1644,A,A18,58288.0,56807.99651108655,-2.539122098739819,0,0.13840318559731024
+9628,Aircraft Pilot I,Aircraft Pilot,1,Maintenance,1654,B,B26,102980.0,70613.23146720984,-31.430150060973112,-5,0.3058683086449935
+9629,Aircraft Pilot II,Aircraft Pilot,2,Maintenance,1654,B,B27,113278.0,77187.87735480846,-31.859780932918625,-5,0.3058683086449935
+9630,Aircraft Pilot III,Aircraft Pilot,3,Maintenance,1654,B,B28,124606.0,84009.78470567887,-32.579663334286536,-4,0.3058683086449935
+9631,Aircraft Pilot IV,Aircraft Pilot,4,Maintenance,1654,B,B29,137066.0,86387.70075156154,-36.97364718342879,-5,0.3058683086449935
+9632,Aircraft Pilot V,Aircraft Pilot,5,Maintenance,1654,B,B30,150773.0,90471.61767372373,-39.99481493787106,-5,0.3058683086449935
+9638,Aircraft Mechanic I,Aircraft Mechanic,1,Maintenance,1656,B,B22,75376.0,55634.43600557642,-26.190782204446457,-5,0.1442818454401734
+9640,Aircraft Mechanic II,Aircraft Mechanic,2,Maintenance,1656,B,B23,80421.0,61033.400924716625,-24.10763242844951,-4,0.1442818454401734
+9642,Aircraft Mechanic III,Aircraft Mechanic,3,Maintenance,1656,B,B24,85869.0,67092.69663033805,-21.866218739780333,-4,0.1442818454401734
+9644,Aircraft Mechanic IV,Aircraft Mechanic,4,Maintenance,1656,B,B25,91835.5,74511.61313583005,-18.86404153532119,-3,0.1442818454401734
+9650,Aircraft Inspector I,Aircraft Inspector,1,Maintenance,1630,B,B26,102980.0,65781.95112143423,-36.12162446937825,-6,0.22188738795223029
+9652,Aircraft Inspector II,Aircraft Inspector,2,Maintenance,1630,B,B27,113278.0,74771.74069643884,-33.99270758978899,-5,0.22188738795223029
+9660,Flight Operations Coordinator I,Flight Operations Coordinator,1,Maintenance,1635,B,B22,75376.0,65957.22513605992,-12.49572126929004,-2,0.1263336569218241
+9662,Flight Operations Coordinator II,Flight Operations Coordinator,2,Maintenance,1635,B,B24,85869.0,75260.45661950762,-12.354334370369296,-2,0.1263336569218241
+9700,Radio Communications Technician I,Radio Communications Technician,1,Maintenance,1672,A,A13,43913.5,45901.32337830707,4.526679445516861,1,0.17664033398092183
+9704,Radio Communications Technician II,Radio Communications Technician,2,Maintenance,1672,A,A15,48510.5,51870.621274486795,6.926585531970931,1,0.17664033398092183
+9706,Radio Communications Technician III,Radio Communications Technician,3,Maintenance,1672,A,A17,53722.5,58500.49115989139,8.893836213674664,1,0.17664033398092183
+9733,Equipment Maintenance Technician I,Equipment Maintenance Technician,1,Maintenance,1666,A,A15,48510.5,46407.58043442891,-4.3349781296237415,-1,0.1766403339809218
+9734,Equipment Maintenance Technician II,Equipment Maintenance Technician,2,Maintenance,1666,A,A17,53722.5,52812.02747239672,-1.6947694682922239,0,0.1766403339809218
+9735,Equipment Maintenance Technician III,Equipment Maintenance Technician,3,Maintenance,1666,A,A19,62136.0,62608.2576746504,0.7600387450919837,0,0.1766403339809218
+9790,Welder I,Welder,1,Maintenance,1668,A,A19,62136.0,44194.652909515746,-28.874319380848924,-6,0.21186435283247237
+9792,Welder II,Welder,2,Maintenance,1668,A,A21,70662.0,54361.32678379534,-23.06851379270994,-4,0.21186435283247237
+9802,Electrician I,Electrician,1,Maintenance,1620,A,A16,51024.0,46884.29852349747,-8.113243721586928,-2,0.15014446298656436
+9804,Electrician II,Electrician,2,Maintenance,1620,A,A18,58288.0,51357.26878607787,-11.890494122155754,-2,0.15014446298656436
+9806,Electrician III,Electrician,3,Maintenance,1620,A,A20,66254.5,59894.825105024946,-9.598857277581219,-2,0.15014446298656436
+9808,Electrician IV,Electrician,4,Maintenance,1620,A,A22,75376.0,63930.36726143137,-15.18471760052086,-3,0.15014446298656436
+9812,HVAC Mechanic I,HVAC Mechanic,1,Maintenance,1622,A,A16,51024.0,41140.31337107442,-19.370662098082388,-4,0.15574860334671237
+9814,HVAC Mechanic II,HVAC Mechanic,2,Maintenance,1622,A,A18,58288.0,49473.37224411106,-15.122542814797141,-3,0.15574860334671237
+9816,HVAC Mechanic III,HVAC Mechanic,3,Maintenance,1622,A,A20,66254.5,58956.97017716305,-11.014391207898253,-2,0.15574860334671237
+9818,HVAC Mechanic IV,HVAC Mechanic,4,Maintenance,1622,A,A22,75376.0,71327.40050927708,-5.371205013164533,-1,0.15574860334671237
+9820,Plumber I,Plumber,1,Maintenance,1680,A,A16,51024.0,52984.73402169605,3.8427681516464194,1,0.19277516701862968
+9822,Plumber II,Plumber,2,Maintenance,1680,A,A18,58288.0,57420.1354133478,-1.4889249702378078,0,0.19277516701862968
+9824,Plumber III,Plumber,3,Maintenance,1680,A,A20,66254.5,66081.89505610126,-0.2605180688085079,0,0.19277516701862968
+9826,Plumber IV,Plumber,4,Maintenance,1680,A,A22,75376.0,76682.61498236957,1.733462882574834,0,0.19277516701862968
+9832,Ferryboat Specialist I,Ferryboat Specialist,1,Maintenance,1650,B,B22,75376.0,57636.7716202046,-23.53431911987288,-4,0.2185031536595317
+9834,Ferryboat Specialist II,Ferryboat Specialist,2,Maintenance,1650,B,B23,80421.0,61914.979506718344,-23.01142797687378,-4,0.2185031536595317
+9836,Ferryboat Specialist III,Ferryboat Specialist,3,Maintenance,1650,B,B24,85869.0,70118.81753223711,-18.34210537884791,-3,0.2185031536595317
+9838,Ferryboat Deckhand I,Ferryboat Deckhand,1,Maintenance,1652,A,A13,43913.5,60672.0706313272,38.16268489491199,6,0.12065507169960435
+9839,Ferryboat Deckhand II,Ferryboat Deckhand,2,Maintenance,1652,A,A15,48510.5,66026.13412205885,36.1068925738939,5,0.12065507169960435
+9840,Ferryboat Deckhand III,Ferryboat Deckhand,3,Maintenance,1652,A,A17,53722.5,73828.21730728738,37.42513343066195,5,0.12065507169960435
+9846,Ferryboat Captain Assistant I,Ferryboat Captain Assistant,1,Maintenance,1690,A,A18,58288.0,65449.551175458895,12.286493232670319,2,0.20966062529512758
+9848,Ferryboat Captain Assistant II,Ferryboat Captain Assistant,2,Maintenance,1690,A,A20,66254.5,68393.62730225941,3.2286520949662627,0,0.20966062529512758
+9850,Ferryboat Captain I,Ferryboat Captain,1,Maintenance,1685,B,B22,75376.0,66791.2499010511,-11.389235431634578,-2,0.23910743683255728
+9852,Ferryboat Captain II,Ferryboat Captain,2,Maintenance,1685,B,B23,80421.0,70455.17588751214,-12.39206688860852,-2,0.23910743683255728
+9854,Ferryboat Captain III,Ferryboat Captain,3,Maintenance,1685,B,B24,85869.0,75697.85643450017,-11.844954017747803,-2,0.23910743683255728
