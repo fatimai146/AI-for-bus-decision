@@ -1,0 +1,14 @@
+metric,value,unit
+Salary groups (Schedules A and B),46.0,
+"Median range spread, Schedule B",0.6333634811594657,pct
+"Median midpoint step between adjacent groups, Schedule B",0.07635775511082743,pct
+Career ladders (job series with 2+ levels),271.0,
+Adjacent level pairs,851.0,
+Median midpoint step between levels,0.1372151409810738,pct
+Level pairs with midpoint step below 10%,0.1927144535840188,pct
+Level pairs with midpoint step 10%-15%,0.6227967097532315,pct
+Level pairs in the same salary group (no pay step),0.0,pct
+Median range overlap between levels,0.7891566265060241,pct
+Level pairs with range overlap above 50%,0.9964747356051704,pct
+Level pairs with staff at both levels in the same agency,544.0,
+Lower-level staff paid above the next level's median (same agency),0.061020263596364324,pct

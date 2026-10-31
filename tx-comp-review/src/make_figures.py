@@ -141,6 +141,43 @@ def fig_market():
     save(fig, "fig6_market_index")
 
 
+def fig_structure():
+    from common import connect
+    con = connect()
+    lad = con.execute("""
+        SELECT c.level, c.class_title_sao AS title, c.salary_group, r.range_min, r.range_max, r.range_mid,
+               quantile_cont(e.annual, 0.1) AS p10, median(e.annual) AS p50, quantile_cont(e.annual, 0.9) AS p90,
+               count(e.annual) AS n
+        FROM classes c JOIN ranges r USING (salary_group)
+        LEFT JOIN emp e USING (class_code)
+        WHERE c.series = 'Accountant' GROUP BY ALL ORDER BY c.level""").df()
+    con.close()
+    pairs = pd.read_csv(OUT / "structure_ladders.csv")
+
+    fig, (a1, a2) = plt.subplots(1, 2, figsize=(10.5, 4), gridspec_kw={"width_ratios": [1.3, 1]})
+    for i, r in lad.iterrows():
+        a1.bar(i, (r["range_max"] - r["range_min"]) / 1e3, bottom=r["range_min"] / 1e3, width=0.6,
+               color=COLORS["mid"], alpha=0.6, label="Official range" if i == 0 else None)
+        a1.plot([i, i], [r["p10"] / 1e3, r["p90"] / 1e3], color=COLORS["tenured"], lw=2,
+                label="Actual pay, 10th-90th pct" if i == 0 else None)
+        a1.plot(i, r["p50"] / 1e3, "o", color=COLORS["tenured"], label="Actual median" if i == 0 else None)
+    a1.set_xticks(range(len(lad)), [f"{t.split()[-1]}\n{g}" for t, g in zip(lad["title"], lad["salary_group"])])
+    a1.set_ylim(lad["range_min"].min() / 1e3 - 5, lad["range_max"].max() / 1e3 + 5)
+    a1.set_ylabel("Annual salary ($k)")
+    a1.set_xlabel("Accountant level and salary group")
+    a1.set_title("Example ladder (Accountant I-VII): wide, overlapping ranges,\nactual pay clustered mid-range", fontsize=9)
+    a1.legend(frameon=False, fontsize=7.5, loc="upper left")
+
+    a2.hist(pairs["range_overlap"] * 100, bins=range(0, 101, 5), color=COLORS["neutral"])
+    a2.set_xlim(30, 100)
+    a2.axvline(50, color="black", ls="--", lw=0.8)
+    a2.text(48, a2.get_ylim()[1] * 0.92, "common guide:\nunder 50%", ha="right", fontsize=7.5)
+    a2.set_xlabel("Range overlap with the next level up (%)")
+    a2.set_ylabel("Adjacent level pairs")
+    a2.set_title(f"All {len(pairs)} level pairs in {pairs['series'].nunique()} career ladders", fontsize=9)
+    save(fig, "fig7_structure")
+
+
 def main():
     ensure_dirs()
     fig_tenure_premium()
@@ -149,6 +186,7 @@ def main():
     fig_cost_by_agency()
     fig_pay_equity()
     fig_market()
+    fig_structure()
     print("figures written to", FIG)
 
 

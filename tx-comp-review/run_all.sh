@@ -13,5 +13,6 @@ $PY range_position.py
 $PY cost_to_fix.py
 $PY pay_equity.py
 $PY market.py
+$PY structure.py
 $PY make_figures.py
 $PY export_tableau.py

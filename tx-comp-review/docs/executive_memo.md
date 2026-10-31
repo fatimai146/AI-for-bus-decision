@@ -43,14 +43,22 @@ In 7 titles, new hires are paid significantly more:
 New hires sit 47% of the way into their pay range (compa-ratio 0.99).
 Staff with 10–20 years sit at only 59%, and 20+ years at 62%.
 
-**4. Pay equity within jobs is strong.**
+**4. The salary structure has room the State does not use.**
+Ranges are wide (median spread 63%). Career-ladder levels step up a median
+13.7% in midpoint, within the common 10–15% guide, but adjacent levels overlap
+by 79% (guide: under 50%). Despite that overlap, only 6% of staff are paid
+above the next level's median at their agency, because pay sits mid-range.
+The structure could reward experience; the pay policy does not move people
+through it.
+
+**5. Pay equity within jobs is strong.**
 Raw gaps are sizeable: women earn 6.3% less than men, and Black and Hispanic
 employees 14.4% and 11.0% less than White employees. Once job title, agency
 and tenure are matched, every gap is under 0.5%. Three agencies show a
 statistically significant adjusted gender gap, all under 1%: the Office of the
 Attorney General (−1.0%), TCEQ (−0.8%), and Parks and Wildlife (−0.5%).
 
-**5. Professional and technology pay trails the market.**
+**6. Professional and technology pay trails the market.**
 Across 21 benchmark jobs, state median pay is 86% of the Texas market median
 (technology roles: 84%). The largest gaps: systems administrators (0.71),
 accountants (0.74), cybersecurity analysts (0.77), attorneys (0.79).
@@ -73,7 +81,9 @@ median is normal pay spread rather than underpayment.
    Investigator V and IT Business Analyst III first) and correct tenured pay.
 2. **Consider Option A** as a statewide floor in the next budget cycle.
 3. **Adopt an in-range progression policy** (Option B or a cheaper version) so
-   experience is paid without requiring a promotion.
+   experience is paid without requiring a promotion. The existing range width
+   already allows this. Review the 19% of ladder steps under 10%, where a
+   promotion barely changes pay.
 4. **Run a proper market study** for systems administrators, cybersecurity
    analysts, accountants and data roles, where the base-pay gap looks largest,
    using level-matched survey data and total rewards.

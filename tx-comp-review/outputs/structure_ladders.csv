@@ -1,0 +1,852 @@
+series,occ_category,level,class_title,salary_group,hi_class_title,hi_salary_group,midpoint_step,range_overlap,same_group,n_lower_matched,n_upper,pay_overlap
+Accessibility Specialist,Information Technology,1,Accessibility Specialist I,B21,Accessibility Specialist II,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Accessibility Specialist,Information Technology,2,Accessibility Specialist II,B23,Accessibility Specialist III,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Accountant,"Accounting, Auditing, and Finance",1,Accountant I,B15,Accountant II,B16,0.05181352490697888,0.8981593161676019,False,73,226,0.6575342465753424
+Accountant,"Accounting, Auditing, and Finance",2,Accountant II,B16,Accountant III,B18,0.14236437754782072,0.7722640015832178,False,235,345,0.10212765957446808
+Accountant,"Accounting, Auditing, and Finance",3,Accountant III,B18,Accountant IV,B20,0.13667478726324456,0.779235529098457,False,327,267,0.04892966360856269
+Accountant,"Accounting, Auditing, and Finance",4,Accountant IV,B20,Accountant V,B22,0.13767366744900356,0.7861756036167323,False,226,210,0.02654867256637168
+Accountant,"Accounting, Auditing, and Finance",5,Accountant V,B22,Accountant VI,B24,0.1392087667161961,0.7891566265060241,False,190,133,0.021052631578947368
+Accountant,"Accounting, Auditing, and Finance",6,Accountant VI,B24,Accountant VII,B26,0.1992686534139212,0.7248735853599807,False,72,48,0.06944444444444445
+Accounting Technician,"Accounting, Auditing, and Finance",1,Accounting Technician I,A11,Accounting Technician II,A13,0.10214966054688968,0.7931837848632097,False,13,117,0.0
+Accounting Technician,"Accounting, Auditing, and Finance",2,Accounting Technician II,A13,Accounting Technician III,A15,0.10468307012649869,0.7913151218360965,False,0,0,
+Accounts Examiner,"Accounting, Auditing, and Finance",1,Accounts Examiner I,B13,Accounts Examiner II,B15,0.10468307012649869,0.7913151218360965,False,75,70,0.013333333333333334
+Accounts Examiner,"Accounting, Auditing, and Finance",2,Accounts Examiner II,B15,Accounts Examiner III,B17,0.1074406571773121,0.7902354606953694,False,70,271,0.0
+Accounts Examiner,"Accounting, Auditing, and Finance",3,Accounts Examiner III,B17,Accounts Examiner IV,B19,0.15661035878821727,0.7548969431908064,False,259,172,0.015444015444015444
+Accounts Examiner,"Accounting, Auditing, and Finance",4,Accounts Examiner IV,B19,Accounts Examiner V,B21,0.1372151409810738,0.7828246472790095,False,167,88,0.011976047904191617
+Accounts Examiner,"Accounting, Auditing, and Finance",5,Accounts Examiner V,B21,Accounts Examiner VI,B23,0.13810817695508204,0.78924560546875,False,62,12,0.04838709677419355
+Actuary,Insurance,1,Actuary I,B21,Actuary II,B23,0.13810817695508204,0.78924560546875,False,8,7,0.0
+Actuary,Insurance,2,Actuary II,B23,Actuary III,B25,0.14193432063764444,0.7819826376254093,False,11,12,0.0
+Actuary,Insurance,3,Actuary III,B25,Actuary IV,B27,0.23348813911831479,0.6718844745884519,False,5,9,0.0
+Actuary,Insurance,4,Actuary IV,B27,Actuary V,B31,0.46410159077667323,0.32860186967280725,False,9,11,0.0
+Administrative Assistant,Administrative Support,1,Administrative Assistant I,A9,Administrative Assistant II,A11,0.1280719139297848,0.769723776855028,False,817,1766,0.037943696450428395
+Administrative Assistant,Administrative Support,2,Administrative Assistant II,A11,Administrative Assistant III,A13,0.10214966054688968,0.7931837848632097,False,1738,1564,0.15822784810126583
+Administrative Assistant,Administrative Support,3,Administrative Assistant III,A13,Administrative Assistant IV,A15,0.10468307012649869,0.7913151218360965,False,1539,1238,0.11630929174788823
+Administrative Assistant,Administrative Support,4,Administrative Assistant IV,A15,Administrative Assistant V,A17,0.1074406571773121,0.7902354606953694,False,1152,516,0.10677083333333333
+Administrative Assistant,Administrative Support,5,Administrative Assistant V,A17,Administrative Assistant VI,A19,0.15661035878821727,0.7548969431908064,False,331,188,0.021148036253776436
+Administrative Law Judge,Legal,1,Administrative Law Judge I,B25,Administrative Law Judge II,B26,0.12135285374392257,0.843735261751297,False,0,39,
+Administrative Law Judge,Legal,2,Administrative Law Judge II,B26,Administrative Law Judge III,B27,0.10000000000000009,0.8553497164461248,False,29,27,0.0
+Administrative Law Judge,Legal,3,Administrative Law Judge III,B27,Administrative Law Judge IV,B28,0.10000176556789486,0.8553409403354413,False,27,20,0.07407407407407407
+Adult Protective Services Specialist,Social Services,1,Adult Protective Services Specialist I,B17,Adult Protective Services Specialist II,B18,0.08498301456559165,0.8815893546736147,False,107,78,0.17757009345794392
+Adult Protective Services Specialist,Social Services,2,Adult Protective Services Specialist II,B18,Adult Protective Services Specialist III,B19,0.06601701894043366,0.8933578757734785,False,78,152,0.1794871794871795
+Adult Protective Services Specialist,Social Services,3,Adult Protective Services Specialist III,B19,Adult Protective Services Specialist IV,B20,0.06628202652246684,0.8951194932335157,False,152,160,0.26973684210526316
+Adult Protective Services Specialist,Social Services,4,Adult Protective Services Specialist IV,B20,Adult Protective Services Specialist V,B21,0.06652378329019171,0.8966647898519524,False,160,51,0.15
+Advanced Practice Registered Nurse,Medical and Health,1,Advanced Practice Registered Nurse I,B28,Advanced Practice Registered Nurse II,B29,0.09999518482256065,0.8553396238205336,False,35,84,0.0
+Advanced Practice Registered Nurse,Medical and Health,2,Advanced Practice Registered Nurse II,B29,Advanced Practice Registered Nurse III,B30,0.10000291830213182,0.8553229563142646,False,84,5,0.0
+Agile Scrum Master,Program Management,1,Agile Scrum Master I,B26,Agile Scrum Master II,B28,0.21000194212468437,0.6962192816635161,False,0,0,
+Agriculture Specialist,Criminal Justice,1,Agriculture Specialist I,A14,Agriculture Specialist II,A15,0.051399033355729484,0.89816564758199,False,0,0,
+Agriculture Specialist,Criminal Justice,2,Agriculture Specialist II,A15,Agriculture Specialist III,A16,0.05181352490697888,0.8981593161676019,False,2,37,
+Agriculture Specialist,Criminal Justice,3,Agriculture Specialist III,A16,Agriculture Specialist IV,A17,0.052886876763875934,0.8981792994260835,False,37,27,0.02702702702702703
+Agriculture Specialist,Criminal Justice,4,Agriculture Specialist IV,A17,Agriculture Specialist V,A18,0.08498301456559165,0.8815893546736147,False,27,7,0.037037037037037035
+Air Conditioning and Boiler Operator,Maintenance,1,Air Conditioning and Boiler Operator I,A13,Air Conditioning and Boiler Operator II,A15,0.10468307012649869,0.7913151218360965,False,0,14,
+Air Conditioning and Boiler Operator,Maintenance,2,Air Conditioning and Boiler Operator II,A15,Air Conditioning and Boiler Operator III,A17,0.1074406571773121,0.7902354606953694,False,0,0,
+Air Conditioning and Boiler Operator,Maintenance,3,Air Conditioning and Boiler Operator III,A17,Air Conditioning and Boiler Operator IV,A19,0.15661035878821727,0.7548969431908064,False,0,0,
+Aircraft Inspector,Maintenance,1,Aircraft Inspector I,B26,Aircraft Inspector II,B27,0.10000000000000009,0.8553497164461248,False,0,0,
+Aircraft Mechanic,Maintenance,1,Aircraft Mechanic I,B22,Aircraft Mechanic II,B23,0.06693111865845891,0.8995045602972638,False,1,5,
+Aircraft Mechanic,Maintenance,2,Aircraft Mechanic II,B23,Aircraft Mechanic III,B24,0.06774349983213335,0.8981130113843114,False,0,10,
+Aircraft Mechanic,Maintenance,3,Aircraft Mechanic III,B24,Aircraft Mechanic IV,B25,0.069483748500623,0.8924151215988442,False,0,0,
+Aircraft Pilot,Maintenance,1,Aircraft Pilot I,B26,Aircraft Pilot II,B27,0.10000000000000009,0.8553497164461248,False,0,0,
+Aircraft Pilot,Maintenance,2,Aircraft Pilot II,B27,Aircraft Pilot III,B28,0.10000176556789486,0.8553409403354413,False,0,0,
+Aircraft Pilot,Maintenance,3,Aircraft Pilot III,B28,Aircraft Pilot IV,B29,0.09999518482256065,0.8553396238205336,False,0,0,
+Aircraft Pilot,Maintenance,4,Aircraft Pilot IV,B29,Aircraft Pilot V,B30,0.10000291830213182,0.8553229563142646,False,0,0,
+Appraiser,"Land Surveying, Appraising, and Utilities",1,Appraiser I,B17,Appraiser II,B19,0.15661035878821727,0.7548969431908064,False,0,37,
+Appraiser,"Land Surveying, Appraising, and Utilities",2,Appraiser II,B19,Appraiser III,B21,0.1372151409810738,0.7828246472790095,False,37,23,0.0
+Appraiser,"Land Surveying, Appraising, and Utilities",3,Appraiser III,B21,Appraiser IV,B23,0.13810817695508204,0.78924560546875,False,23,15,0.0
+Appraiser,"Land Surveying, Appraising, and Utilities",4,Appraiser IV,B23,Appraiser V,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Archeologist,Library and Records,1,Archeologist I,B20,Archeologist II,B22,0.13767366744900356,0.7861756036167323,False,1,5,
+Archeologist,Library and Records,2,Archeologist II,B22,Archeologist III,B24,0.1392087667161961,0.7891566265060241,False,6,19,0.0
+Archeologist,Library and Records,3,Archeologist III,B24,Archeologist IV,B25,0.069483748500623,0.8924151215988442,False,0,0,
+Architect,Engineering and Design,1,Architect I,B22,Architect II,B24,0.1392087667161961,0.7891566265060241,False,0,5,
+Architect,Engineering and Design,2,Architect II,B24,Architect III,B26,0.1992686534139212,0.7248735853599807,False,6,17,0.0
+Architect,Engineering and Design,3,Architect III,B26,Architect IV,B28,0.21000194212468437,0.6962192816635161,False,5,29,0.0
+Archivist,Library and Records,1,Archivist I,B16,Archivist II,B18,0.14236437754782072,0.7722640015832178,False,5,7,0.0
+Archivist,Library and Records,2,Archivist II,B18,Archivist III,B20,0.13667478726324456,0.779235529098457,False,0,0,
+Archivist,Library and Records,3,Archivist III,B20,Archivist IV,B22,0.13767366744900356,0.7861756036167323,False,0,7,
+Assistant Attorney General,Legal,1,Assistant Attorney General I,B22,Assistant Attorney General II,B24,0.1392087667161961,0.7891566265060241,False,51,74,0.0
+Assistant Attorney General,Legal,2,Assistant Attorney General II,B24,Assistant Attorney General III,B26,0.1992686534139212,0.7248735853599807,False,74,86,0.0
+Assistant Attorney General,Legal,3,Assistant Attorney General III,B26,Assistant Attorney General IV,B28,0.21000194212468437,0.6962192816635161,False,86,203,0.36046511627906974
+Assistant Attorney General,Legal,4,Assistant Attorney General IV,B28,Assistant Attorney General V,B30,0.20999791342310958,0.696197587952259,False,203,171,0.054187192118226604
+Assistant Attorney General,Legal,5,Assistant Attorney General V,B30,Assistant Attorney General VI,B31,0.10000132649744975,0.8553297526209781,False,171,78,0.03508771929824561
+Assistant Attorney General,Legal,6,Assistant Attorney General VI,B31,Assistant Attorney General VII,B32,0.1000027132869663,0.8553352817587474,False,78,26,0.0
+Assistant Park/Historic Site Superintendent,Natural Resources,1,Assistant Park/Historic Site Superintendent I,B19,Assistant Park/Historic Site Superintendent II,B20,0.06628202652246684,0.8951194932335157,False,1,25,
+Assistant Park/Historic Site Superintendent,Natural Resources,2,Assistant Park/Historic Site Superintendent II,B20,Assistant Park/Historic Site Superintendent III,B21,0.06652378329019171,0.8966647898519524,False,25,16,0.0
+Assistant Park/Historic Site Superintendent,Natural Resources,3,Assistant Park/Historic Site Superintendent III,B21,Assistant Park/Historic Site Superintendent IV,B22,0.06671195267612018,0.898193359375,False,16,12,0.0625
+Attorney,Legal,1,Attorney I,B22,Attorney II,B24,0.1392087667161961,0.7891566265060241,False,39,78,0.05128205128205128
+Attorney,Legal,2,Attorney II,B24,Attorney III,B26,0.1992686534139212,0.7248735853599807,False,79,213,0.08860759493670886
+Attorney,Legal,3,Attorney III,B26,Attorney IV,B28,0.21000194212468437,0.6962192816635161,False,203,454,0.0049261083743842365
+Attorney,Legal,4,Attorney IV,B28,Attorney V,B30,0.20999791342310958,0.696197587952259,False,242,141,0.004132231404958678
+Auditor,"Accounting, Auditing, and Finance",1,Auditor I,B19,Auditor II,B21,0.1372151409810738,0.7828246472790095,False,13,67,0.0
+Auditor,"Accounting, Auditing, and Finance",2,Auditor II,B21,Auditor III,B23,0.13810817695508204,0.78924560546875,False,24,116,0.20833333333333334
+Auditor,"Accounting, Auditing, and Finance",3,Auditor III,B23,Auditor IV,B25,0.14193432063764444,0.7819826376254093,False,87,121,0.011494252873563218
+Auditor,"Accounting, Auditing, and Finance",4,Auditor IV,B25,Auditor V,B27,0.23348813911831479,0.6718844745884519,False,83,93,0.012048192771084338
+Behavior Analyst,Medical and Health,1,Behavior Analyst I,B23,Behavior Analyst II,B25,0.14193432063764444,0.7819826376254093,False,53,13,0.03773584905660377
+Benefit Review Officer,Legal,1,Benefit Review Officer I,B19,Benefit Review Officer II,B21,0.1372151409810738,0.7828246472790095,False,6,18,0.0
+Benefit Review Officer,Legal,2,Benefit Review Officer II,B21,Benefit Review Officer III,B23,0.13810817695508204,0.78924560546875,False,18,5,0.0
+Biometrics Analyst,Public Safety,1,Biometrics Analyst I,B13,Biometrics Analyst II,B15,0.10468307012649869,0.7913151218360965,False,3,9,
+Biometrics Analyst,Public Safety,2,Biometrics Analyst II,B15,Biometrics Analyst III,B17,0.1074406571773121,0.7902354606953694,False,9,17,0.0
+Biometrics Analyst,Public Safety,3,Biometrics Analyst III,B17,Biometrics Analyst IV,B19,0.15661035878821727,0.7548969431908064,False,0,0,
+Boiler Inspector,"Compliance, Inspection, and Investigation",1,Boiler Inspector I,B20,Boiler Inspector II,B21,0.06652378329019171,0.8966647898519524,False,5,6,0.0
+Boiler Inspector,"Compliance, Inspection, and Investigation",2,Boiler Inspector II,B21,Boiler Inspector III,B22,0.06671195267612018,0.898193359375,False,0,0,
+Budget Analyst,"Accounting, Auditing, and Finance",1,Budget Analyst I,B18,Budget Analyst II,B20,0.13667478726324456,0.779235529098457,False,1,7,
+Budget Analyst,"Accounting, Auditing, and Finance",2,Budget Analyst II,B20,Budget Analyst III,B22,0.13767366744900356,0.7861756036167323,False,19,72,0.21052631578947367
+Budget Analyst,"Accounting, Auditing, and Finance",3,Budget Analyst III,B22,Budget Analyst IV,B24,0.1392087667161961,0.7891566265060241,False,79,157,0.06329113924050633
+Budget Analyst,"Accounting, Auditing, and Finance",4,Budget Analyst IV,B24,Budget Analyst V,B26,0.1992686534139212,0.7248735853599807,False,130,100,0.015384615384615385
+Business Continuity Coordinator,Information Technology,1,Business Continuity Coordinator I,B26,Business Continuity Coordinator II,B27,0.10000000000000009,0.8553497164461248,False,0,0,
+Case Manager,Social Services,1,Case Manager I,B13,Case Manager II,B15,0.10468307012649869,0.7913151218360965,False,11,18,0.0
+Case Manager,Social Services,2,Case Manager II,B15,Case Manager III,B17,0.1074406571773121,0.7902354606953694,False,22,221,0.0
+Case Manager,Social Services,3,Case Manager III,B17,Case Manager IV,B19,0.15661035878821727,0.7548969431908064,False,222,286,0.07207207207207207
+Case Manager,Social Services,4,Case Manager IV,B19,Case Manager V,B21,0.1372151409810738,0.7828246472790095,False,255,74,0.050980392156862744
+Certified Peer Support Specialist,Medical and Health,1,Certified Peer Support Specialist I,A10,Certified Peer Support Specialist II,A12,0.1382262081354364,0.7487350999056684,False,0,0,
+Chaplain,Social Services,1,Chaplain I,B17,Chaplain II,B19,0.15661035878821727,0.7548969431908064,False,16,96,0.0
+Chaplain,Social Services,2,Chaplain II,B19,Chaplain III,B21,0.1372151409810738,0.7828246472790095,False,98,25,0.01020408163265306
+Chemist,Natural Resources,1,Chemist I,B17,Chemist II,B19,0.15661035878821727,0.7548969431908064,False,9,34,0.1111111111111111
+Chemist,Natural Resources,2,Chemist II,B19,Chemist III,B21,0.1372151409810738,0.7828246472790095,False,29,26,0.0
+Chemist,Natural Resources,3,Chemist III,B21,Chemist IV,B23,0.13810817695508204,0.78924560546875,False,27,37,0.0
+Chemist,Natural Resources,4,Chemist IV,B23,Chemist V,B25,0.14193432063764444,0.7819826376254093,False,20,13,0.05
+Chief Trader,"Accounting, Auditing, and Finance",1,Chief Trader I,B31,Chief Trader II,B33,0.20999936689970777,0.6962099604446166,False,0,0,
+Child Protective Services Specialist,Social Services,1,Child Protective Services Specialist I,B17,Child Protective Services Specialist II,B18,0.08498301456559165,0.8815893546736147,False,1395,829,0.023655913978494623
+Child Protective Services Specialist,Social Services,2,Child Protective Services Specialist II,B18,Child Protective Services Specialist III,B19,0.06601701894043366,0.8933578757734785,False,829,1001,0.008443908323281062
+Child Protective Services Specialist,Social Services,3,Child Protective Services Specialist III,B19,Child Protective Services Specialist IV,B20,0.06628202652246684,0.8951194932335157,False,1001,1461,0.027972027972027972
+Child Protective Services Specialist,Social Services,4,Child Protective Services Specialist IV,B20,Child Protective Services Specialist V,B21,0.06652378329019171,0.8966647898519524,False,1461,225,0.18206707734428473
+Child Support Officer,Social Services,1,Child Support Officer I,B12,Child Support Officer II,B14,0.10330232669360817,0.7929565108409575,False,4,435,
+Child Support Officer,Social Services,2,Child Support Officer II,B14,Child Support Officer III,B16,0.10587572335768014,0.7902167871039466,False,435,399,0.01839080459770115
+Child Support Officer,Social Services,3,Child Support Officer III,B16,Child Support Officer IV,B18,0.14236437754782072,0.7722640015832178,False,399,357,0.0
+Child Support Officer,Social Services,4,Child Support Officer IV,B18,Child Support Officer V,B20,0.13667478726324456,0.779235529098457,False,357,175,0.0196078431372549
+Child Support Technician,Social Services,1,Child Support Technician I,A12,Child Support Technician II,A14,0.10330232669360817,0.7929565108409575,False,66,135,0.0
+Child Support Technician,Social Services,2,Child Support Technician II,A14,Child Support Technician III,A16,0.10587572335768014,0.7902167871039466,False,135,41,0.0
+Claims Examiner,Insurance,1,Claims Examiner I,B14,Claims Examiner II,B16,0.10587572335768014,0.7902167871039466,False,23,19,0.0
+Claims Examiner,Insurance,2,Claims Examiner II,B16,Claims Examiner III,B18,0.14236437754782072,0.7722640015832178,False,19,45,0.21052631578947367
+Claims Examiner,Insurance,3,Claims Examiner III,B18,Claims Examiner IV,B20,0.13667478726324456,0.779235529098457,False,48,65,0.0
+Claims Examiner,Insurance,4,Claims Examiner IV,B20,Claims Examiner V,B22,0.13767366744900356,0.7861756036167323,False,43,116,0.0
+Clerk,Administrative Support,1,Clerk I,A7,Clerk II,A9,0.08081642645123788,0.7899159663865546,False,0,814,
+Clerk,Administrative Support,2,Clerk II,A9,Clerk III,A11,0.1280719139297848,0.769723776855028,False,815,264,0.0
+Clerk,Administrative Support,3,Clerk III,A11,Clerk IV,A13,0.10214966054688968,0.7931837848632097,False,26,6,0.15384615384615385
+Commercial Driver,Maintenance,1,Commercial Driver I,B20,Commercial Driver II,B21,0.06652378329019171,0.8966647898519524,False,0,0,
+Commercial Driver,Maintenance,2,Commercial Driver II,B21,Commercial Driver III,B22,0.06671195267612018,0.898193359375,False,0,7,
+Commercial Driver,Maintenance,3,Commercial Driver III,B22,Commercial Driver IV,B23,0.06693111865845891,0.8995045602972638,False,7,9,0.0
+Compliance Analyst,"Compliance, Inspection, and Investigation",1,Compliance Analyst I,B19,Compliance Analyst II,B21,0.1372151409810738,0.7828246472790095,False,86,116,0.023255813953488372
+Compliance Analyst,"Compliance, Inspection, and Investigation",2,Compliance Analyst II,B21,Compliance Analyst III,B23,0.13810817695508204,0.78924560546875,False,95,98,0.07368421052631578
+Compliance Analyst,"Compliance, Inspection, and Investigation",3,Compliance Analyst III,B23,Compliance Analyst IV,B25,0.14193432063764444,0.7819826376254093,False,22,35,0.13636363636363635
+Compliance Analyst,"Compliance, Inspection, and Investigation",4,Compliance Analyst IV,B25,Compliance Analyst V,B27,0.23348813911831479,0.6718844745884519,False,0,0,
+Contract Administration Manager,Property Management and Procurement,1,Contract Administration Manager I,B26,Contract Administration Manager II,B28,0.21000194212468437,0.6962192816635161,False,152,93,0.0
+Contract Specialist,Property Management and Procurement,1,Contract Specialist I,B16,Contract Specialist II,B18,0.14236437754782072,0.7722640015832178,False,25,156,0.24
+Contract Specialist,Property Management and Procurement,2,Contract Specialist II,B18,Contract Specialist III,B20,0.13667478726324456,0.779235529098457,False,150,217,0.16666666666666666
+Contract Specialist,Property Management and Procurement,3,Contract Specialist III,B20,Contract Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,204,382,0.06862745098039216
+Contract Specialist,Property Management and Procurement,4,Contract Specialist IV,B22,Contract Specialist V,B24,0.1392087667161961,0.7891566265060241,False,325,368,0.021538461538461538
+Cook,Custodial,1,Cook I,A9,Cook II,A11,0.1280719139297848,0.769723776855028,False,18,150,0.0
+Cook,Custodial,2,Cook II,A11,Cook III,A13,0.10214966054688968,0.7931837848632097,False,104,131,0.0
+Correctional Officer,Criminal Justice,1,Correctional Officer I,A14,Correctional Officer II,A15,0.051399033355729484,0.89816564758199,False,1232,1309,0.0
+Correctional Officer,Criminal Justice,2,Correctional Officer II,A15,Correctional Officer III,A16,0.05181352490697888,0.8981593161676019,False,1309,9583,0.0
+Correctional Officer,Criminal Justice,3,Correctional Officer III,A16,Correctional Officer IV,A18,0.14236437754782072,0.7722640015832178,False,9583,8406,0.0
+Counsel Substitute,Criminal Justice,1,Counsel Substitute I,A13,Counsel Substitute II,A15,0.10468307012649869,0.7913151218360965,False,1,67,
+Counsel Substitute,Criminal Justice,2,Counsel Substitute II,A15,Counsel Substitute III,A17,0.1074406571773121,0.7902354606953694,False,67,22,0.0
+Court Coordinator,Legal,1,Court Coordinator I,B17,Court Coordinator II,B19,0.15661035878821727,0.7548969431908064,False,0,70,
+Court Coordinator,Legal,2,Court Coordinator II,B19,Court Coordinator III,B21,0.1372151409810738,0.7828246472790095,False,0,0,
+Court Law Clerk,Legal,1,Court Law Clerk I,B19,Court Law Clerk II,B21,0.1372151409810738,0.7828246472790095,False,0,46,
+Court Reporter,Legal,1,Court Reporter I,B22,Court Reporter II,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Court Reporter,Legal,2,Court Reporter II,B24,Court Reporter III,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+Creative Media Designer,Information and Communication,1,Creative Media Designer I,B17,Creative Media Designer II,B19,0.15661035878821727,0.7548969431908064,False,1,5,
+Creative Media Designer,Information and Communication,2,Creative Media Designer II,B19,Creative Media Designer III,B21,0.1372151409810738,0.7828246472790095,False,1,5,
+Creative Media Designer,Information and Communication,3,Creative Media Designer III,B21,Creative Media Designer IV,B23,0.13810817695508204,0.78924560546875,False,9,16,0.1111111111111111
+Creative Media Designer,Information and Communication,4,Creative Media Designer IV,B23,Creative Media Designer V,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Crime Analyst,Public Safety,1,Crime Analyst I,B15,Crime Analyst II,B17,0.1074406571773121,0.7902354606953694,False,4,22,
+Crime Analyst,Public Safety,2,Crime Analyst II,B17,Crime Analyst III,B19,0.15661035878821727,0.7548969431908064,False,0,0,
+Crime Laboratory Specialist,Public Safety,1,Crime Laboratory Specialist I,B18,Crime Laboratory Specialist II,B19,0.06601701894043366,0.8933578757734785,False,0,97,
+Crime Laboratory Specialist,Public Safety,2,Crime Laboratory Specialist II,B19,Crime Laboratory Specialist III,B20,0.06628202652246684,0.8951194932335157,False,0,0,
+Crime Laboratory Specialist,Public Safety,3,Crime Laboratory Specialist III,B20,Crime Laboratory Specialist IV,B21,0.06652378329019171,0.8966647898519524,False,0,0,
+Criminal Intelligence Analyst,Public Safety,1,Criminal Intelligence Analyst I,B21,Criminal Intelligence Analyst II,B23,0.13810817695508204,0.78924560546875,False,105,65,0.0
+Criminal Intelligence Analyst,Public Safety,2,Criminal Intelligence Analyst II,B23,Criminal Intelligence Analyst III,B25,0.14193432063764444,0.7819826376254093,False,65,26,0.0
+Curator,Library and Records,1,Curator I,B16,Curator II,B18,0.14236437754782072,0.7722640015832178,False,0,0,
+Curator,Library and Records,2,Curator II,B18,Curator III,B20,0.13667478726324456,0.779235529098457,False,0,0,
+Curator,Library and Records,3,Curator III,B20,Curator IV,B22,0.13767366744900356,0.7861756036167323,False,0,0,
+Custodial Manager,Custodial,1,Custodial Manager I,A13,Custodial Manager II,A15,0.10468307012649869,0.7913151218360965,False,0,0,
+Custodial Manager,Custodial,2,Custodial Manager II,A15,Custodial Manager III,A17,0.1074406571773121,0.7902354606953694,False,1,58,
+Custodian,Custodial,1,Custodian I,A7,Custodian II,A8,0.03941369074941092,0.8975590236094437,False,12,277,0.16666666666666666
+Custodian,Custodial,2,Custodian II,A8,Custodian III,A10,0.0816527806400329,0.790478905359179,False,271,288,0.0
+Custodian,Custodial,3,Custodian III,A10,Custodian IV,A12,0.1382262081354364,0.7487350999056684,False,271,108,0.007380073800738007
+Customer Service Representative,Administrative Support,1,Customer Service Representative I,A11,Customer Service Representative II,A13,0.10214966054688968,0.7931837848632097,False,159,295,0.031446540880503145
+Customer Service Representative,Administrative Support,2,Customer Service Representative II,A13,Customer Service Representative III,A15,0.10468307012649869,0.7913151218360965,False,259,325,0.003861003861003861
+Customer Service Representative,Administrative Support,3,Customer Service Representative III,A15,Customer Service Representative IV,A17,0.1074406571773121,0.7902354606953694,False,119,202,0.11764705882352941
+Customer Service Representative,Administrative Support,4,Customer Service Representative IV,A17,Customer Service Representative V,A19,0.15661035878821727,0.7548969431908064,False,163,76,0.12883435582822086
+Cybersecurity Analyst,Information Technology,1,Cybersecurity Analyst I,B23,Cybersecurity Analyst II,B25,0.14193432063764444,0.7819826376254093,False,18,52,0.0
+Cybersecurity Analyst,Information Technology,2,Cybersecurity Analyst II,B25,Cybersecurity Analyst III,B27,0.23348813911831479,0.6718844745884519,False,57,71,0.0
+Cybersecurity Analyst,Information Technology,3,Cybersecurity Analyst III,B27,Cybersecurity Analyst IV,B29,0.2099966454209996,0.696212537805884,False,6,5,0.0
+Cybersecurity Analyst,Information Technology,4,Cybersecurity Analyst IV,B29,Cybersecurity Analyst V,B31,0.210004669283411,0.6961881497472022,False,0,0,
+Data Analyst,"Planning, Research, and Statistics",1,Data Analyst I,B18,Data Analyst II,B20,0.13667478726324456,0.779235529098457,False,15,68,0.06666666666666667
+Data Analyst,"Planning, Research, and Statistics",2,Data Analyst II,B20,Data Analyst III,B22,0.13767366744900356,0.7861756036167323,False,70,79,0.18571428571428572
+Data Analyst,"Planning, Research, and Statistics",3,Data Analyst III,B22,Data Analyst IV,B24,0.1392087667161961,0.7891566265060241,False,79,170,0.05063291139240506
+Data Analyst,"Planning, Research, and Statistics",4,Data Analyst IV,B24,Data Analyst V,B26,0.1992686534139212,0.7248735853599807,False,135,159,0.06666666666666667
+Data Analyst,"Planning, Research, and Statistics",5,Data Analyst V,B26,Data Analyst VI,B28,0.21000194212468437,0.6962192816635161,False,8,5,0.0
+Data Architect,Information Technology,1,Data Architect I,B28,Data Architect II,B30,0.20999791342310958,0.696197587952259,False,0,0,
+Data Scientist,"Planning, Research, and Statistics",1,Data Scientist I,B28,Data Scientist II,B30,0.20999791342310958,0.696197587952259,False,0,0,
+Database Administrator,Information Technology,1,Database Administrator I,B21,Database Administrator II,B23,0.13810817695508204,0.78924560546875,False,0,12,
+Database Administrator,Information Technology,2,Database Administrator II,B23,Database Administrator III,B25,0.14193432063764444,0.7819826376254093,False,12,19,0.0
+Database Administrator,Information Technology,3,Database Administrator III,B25,Database Administrator IV,B27,0.23348813911831479,0.6718844745884519,False,20,36,0.0
+Database Administrator,Information Technology,4,Database Administrator IV,B27,Database Administrator V,B29,0.2099966454209996,0.696212537805884,False,21,8,0.0
+Dental Assistant,Medical and Health,1,Dental Assistant I,A12,Dental Assistant II,A14,0.10330232669360817,0.7929565108409575,False,2,18,
+Dental Hygienist,Medical and Health,1,Dental Hygienist I,B21,Dental Hygienist II,B23,0.13810817695508204,0.78924560546875,False,16,9,0.0
+Dental Hygienist,Medical and Health,2,Dental Hygienist II,B23,Dental Hygienist III,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Dentist,Medical and Health,1,Dentist I,B29,Dentist II,B31,0.210004669283411,0.6961881497472022,False,0,8,
+Dentist,Medical and Health,2,Dentist II,B31,Dentist III,B33,0.20999936689970777,0.6962099604446166,False,8,13,0.25
+Deputy Clerk,Legal,1,Deputy Clerk I,A13,Deputy Clerk II,A15,0.10468307012649869,0.7913151218360965,False,0,0,
+Deputy Clerk,Legal,2,Deputy Clerk II,A15,Deputy Clerk III,A17,0.1074406571773121,0.7902354606953694,False,1,12,
+Deputy Clerk,Legal,3,Deputy Clerk III,A17,Deputy Clerk IV,A19,0.15661035878821727,0.7548969431908064,False,0,18,
+Deputy Director,Program Management,1,Deputy Director I,B33,Deputy Director II,B34,0.10000049830824342,0.8553302939179358,False,30,57,0.0
+Deputy Director,Program Management,2,Deputy Director II,B34,Deputy Director III,B35,0.10000135902186669,0.8553325455475406,False,39,22,0.0
+Deputy Director,Program Management,3,Deputy Director III,B35,Deputy Director IV,B36,0.10000123547289785,0.8553287691000336,False,7,7,0.0
+Dietetic Technician,Medical and Health,1,Dietetic Technician I,A10,Dietetic Technician II,A12,0.1382262081354364,0.7487350999056684,False,2,11,
+Dietetic and Nutrition Specialist,Medical and Health,1,Dietetic and Nutrition Specialist I,B18,Dietetic and Nutrition Specialist II,B20,0.13667478726324456,0.779235529098457,False,1,13,
+Dietetic and Nutrition Specialist,Medical and Health,2,Dietetic and Nutrition Specialist II,B20,Dietetic and Nutrition Specialist III,B22,0.13767366744900356,0.7861756036167323,False,13,32,0.0
+Direct Support Professional,Social Services,1,Direct Support Professional I,A10,Direct Support Professional II,A12,0.1382262081354364,0.7487350999056684,False,0,2406,
+Direct Support Professional,Social Services,2,Direct Support Professional II,A12,Direct Support Professional III,A14,0.10330232669360817,0.7929565108409575,False,2406,1755,0.0
+Direct Support Professional,Social Services,3,Direct Support Professional III,A14,Direct Support Professional IV,A16,0.10587572335768014,0.7902167871039466,False,1755,681,0.004558404558404558
+Direct Support Professional,Social Services,4,Direct Support Professional IV,A16,Direct Support Professional V,A18,0.14236437754782072,0.7722640015832178,False,681,260,0.004405286343612335
+Director,Program Management,1,Director I,B26,Director II,B27,0.10000000000000009,0.8553497164461248,False,311,567,0.04823151125401929
+Director,Program Management,2,Director II,B27,Director III,B28,0.10000176556789486,0.8553409403354413,False,543,551,0.04604051565377532
+Director,Program Management,3,Director III,B28,Director IV,B29,0.09999518482256065,0.8553396238205336,False,484,702,0.06198347107438017
+Director,Program Management,4,Director IV,B29,Director V,B30,0.10000291830213182,0.8553229563142646,False,662,391,0.06042296072507553
+Director,Program Management,5,Director V,B30,Director VI,B31,0.10000132649744975,0.8553297526209781,False,302,236,0.04966887417218543
+Director,Program Management,6,Director VI,B31,Director VII,B32,0.1000027132869663,0.8553352817587474,False,158,84,0.0379746835443038
+Director,Program Management,7,Director VII,B32,Director VIII,B33,0.09999671117542586,0.8553426236155275,False,7,36,0.0
+Document Services Technician,Administrative Support,1,Document Services Technician I,A10,Document Services Technician II,A12,0.1382262081354364,0.7487350999056684,False,0,13,
+Document Services Technician,Administrative Support,2,Document Services Technician II,A12,Document Services Technician III,A14,0.10330232669360817,0.7929565108409575,False,13,58,0.23076923076923078
+Document Services Technician,Administrative Support,3,Document Services Technician III,A14,Document Services Technician IV,A16,0.10587572335768014,0.7902167871039466,False,41,19,0.0
+Document Services Technician,Administrative Support,4,Document Services Technician IV,A16,Document Services Technician V,A18,0.14236437754782072,0.7722640015832178,False,18,15,0.0
+Dorm Supervisor,Criminal Justice,1,Dorm Supervisor I,B21,Dorm Supervisor II,B22,0.06671195267612018,0.898193359375,False,0,52,
+Drafting Technician,Engineering and Design,1,Drafting Technician I,A19,Drafting Technician II,A21,0.1372151409810738,0.7828246472790095,False,0,0,
+E-Learning Developer,Human Resources and Training and Development,1,E-Learning Developer I,B21,E-Learning Developer II,B23,0.13810817695508204,0.78924560546875,False,0,6,
+E-Learning Developer,Human Resources and Training and Development,2,E-Learning Developer II,B23,E-Learning Developer III,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Economist,"Planning, Research, and Statistics",1,Economist I,B19,Economist II,B21,0.1372151409810738,0.7828246472790095,False,4,5,
+Economist,"Planning, Research, and Statistics",2,Economist II,B21,Economist III,B23,0.13810817695508204,0.78924560546875,False,5,11,0.0
+Economist,"Planning, Research, and Statistics",3,Economist III,B23,Economist IV,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Editor,Information and Communication,1,Editor I,B18,Editor II,B20,0.13667478726324456,0.779235529098457,False,0,8,
+Editor,Information and Communication,2,Editor II,B20,Editor III,B22,0.13767366744900356,0.7861756036167323,False,0,0,
+Editor,Information and Communication,3,Editor III,B22,Editor IV,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Education Specialist,Education,1,Education Specialist I,B17,Education Specialist II,B19,0.15661035878821727,0.7548969431908064,False,31,8,0.0
+Education Specialist,Education,2,Education Specialist II,B19,Education Specialist III,B21,0.1372151409810738,0.7828246472790095,False,2,22,
+Education Specialist,Education,3,Education Specialist III,B21,Education Specialist IV,B23,0.13810817695508204,0.78924560546875,False,20,143,0.1
+Education Specialist,Education,4,Education Specialist IV,B23,Education Specialist V,B25,0.14193432063764444,0.7819826376254093,False,121,142,0.0743801652892562
+Electrician,Maintenance,1,Electrician I,A16,Electrician II,A18,0.14236437754782072,0.7722640015832178,False,0,5,
+Electrician,Maintenance,2,Electrician II,A18,Electrician III,A20,0.13667478726324456,0.779235529098457,False,2,17,
+Electrician,Maintenance,3,Electrician III,A20,Electrician IV,A22,0.13767366744900356,0.7861756036167323,False,10,5,0.0
+Electronics Technician,Maintenance,1,Electronics Technician I,A16,Electronics Technician II,A18,0.14236437754782072,0.7722640015832178,False,0,26,
+Electronics Technician,Maintenance,2,Electronics Technician II,A18,Electronics Technician III,A20,0.13667478726324456,0.779235529098457,False,26,26,0.0
+Electronics Technician,Maintenance,3,Electronics Technician III,A20,Electronics Technician IV,A22,0.13767366744900356,0.7861756036167323,False,5,5,0.0
+Eligibility Advisor,Social Services,1,Eligibility Advisor I,B13,Eligibility Advisor II,B14,0.05067917610757511,0.8994040946368518,False,981,3612,0.0
+Eligibility Advisor,Social Services,2,Eligibility Advisor II,B14,Eligibility Advisor III,B15,0.051399033355729484,0.89816564758199,False,3612,918,0.0664451827242525
+Eligibility Advisor,Social Services,3,Eligibility Advisor III,B15,Eligibility Advisor IV,B16,0.05181352490697888,0.8981593161676019,False,918,109,0.28431372549019607
+Eligibility Advisor,Social Services,4,Eligibility Advisor IV,B16,Eligibility Advisor V,B17,0.052886876763875934,0.8981792994260835,False,109,23,0.2018348623853211
+Eligibility Supervisor,Social Services,1,Eligibility Supervisor I,B19,Eligibility Supervisor II,B21,0.1372151409810738,0.7828246472790095,False,141,369,0.0070921985815602835
+Emergency Management Program Coordinator,Public Safety,1,Emergency Management Program Coordinator I,B20,Emergency Management Program Coordinator II,B22,0.13767366744900356,0.7861756036167323,False,3,8,
+Emergency Management Program Coordinator,Public Safety,2,Emergency Management Program Coordinator II,B22,Emergency Management Program Coordinator III,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Emergency Management Program Coordinator,Public Safety,3,Emergency Management Program Coordinator III,B24,Emergency Management Program Coordinator IV,B25,0.069483748500623,0.8924151215988442,False,0,0,
+Emergency Medical Services Specialist,Safety,1,Emergency Medical Services Specialist I,B20,Emergency Medical Services Specialist II,B22,0.13767366744900356,0.7861756036167323,False,0,0,
+Engineer,Engineering and Design,1,Engineer I,B23,Engineer II,B24,0.06774349983213335,0.8981130113843114,False,0,98,
+Engineer,Engineering and Design,2,Engineer II,B24,Engineer III,B25,0.069483748500623,0.8924151215988442,False,101,117,0.039603960396039604
+Engineer,Engineering and Design,3,Engineer III,B25,Engineer IV,B26,0.12135285374392257,0.843735261751297,False,113,141,0.10619469026548672
+Engineer,Engineering and Design,4,Engineer IV,B26,Engineer V,B27,0.10000000000000009,0.8553497164461248,False,145,276,0.0896551724137931
+Engineer,Engineering and Design,5,Engineer V,B27,Engineer VI,B28,0.10000176556789486,0.8553409403354413,False,265,229,0.033962264150943396
+Engineering Specialist,Engineering and Design,1,Engineering Specialist I,B18,Engineering Specialist II,B19,0.06601701894043366,0.8933578757734785,False,505,668,0.08712871287128712
+Engineering Specialist,Engineering and Design,2,Engineering Specialist II,B19,Engineering Specialist III,B20,0.06628202652246684,0.8951194932335157,False,668,709,0.09580838323353294
+Engineering Specialist,Engineering and Design,3,Engineering Specialist III,B20,Engineering Specialist IV,B21,0.06652378329019171,0.8966647898519524,False,709,577,0.10860366713681241
+Engineering Specialist,Engineering and Design,4,Engineering Specialist IV,B21,Engineering Specialist V,B22,0.06671195267612018,0.898193359375,False,568,460,0.11267605633802817
+Engineering Specialist,Engineering and Design,5,Engineering Specialist V,B22,Engineering Specialist VI,B24,0.1392087667161961,0.7891566265060241,False,460,222,0.030434782608695653
+Engineering Technician,Engineering and Design,1,Engineering Technician I,A16,Engineering Technician II,A18,0.14236437754782072,0.7722640015832178,False,79,170,0.012658227848101266
+Engineering Technician,Engineering and Design,2,Engineering Technician II,A18,Engineering Technician III,A20,0.13667478726324456,0.779235529098457,False,170,49,0.0058823529411764705
+Environmental Protection Specialist,Natural Resources,1,Environmental Protection Specialist I,B16,Environmental Protection Specialist II,B18,0.14236437754782072,0.7722640015832178,False,7,26,0.0
+Environmental Protection Specialist,Natural Resources,2,Environmental Protection Specialist II,B18,Environmental Protection Specialist III,B20,0.13667478726324456,0.779235529098457,False,21,37,0.0
+Environmental Protection Specialist,Natural Resources,3,Environmental Protection Specialist III,B20,Environmental Protection Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,39,33,0.0
+Environmental Protection Specialist,Natural Resources,4,Environmental Protection Specialist IV,B22,Environmental Protection Specialist V,B25,0.21836526215240926,0.6633825019704989,False,0,0,
+Epidemiologist,Medical and Health,1,Epidemiologist I,B19,Epidemiologist II,B21,0.1372151409810738,0.7828246472790095,False,25,52,0.04
+Epidemiologist,Medical and Health,2,Epidemiologist II,B21,Epidemiologist III,B23,0.13810817695508204,0.78924560546875,False,52,53,0.038461538461538464
+Epidemiologist,Medical and Health,3,Epidemiologist III,B23,Epidemiologist IV,B25,0.14193432063764444,0.7819826376254093,False,53,9,0.018867924528301886
+Equipment Maintenance Technician,Maintenance,1,Equipment Maintenance Technician I,A15,Equipment Maintenance Technician II,A17,0.1074406571773121,0.7902354606953694,False,0,0,
+Equipment Maintenance Technician,Maintenance,2,Equipment Maintenance Technician II,A17,Equipment Maintenance Technician III,A19,0.15661035878821727,0.7548969431908064,False,0,0,
+Equipment Operator,Maintenance,1,Equipment Operator I,A18,Equipment Operator II,A19,0.06601701894043366,0.8933578757734785,False,335,146,0.2298507462686567
+Equipment Operator,Maintenance,2,Equipment Operator II,A19,Equipment Operator III,A20,0.06628202652246684,0.8951194932335157,False,0,0,
+Executive Assistant,Administrative Support,1,Executive Assistant I,B17,Executive Assistant II,B19,0.15661035878821727,0.7548969431908064,False,67,133,0.014925373134328358
+Executive Assistant,Administrative Support,2,Executive Assistant II,B19,Executive Assistant III,B21,0.1372151409810738,0.7828246472790095,False,109,112,0.01834862385321101
+Executive Assistant,Administrative Support,3,Executive Assistant III,B21,Executive Assistant IV,B23,0.13810817695508204,0.78924560546875,False,31,41,0.03225806451612903
+Family Services Specialist,Social Services,1,Family Services Specialist I,B21,Family Services Specialist II,B22,0.06671195267612018,0.898193359375,False,142,33,0.30985915492957744
+Family and Protective Services Supervisor,Social Services,1,Family and Protective Services Supervisor I,B22,Family and Protective Services Supervisor II,B24,0.1392087667161961,0.7891566265060241,False,443,610,0.11060948081264109
+Family and Protective Services Supervisor,Social Services,2,Family and Protective Services Supervisor II,B24,Family and Protective Services Supervisor III,B26,0.1992686534139212,0.7248735853599807,False,543,182,0.06445672191528545
+Ferryboat Captain,Maintenance,1,Ferryboat Captain I,B22,Ferryboat Captain II,B23,0.06693111865845891,0.8995045602972638,False,15,7,0.0
+Ferryboat Captain,Maintenance,2,Ferryboat Captain II,B23,Ferryboat Captain III,B24,0.06774349983213335,0.8981130113843114,False,7,27,0.0
+Ferryboat Captain Assistant,Maintenance,1,Ferryboat Captain Assistant I,A18,Ferryboat Captain Assistant II,A20,0.13667478726324456,0.779235529098457,False,3,9,
+Ferryboat Deckhand,Maintenance,1,Ferryboat Deckhand I,A13,Ferryboat Deckhand II,A15,0.10468307012649869,0.7913151218360965,False,54,34,0.14814814814814814
+Ferryboat Deckhand,Maintenance,2,Ferryboat Deckhand II,A15,Ferryboat Deckhand III,A17,0.1074406571773121,0.7902354606953694,False,34,27,0.0
+Ferryboat Specialist,Maintenance,1,Ferryboat Specialist I,B22,Ferryboat Specialist II,B23,0.06693111865845891,0.8995045602972638,False,0,0,
+Ferryboat Specialist,Maintenance,2,Ferryboat Specialist II,B23,Ferryboat Specialist III,B24,0.06774349983213335,0.8981130113843114,False,0,0,
+Financial Analyst,"Accounting, Auditing, and Finance",1,Financial Analyst I,B20,Financial Analyst II,B22,0.13767366744900356,0.7861756036167323,False,26,87,0.0
+Financial Analyst,"Accounting, Auditing, and Finance",2,Financial Analyst II,B22,Financial Analyst III,B24,0.1392087667161961,0.7891566265060241,False,85,132,0.03529411764705882
+Financial Analyst,"Accounting, Auditing, and Finance",3,Financial Analyst III,B24,Financial Analyst IV,B26,0.1992686534139212,0.7248735853599807,False,105,74,0.0
+Financial Analyst,"Accounting, Auditing, and Finance",4,Financial Analyst IV,B26,Financial Analyst V,B28,0.21000194212468437,0.6962192816635161,False,0,0,
+Financial Examiner,"Accounting, Auditing, and Finance",1,Financial Examiner I,B17,Financial Examiner II,B19,0.15661035878821727,0.7548969431908064,False,20,19,0.0
+Financial Examiner,"Accounting, Auditing, and Finance",2,Financial Examiner II,B19,Financial Examiner III,B21,0.1372151409810738,0.7828246472790095,False,16,94,0.0
+Financial Examiner,"Accounting, Auditing, and Finance",3,Financial Examiner III,B21,Financial Examiner IV,B23,0.13810817695508204,0.78924560546875,False,83,58,0.0
+Financial Examiner,"Accounting, Auditing, and Finance",4,Financial Examiner IV,B23,Financial Examiner V,B25,0.14193432063764444,0.7819826376254093,False,49,53,0.0
+Financial Examiner,"Accounting, Auditing, and Finance",5,Financial Examiner V,B25,Financial Examiner VI,B27,0.23348813911831479,0.6718844745884519,False,30,19,0.0
+Financial Examiner,"Accounting, Auditing, and Finance",6,Financial Examiner VI,B27,Financial Examiner VII,B29,0.2099966454209996,0.696212537805884,False,19,14,0.0
+Fish and Wildlife Technician,Natural Resources,1,Fish and Wildlife Technician I,A14,Fish and Wildlife Technician II,A16,0.10587572335768014,0.7902167871039466,False,30,102,0.0
+Fish and Wildlife Technician,Natural Resources,2,Fish and Wildlife Technician II,A16,Fish and Wildlife Technician III,A18,0.14236437754782072,0.7722640015832178,False,102,67,0.0
+Fleet Manager,Property Management and Procurement,1,Fleet Manager I,B18,Fleet Manager II,B20,0.13667478726324456,0.779235529098457,False,0,0,
+Fleet Manager,Property Management and Procurement,2,Fleet Manager II,B20,Fleet Manager III,B22,0.13767366744900356,0.7861756036167323,False,2,59,
+Fleet Manager,Property Management and Procurement,3,Fleet Manager III,B22,Fleet Manager IV,B24,0.1392087667161961,0.7891566265060241,False,59,11,0.0
+Flight Operations Coordinator,Maintenance,1,Flight Operations Coordinator I,B22,Flight Operations Coordinator II,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Food Service Manager,Custodial,1,Food Service Manager I,A13,Food Service Manager II,A15,0.10468307012649869,0.7913151218360965,False,7,130,0.0
+Food Service Manager,Custodial,2,Food Service Manager II,A15,Food Service Manager III,A17,0.1074406571773121,0.7902354606953694,False,130,257,0.0
+Food Service Manager,Custodial,3,Food Service Manager III,A17,Food Service Manager IV,A19,0.15661035878821727,0.7548969431908064,False,257,474,0.0
+Food Service Worker,Custodial,1,Food Service Worker I,A7,Food Service Worker II,A9,0.08081642645123788,0.7899159663865546,False,6,472,0.0
+Food Service Worker,Custodial,2,Food Service Worker II,A9,Food Service Worker III,A11,0.1280719139297848,0.769723776855028,False,465,17,0.004301075268817204
+Forensic Scientist,Public Safety,1,Forensic Scientist I,B20,Forensic Scientist II,B21,0.06652378329019171,0.8966647898519524,False,38,114,0.0
+Forensic Scientist,Public Safety,2,Forensic Scientist II,B21,Forensic Scientist III,B22,0.06671195267612018,0.898193359375,False,114,116,0.0
+Forensic Scientist,Public Safety,3,Forensic Scientist III,B22,Forensic Scientist IV,B23,0.06693111865845891,0.8995045602972638,False,116,69,0.0
+Forensic Scientist,Public Safety,4,Forensic Scientist IV,B23,Forensic Scientist V,B24,0.06774349983213335,0.8981130113843114,False,69,22,0.0
+Forensic Scientist,Public Safety,5,Forensic Scientist V,B24,Forensic Scientist VI,B25,0.069483748500623,0.8924151215988442,False,22,63,0.0
+General Counsel,Legal,1,General Counsel I,B26,General Counsel II,B28,0.21000194212468437,0.6962192816635161,False,7,45,0.0
+General Counsel,Legal,2,General Counsel II,B28,General Counsel III,B30,0.20999791342310958,0.696197587952259,False,33,42,0.0
+General Counsel,Legal,3,General Counsel III,B30,General Counsel IV,B32,0.21000444376645677,0.6961989361152714,False,25,36,0.0
+General Counsel,Legal,4,General Counsel IV,B32,General Counsel V,B34,0.20999693043039747,0.6962056381911692,False,0,0,
+Geographic Information Specialist,Information Technology,1,Geographic Information Specialist I,B18,Geographic Information Specialist II,B20,0.13667478726324456,0.779235529098457,False,2,10,
+Geographic Information Specialist,Information Technology,2,Geographic Information Specialist II,B20,Geographic Information Specialist III,B22,0.13767366744900356,0.7861756036167323,False,13,28,0.0
+Geographic Information Specialist,Information Technology,3,Geographic Information Specialist III,B22,Geographic Information Specialist IV,B24,0.1392087667161961,0.7891566265060241,False,18,19,0.0
+Geographic Information Specialist,Information Technology,4,Geographic Information Specialist IV,B24,Geographic Information Specialist V,B26,0.1992686534139212,0.7248735853599807,False,19,12,0.0
+Geologic Specialist,Natural Resources,1,Geologic Specialist I,B18,Geologic Specialist II,B20,0.13667478726324456,0.779235529098457,False,0,0,
+Geoscientist,Natural Resources,1,Geoscientist I,B21,Geoscientist II,B23,0.13810817695508204,0.78924560546875,False,1,5,
+Geoscientist,Natural Resources,2,Geoscientist II,B23,Geoscientist III,B25,0.14193432063764444,0.7819826376254093,False,7,26,0.0
+Geoscientist,Natural Resources,3,Geoscientist III,B25,Geoscientist IV,B27,0.23348813911831479,0.6718844745884519,False,18,34,0.0
+Government Relations Specialist,Information and Communication,1,Government Relations Specialist I,B23,Government Relations Specialist II,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Government Relations Specialist,Information and Communication,2,Government Relations Specialist II,B25,Government Relations Specialist III,B27,0.23348813911831479,0.6718844745884519,False,3,12,
+Governor's Advisor,Information and Communication,1,Governor's Advisor I,B23,Governor's Advisor II,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Governor's Advisor,Information and Communication,2,Governor's Advisor II,B25,Governor's Advisor III,B27,0.23348813911831479,0.6718844745884519,False,0,0,
+Governor's Advisor,Information and Communication,3,Governor's Advisor III,B27,Governor's Advisor IV,B29,0.2099966454209996,0.696212537805884,False,3,7,
+Governor's Advisor,Information and Communication,4,Governor's Advisor IV,B29,Governor's Advisor V,B31,0.210004669283411,0.6961881497472022,False,0,0,
+Grant Specialist,Property Management and Procurement,1,Grant Specialist I,B17,Grant Specialist II,B19,0.15661035878821727,0.7548969431908064,False,5,27,0.0
+Grant Specialist,Property Management and Procurement,2,Grant Specialist II,B19,Grant Specialist III,B21,0.1372151409810738,0.7828246472790095,False,27,107,0.0
+Grant Specialist,Property Management and Procurement,3,Grant Specialist III,B21,Grant Specialist IV,B23,0.13810817695508204,0.78924560546875,False,74,96,0.0
+Grant Specialist,Property Management and Procurement,4,Grant Specialist IV,B23,Grant Specialist V,B25,0.14193432063764444,0.7819826376254093,False,53,42,0.0
+Groundskeeper,Custodial,1,Groundskeeper I,A8,Groundskeeper II,A10,0.0816527806400329,0.790478905359179,False,6,25,0.0
+Groundskeeper,Custodial,2,Groundskeeper II,A10,Groundskeeper III,A12,0.1382262081354364,0.7487350999056684,False,26,21,0.038461538461538464
+Groundskeeper,Custodial,3,Groundskeeper III,A12,Groundskeeper IV,A14,0.10330232669360817,0.7929565108409575,False,7,12,0.0
+Guardianship Specialist,Social Services,1,Guardianship Specialist I,B19,Guardianship Specialist II,B20,0.06628202652246684,0.8951194932335157,False,34,17,0.20588235294117646
+Guardianship Specialist,Social Services,2,Guardianship Specialist II,B20,Guardianship Specialist III,B21,0.06652378329019171,0.8966647898519524,False,17,16,0.29411764705882354
+Guardianship Supervisor,Social Services,1,Guardianship Supervisor I,B21,Guardianship Supervisor II,B22,0.06671195267612018,0.898193359375,False,8,5,0.0
+Guardianship Supervisor,Social Services,2,Guardianship Supervisor II,B22,Guardianship Supervisor III,B23,0.06693111865845891,0.8995045602972638,False,0,0,
+HVAC Mechanic,Maintenance,1,HVAC Mechanic I,A16,HVAC Mechanic II,A18,0.14236437754782072,0.7722640015832178,False,0,24,
+HVAC Mechanic,Maintenance,2,HVAC Mechanic II,A18,HVAC Mechanic III,A20,0.13667478726324456,0.779235529098457,False,24,35,0.0
+HVAC Mechanic,Maintenance,3,HVAC Mechanic III,A20,HVAC Mechanic IV,A22,0.13767366744900356,0.7861756036167323,False,0,0,
+Health Informatics Specialist,Medical and Health,1,Health Informatics Specialist I,B20,Health Informatics Specialist II,B22,0.13767366744900356,0.7861756036167323,False,3,12,
+Health Informatics Specialist,Medical and Health,2,Health Informatics Specialist II,B22,Health Informatics Specialist III,B24,0.1392087667161961,0.7891566265060241,False,12,17,0.0
+Health Informatics Specialist,Medical and Health,3,Health Informatics Specialist III,B24,Health Informatics Specialist IV,B26,0.1992686534139212,0.7248735853599807,False,17,7,0.058823529411764705
+Health Physicist,Medical and Health,1,Health Physicist I,B23,Health Physicist II,B25,0.14193432063764444,0.7819826376254093,False,30,16,0.0
+Health Physicist,Medical and Health,2,Health Physicist II,B25,Health Physicist III,B27,0.23348813911831479,0.6718844745884519,False,0,0,
+Health Specialist,Medical and Health,1,Health Specialist I,B17,Health Specialist II,B18,0.08498301456559165,0.8815893546736147,False,0,0,
+Health Specialist,Medical and Health,2,Health Specialist II,B18,Health Specialist III,B19,0.06601701894043366,0.8933578757734785,False,1,97,
+Health Specialist,Medical and Health,3,Health Specialist III,B19,Health Specialist IV,B20,0.06628202652246684,0.8951194932335157,False,0,14,
+Health Specialist,Medical and Health,4,Health Specialist IV,B20,Health Specialist V,B21,0.06652378329019171,0.8966647898519524,False,16,162,0.125
+Health Specialist,Medical and Health,5,Health Specialist V,B21,Health Specialist VI,B23,0.13810817695508204,0.78924560546875,False,50,40,0.0
+Health Specialist,Medical and Health,6,Health Specialist VI,B23,Health Specialist VII,B25,0.14193432063764444,0.7819826376254093,False,20,19,0.0
+Hearings Officer,Legal,1,Hearings Officer I,B20,Hearings Officer II,B21,0.06652378329019171,0.8966647898519524,False,30,53,0.0
+Hearings Officer,Legal,2,Hearings Officer II,B21,Hearings Officer III,B22,0.06671195267612018,0.898193359375,False,53,31,0.0
+Hearings Officer,Legal,3,Hearings Officer III,B22,Hearings Officer IV,B23,0.06693111865845891,0.8995045602972638,False,0,0,
+Hearings Officer,Legal,4,Hearings Officer IV,B23,Hearings Officer V,B24,0.06774349983213335,0.8981130113843114,False,0,5,
+Historian,Library and Records,1,Historian I,B17,Historian II,B19,0.15661035878821727,0.7548969431908064,False,0,0,
+Historian,Library and Records,2,Historian II,B19,Historian III,B21,0.1372151409810738,0.7828246472790095,False,0,0,
+Human Resources Specialist,Human Resources and Training and Development,1,Human Resources Specialist I,B16,Human Resources Specialist II,B18,0.14236437754782072,0.7722640015832178,False,132,105,0.015151515151515152
+Human Resources Specialist,Human Resources and Training and Development,2,Human Resources Specialist II,B18,Human Resources Specialist III,B20,0.13667478726324456,0.779235529098457,False,116,137,0.04310344827586207
+Human Resources Specialist,Human Resources and Training and Development,3,Human Resources Specialist III,B20,Human Resources Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,133,322,0.015037593984962405
+Human Resources Specialist,Human Resources and Training and Development,4,Human Resources Specialist IV,B22,Human Resources Specialist V,B24,0.1392087667161961,0.7891566265060241,False,290,144,0.10689655172413794
+Human Resources Specialist,Human Resources and Training and Development,5,Human Resources Specialist V,B24,Human Resources Specialist VI,B26,0.1992686534139212,0.7248735853599807,False,65,33,0.015384615384615385
+Human Rights Officer,Social Services,1,Human Rights Officer I,B19,Human Rights Officer II,B21,0.1372151409810738,0.7828246472790095,False,17,15,0.35294117647058826
+Human Rights Officer,Social Services,2,Human Rights Officer II,B21,Human Rights Officer III,B23,0.13810817695508204,0.78924560546875,False,15,6,0.0
+Human Rights Officer,Social Services,3,Human Rights Officer III,B23,Human Rights Officer IV,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Human Services Specialist,Social Services,1,Human Services Specialist I,B11,Human Services Specialist II,B12,0.049581487570118155,0.8996205817746122,False,140,107,0.12142857142857143
+Human Services Specialist,Social Services,2,Human Services Specialist II,B12,Human Services Specialist III,B13,0.05008488964346358,0.8997994736182479,False,50,411,0.02
+Human Services Specialist,Social Services,3,Human Services Specialist III,B13,Human Services Specialist IV,B14,0.05067917610757511,0.8994040946368518,False,411,158,0.1386861313868613
+Human Services Specialist,Social Services,4,Human Services Specialist IV,B14,Human Services Specialist V,B15,0.051399033355729484,0.89816564758199,False,158,160,0.22784810126582278
+Human Services Specialist,Social Services,5,Human Services Specialist V,B15,Human Services Specialist VI,B16,0.05181352490697888,0.8981593161676019,False,144,157,0.2013888888888889
+Human Services Specialist,Social Services,6,Human Services Specialist VI,B16,Human Services Specialist VII,B17,0.052886876763875934,0.8981792994260835,False,0,21,
+Human Services Technician,Social Services,1,Human Services Technician I,A11,Human Services Technician II,A13,0.10214966054688968,0.7931837848632097,False,487,15,0.1540041067761807
+Hydrologist,Natural Resources,1,Hydrologist I,B18,Hydrologist II,B20,0.13667478726324456,0.779235529098457,False,15,14,0.0
+Hydrologist,Natural Resources,2,Hydrologist II,B20,Hydrologist III,B22,0.13767366744900356,0.7861756036167323,False,14,16,0.0
+Hydrologist,Natural Resources,3,Hydrologist III,B22,Hydrologist IV,B24,0.1392087667161961,0.7891566265060241,False,6,18,0.0
+Hydrologist,Natural Resources,4,Hydrologist IV,B24,Hydrologist V,B26,0.1992686534139212,0.7248735853599807,False,18,6,0.0
+Independent Audit Reviewer,"Accounting, Auditing, and Finance",1,Independent Audit Reviewer I,B25,Independent Audit Reviewer II,B26,0.12135285374392257,0.843735261751297,False,0,0,
+Independent Audit Reviewer,"Accounting, Auditing, and Finance",2,Independent Audit Reviewer II,B26,Independent Audit Reviewer III,B27,0.10000000000000009,0.8553497164461248,False,0,0,
+Independent Audit Reviewer,"Accounting, Auditing, and Finance",3,Independent Audit Reviewer III,B27,Independent Audit Reviewer IV,B28,0.10000176556789486,0.8553409403354413,False,0,0,
+Industrial Specialist,Criminal Justice,1,Industrial Specialist I,A14,Industrial Specialist II,A15,0.051399033355729484,0.89816564758199,False,2,15,
+Industrial Specialist,Criminal Justice,2,Industrial Specialist II,A15,Industrial Specialist III,A16,0.05181352490697888,0.8981593161676019,False,15,87,0.0
+Industrial Specialist,Criminal Justice,3,Industrial Specialist III,A16,Industrial Specialist IV,A17,0.052886876763875934,0.8981792994260835,False,87,95,0.05747126436781609
+Industrial Specialist,Criminal Justice,4,Industrial Specialist IV,A17,Industrial Specialist V,A18,0.08498301456559165,0.8815893546736147,False,95,44,0.010526315789473684
+Information Specialist,Information and Communication,1,Information Specialist I,B16,Information Specialist II,B18,0.14236437754782072,0.7722640015832178,False,0,0,
+Information Specialist,Information and Communication,2,Information Specialist II,B18,Information Specialist III,B20,0.13667478726324456,0.779235529098457,False,5,52,0.4
+Information Specialist,Information and Communication,3,Information Specialist III,B20,Information Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,58,131,0.05172413793103448
+Information Specialist,Information and Communication,4,Information Specialist IV,B22,Information Specialist V,B24,0.1392087667161961,0.7891566265060241,False,81,99,0.04938271604938271
+Information Technology Auditor,Information Technology,1,Information Technology Auditor I,B22,Information Technology Auditor II,B24,0.1392087667161961,0.7891566265060241,False,0,12,
+Information Technology Auditor,Information Technology,2,Information Technology Auditor II,B24,Information Technology Auditor III,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+Information Technology Auditor,Information Technology,3,Information Technology Auditor III,B26,Information Technology Auditor IV,B28,0.21000194212468437,0.6962192816635161,False,0,0,
+Information Technology Business Analyst,Information Technology,1,Information Technology Business Analyst I,B21,Information Technology Business Analyst II,B23,0.13810817695508204,0.78924560546875,False,7,66,0.2857142857142857
+Information Technology Business Analyst,Information Technology,2,Information Technology Business Analyst II,B23,Information Technology Business Analyst III,B25,0.14193432063764444,0.7819826376254093,False,88,165,0.03409090909090909
+Information Technology Business Analyst,Information Technology,3,Information Technology Business Analyst III,B25,Information Technology Business Analyst IV,B27,0.23348813911831479,0.6718844745884519,False,138,99,0.036231884057971016
+Information Technology Business Analyst,Information Technology,4,Information Technology Business Analyst IV,B27,Information Technology Business Analyst V,B29,0.2099966454209996,0.696212537805884,False,40,5,0.075
+Information Technology Support Specialist,Information Technology,1,Information Technology Support Specialist I,B14,Information Technology Support Specialist II,B16,0.10587572335768014,0.7902167871039466,False,17,34,0.058823529411764705
+Information Technology Support Specialist,Information Technology,2,Information Technology Support Specialist II,B16,Information Technology Support Specialist III,B18,0.14236437754782072,0.7722640015832178,False,31,190,0.1935483870967742
+Information Technology Support Specialist,Information Technology,3,Information Technology Support Specialist III,B18,Information Technology Support Specialist IV,B20,0.13667478726324456,0.779235529098457,False,168,132,0.03571428571428571
+Information Technology Support Specialist,Information Technology,4,Information Technology Support Specialist IV,B20,Information Technology Support Specialist V,B22,0.13767366744900356,0.7861756036167323,False,43,36,0.09302325581395349
+Inspector,"Compliance, Inspection, and Investigation",1,Inspector I,B12,Inspector II,B14,0.10330232669360817,0.7929565108409575,False,22,78,0.0
+Inspector,"Compliance, Inspection, and Investigation",2,Inspector II,B14,Inspector III,B16,0.10587572335768014,0.7902167871039466,False,78,285,0.0
+Inspector,"Compliance, Inspection, and Investigation",3,Inspector III,B16,Inspector IV,B18,0.14236437754782072,0.7722640015832178,False,286,242,0.01048951048951049
+Inspector,"Compliance, Inspection, and Investigation",4,Inspector IV,B18,Inspector V,B20,0.13667478726324456,0.779235529098457,False,219,803,0.0593607305936073
+Inspector,"Compliance, Inspection, and Investigation",5,Inspector V,B20,Inspector VI,B22,0.13767366744900356,0.7861756036167323,False,726,155,0.06198347107438017
+Inspector,"Compliance, Inspection, and Investigation",6,Inspector VI,B22,Inspector VII,B24,0.1392087667161961,0.7891566265060241,False,22,12,0.045454545454545456
+Insurance Specialist,Insurance,1,Insurance Specialist I,B14,Insurance Specialist II,B16,0.10587572335768014,0.7902167871039466,False,37,49,0.10810810810810811
+Insurance Specialist,Insurance,2,Insurance Specialist II,B16,Insurance Specialist III,B18,0.14236437754782072,0.7722640015832178,False,49,28,0.10204081632653061
+Insurance Specialist,Insurance,3,Insurance Specialist III,B18,Insurance Specialist IV,B20,0.13667478726324456,0.779235529098457,False,28,7,0.0
+Intelligent Transportation Systems Operations Technician,Information and Communication,1,Intelligent Transportation Systems Operations Technician I,B15,Intelligent Transportation Systems Operations Technician II,B17,0.1074406571773121,0.7902354606953694,False,9,16,0.0
+Intelligent Transportation Systems Operations Technician,Information and Communication,2,Intelligent Transportation Systems Operations Technician II,B17,Intelligent Transportation Systems Operations Technician III,B19,0.15661035878821727,0.7548969431908064,False,16,13,0.0625
+Intelligent Transportation Systems Operations Technician,Information and Communication,3,Intelligent Transportation Systems Operations Technician III,B19,Intelligent Transportation Systems Operations Technician IV,B21,0.1372151409810738,0.7828246472790095,False,13,8,0.07692307692307693
+Intelligent Transportation Systems Specialist,Engineering and Design,1,Intelligent Transportation Systems Specialist I,B21,Intelligent Transportation Systems Specialist II,B23,0.13810817695508204,0.78924560546875,False,10,15,0.1
+Intelligent Transportation Systems Specialist,Engineering and Design,2,Intelligent Transportation Systems Specialist II,B23,Intelligent Transportation Systems Specialist III,B25,0.14193432063764444,0.7819826376254093,False,15,8,0.0
+Internal Auditor,"Accounting, Auditing, and Finance",1,Internal Auditor I,B19,Internal Auditor II,B21,0.1372151409810738,0.7828246472790095,False,0,0,
+Internal Auditor,"Accounting, Auditing, and Finance",2,Internal Auditor II,B21,Internal Auditor III,B23,0.13810817695508204,0.78924560546875,False,11,28,0.0
+Internal Auditor,"Accounting, Auditing, and Finance",3,Internal Auditor III,B23,Internal Auditor IV,B25,0.14193432063764444,0.7819826376254093,False,19,21,0.0
+Internal Auditor,"Accounting, Auditing, and Finance",4,Internal Auditor IV,B25,Internal Auditor V,B27,0.23348813911831479,0.6718844745884519,False,10,8,0.0
+Interpreter/Translator,Social Services,1,Interpreter/Translator I,B17,Interpreter/Translator II,B19,0.15661035878821727,0.7548969431908064,False,0,0,
+Interpreter/Translator,Social Services,2,Interpreter/Translator II,B19,Interpreter/Translator III,B21,0.1372151409810738,0.7828246472790095,False,1,8,
+Interpreter/Translator,Social Services,3,Interpreter/Translator III,B21,Interpreter/Translator IV,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Inventory and Store Specialist,Property Management and Procurement,1,Inventory and Store Specialist I,A11,Inventory and Store Specialist II,A13,0.10214966054688968,0.7931837848632097,False,33,85,0.06060606060606061
+Inventory and Store Specialist,Property Management and Procurement,2,Inventory and Store Specialist II,A13,Inventory and Store Specialist III,A15,0.10468307012649869,0.7913151218360965,False,67,313,0.07462686567164178
+Inventory and Store Specialist,Property Management and Procurement,3,Inventory and Store Specialist III,A15,Inventory and Store Specialist IV,A17,0.1074406571773121,0.7902354606953694,False,297,194,0.030303030303030304
+Inventory and Store Specialist,Property Management and Procurement,4,Inventory and Store Specialist IV,A17,Inventory and Store Specialist V,A19,0.15661035878821727,0.7548969431908064,False,194,145,0.005154639175257732
+Investigator,"Compliance, Inspection, and Investigation",1,Investigator I,B14,Investigator II,B16,0.10587572335768014,0.7902167871039466,False,217,219,0.041474654377880185
+Investigator,"Compliance, Inspection, and Investigation",2,Investigator II,B16,Investigator III,B18,0.14236437754782072,0.7722640015832178,False,195,489,0.05128205128205128
+Investigator,"Compliance, Inspection, and Investigation",3,Investigator III,B18,Investigator IV,B20,0.13667478726324456,0.779235529098457,False,451,378,0.024390243902439025
+Investigator,"Compliance, Inspection, and Investigation",4,Investigator IV,B20,Investigator V,B22,0.13767366744900356,0.7861756036167323,False,254,268,0.051181102362204724
+Investigator,"Compliance, Inspection, and Investigation",5,Investigator V,B22,Investigator VI,B24,0.1392087667161961,0.7891566265060241,False,224,228,0.08482142857142858
+Investigator,"Compliance, Inspection, and Investigation",6,Investigator VI,B24,Investigator VII,B26,0.1992686534139212,0.7248735853599807,False,3,6,
+Investment Analyst,"Accounting, Auditing, and Finance",1,Investment Analyst I,B24,Investment Analyst II,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+Investment Analyst,"Accounting, Auditing, and Finance",2,Investment Analyst II,B26,Investment Analyst III,B28,0.21000194212468437,0.6962192816635161,False,2,5,
+Investment Analyst,"Accounting, Auditing, and Finance",3,Investment Analyst III,B28,Investment Analyst IV,B30,0.20999791342310958,0.696197587952259,False,5,5,0.0
+Investment Analyst,"Accounting, Auditing, and Finance",4,Investment Analyst IV,B30,Investment Analyst V,B32,0.21000444376645677,0.6961989361152714,False,5,6,0.0
+Investment Analyst,"Accounting, Auditing, and Finance",5,Investment Analyst V,B32,Investment Analyst VI,B34,0.20999693043039747,0.6962056381911692,False,0,0,
+Juvenile Correctional Officer,Criminal Justice,1,Juvenile Correctional Officer I,A13,Juvenile Correctional Officer II,A16,0.16192059389481583,0.6767360906248157,False,0,282,
+Juvenile Correctional Officer,Criminal Justice,2,Juvenile Correctional Officer II,A16,Juvenile Correctional Officer III,A17,0.052886876763875934,0.8981792994260835,False,282,315,0.0
+Juvenile Correctional Officer,Criminal Justice,3,Juvenile Correctional Officer III,A17,Juvenile Correctional Officer IV,A19,0.15661035878821727,0.7548969431908064,False,315,76,0.0
+Laboratory Technician,Medical and Health,1,Laboratory Technician I,A11,Laboratory Technician II,A13,0.10214966054688968,0.7931837848632097,False,0,0,
+Laboratory Technician,Medical and Health,2,Laboratory Technician II,A13,Laboratory Technician III,A15,0.10468307012649869,0.7913151218360965,False,4,21,
+Laboratory Technician,Medical and Health,3,Laboratory Technician III,A15,Laboratory Technician IV,A17,0.1074406571773121,0.7902354606953694,False,15,7,0.0
+Land Surveyor,"Land Surveying, Appraising, and Utilities",1,Land Surveyor I,B21,Land Surveyor II,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Land Surveyor,"Land Surveying, Appraising, and Utilities",2,Land Surveyor II,B23,Land Surveyor III,B25,0.14193432063764444,0.7819826376254093,False,3,12,
+Laundry Manager,Custodial,1,Laundry Manager I,A15,Laundry Manager II,A17,0.1074406571773121,0.7902354606953694,False,75,521,0.0
+Laundry Manager,Custodial,2,Laundry Manager II,A17,Laundry Manager III,A19,0.15661035878821727,0.7548969431908064,False,515,86,0.0
+Laundry/Sewing Room Worker,Custodial,1,Laundry/Sewing Room Worker I,A7,Laundry/Sewing Room Worker II,A9,0.08081642645123788,0.7899159663865546,False,0,42,
+Laundry/Sewing Room Worker,Custodial,2,Laundry/Sewing Room Worker II,A9,Laundry/Sewing Room Worker III,A11,0.1280719139297848,0.769723776855028,False,42,30,0.09523809523809523
+Legal Assistant,Legal,1,Legal Assistant I,B16,Legal Assistant II,B18,0.14236437754782072,0.7722640015832178,False,26,124,0.0
+Legal Assistant,Legal,2,Legal Assistant II,B18,Legal Assistant III,B20,0.13667478726324456,0.779235529098457,False,85,105,0.03529411764705882
+Legal Assistant,Legal,3,Legal Assistant III,B20,Legal Assistant IV,B22,0.13767366744900356,0.7861756036167323,False,98,97,0.04081632653061224
+Legal Assistant,Legal,4,Legal Assistant IV,B22,Legal Assistant V,B24,0.1392087667161961,0.7891566265060241,False,47,27,0.0425531914893617
+Legal Assistant,Legal,5,Legal Assistant V,B24,Legal Assistant VI,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+Legal Secretary,Legal,1,Legal Secretary I,A13,Legal Secretary II,A15,0.10468307012649869,0.7913151218360965,False,0,5,
+Legal Secretary,Legal,2,Legal Secretary II,A15,Legal Secretary III,A17,0.1074406571773121,0.7902354606953694,False,5,67,0.0
+Legal Secretary,Legal,3,Legal Secretary III,A17,Legal Secretary IV,A19,0.15661035878821727,0.7548969431908064,False,0,17,
+Legal Secretary,Legal,4,Legal Secretary IV,A19,Legal Secretary V,A21,0.1372151409810738,0.7828246472790095,False,0,0,
+Librarian,Library and Records,1,Librarian I,B16,Librarian II,B18,0.14236437754782072,0.7722640015832178,False,3,122,
+Librarian,Library and Records,2,Librarian II,B18,Librarian III,B20,0.13667478726324456,0.779235529098457,False,113,67,0.04424778761061947
+Librarian,Library and Records,3,Librarian III,B20,Librarian IV,B22,0.13767366744900356,0.7861756036167323,False,2,17,
+Library Assistant,Library and Records,1,Library Assistant I,A11,Library Assistant II,A13,0.10214966054688968,0.7931837848632097,False,4,9,
+License and Permit Specialist,Administrative Support,1,License and Permit Specialist I,B14,License and Permit Specialist II,B16,0.10587572335768014,0.7902167871039466,False,437,1651,0.002288329519450801
+License and Permit Specialist,Administrative Support,2,License and Permit Specialist II,B16,License and Permit Specialist III,B18,0.14236437754782072,0.7722640015832178,False,1602,647,0.0
+License and Permit Specialist,Administrative Support,3,License and Permit Specialist III,B18,License and Permit Specialist IV,B20,0.13667478726324456,0.779235529098457,False,633,251,0.001579778830963665
+License and Permit Specialist,Administrative Support,4,License and Permit Specialist IV,B20,License and Permit Specialist V,B22,0.13767366744900356,0.7861756036167323,False,7,8,0.14285714285714285
+Licensed Vocational Nurse,Medical and Health,1,Licensed Vocational Nurse I,A16,Licensed Vocational Nurse II,A18,0.14236437754782072,0.7722640015832178,False,23,393,0.0
+Licensed Vocational Nurse,Medical and Health,2,Licensed Vocational Nurse II,A18,Licensed Vocational Nurse III,A19,0.06601701894043366,0.8933578757734785,False,378,497,0.0
+Licensed Vocational Nurse,Medical and Health,3,Licensed Vocational Nurse III,A19,Licensed Vocational Nurse IV,A20,0.06628202652246684,0.8951194932335157,False,487,43,0.008213552361396304
+Lifeguard,Safety,1,Lifeguard I,A8,Lifeguard II,A10,0.0816527806400329,0.790478905359179,False,0,0,
+Loan Specialist,"Accounting, Auditing, and Finance",1,Loan Specialist I,B17,Loan Specialist II,B19,0.15661035878821727,0.7548969431908064,False,0,10,
+Loan Specialist,"Accounting, Auditing, and Finance",2,Loan Specialist II,B19,Loan Specialist III,B21,0.1372151409810738,0.7828246472790095,False,8,14,0.0
+Loan Specialist,"Accounting, Auditing, and Finance",3,Loan Specialist III,B21,Loan Specialist IV,B23,0.13810817695508204,0.78924560546875,False,8,5,0.0
+Loan Specialist,"Accounting, Auditing, and Finance",4,Loan Specialist IV,B23,Loan Specialist V,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Machinist,Maintenance,1,Machinist I,A16,Machinist II,A18,0.14236437754782072,0.7722640015832178,False,0,0,
+Maintenance Specialist,Maintenance,1,Maintenance Specialist I,A11,Maintenance Specialist II,A13,0.10214966054688968,0.7931837848632097,False,56,67,0.0
+Maintenance Specialist,Maintenance,2,Maintenance Specialist II,A13,Maintenance Specialist III,A14,0.05067917610757511,0.8994040946368518,False,67,328,0.43283582089552236
+Maintenance Specialist,Maintenance,3,Maintenance Specialist III,A14,Maintenance Specialist IV,A16,0.10587572335768014,0.7902167871039466,False,319,239,0.0
+Maintenance Specialist,Maintenance,4,Maintenance Specialist IV,A16,Maintenance Specialist V,A18,0.14236437754782072,0.7722640015832178,False,212,190,0.02358490566037736
+Maintenance Specialist,Maintenance,5,Maintenance Specialist V,A18,Maintenance Specialist VI,A20,0.13667478726324456,0.779235529098457,False,0,0,
+Maintenance Supervisor,Maintenance,1,Maintenance Supervisor I,A17,Maintenance Supervisor II,A18,0.08498301456559165,0.8815893546736147,False,50,75,0.26
+Maintenance Supervisor,Maintenance,2,Maintenance Supervisor II,A18,Maintenance Supervisor III,A19,0.06601701894043366,0.8933578757734785,False,60,506,0.25
+Maintenance Supervisor,Maintenance,3,Maintenance Supervisor III,A19,Maintenance Supervisor IV,A21,0.1372151409810738,0.7828246472790095,False,501,212,0.015968063872255488
+Management Analyst,Program Management,1,Management Analyst I,B19,Management Analyst II,B21,0.1372151409810738,0.7828246472790095,False,14,35,0.07142857142857142
+Management Analyst,Program Management,2,Management Analyst II,B21,Management Analyst III,B23,0.13810817695508204,0.78924560546875,False,35,116,0.05714285714285714
+Management Analyst,Program Management,3,Management Analyst III,B23,Management Analyst IV,B25,0.14193432063764444,0.7819826376254093,False,106,192,0.10377358490566038
+Management Analyst,Program Management,4,Management Analyst IV,B25,Management Analyst V,B27,0.23348813911831479,0.6718844745884519,False,146,114,0.04794520547945205
+Manager,Program Management,1,Manager I,B22,Manager II,B23,0.06693111865845891,0.8995045602972638,False,227,486,0.17180616740088106
+Manager,Program Management,2,Manager II,B23,Manager III,B24,0.06774349983213335,0.8981130113843114,False,493,653,0.13793103448275862
+Manager,Program Management,3,Manager III,B24,Manager IV,B25,0.069483748500623,0.8924151215988442,False,651,807,0.12442396313364056
+Manager,Program Management,4,Manager IV,B25,Manager V,B26,0.12135285374392257,0.843735261751297,False,779,1030,0.1643132220795892
+Manager,Program Management,5,Manager V,B26,Manager VI,B27,0.10000000000000009,0.8553497164461248,False,905,505,0.10718232044198896
+Manager,Program Management,6,Manager VI,B27,Manager VII,B28,0.10000176556789486,0.8553409403354413,False,362,208,0.07734806629834254
+Manager,Program Management,7,Manager VII,B28,Manager VIII,B29,0.09999518482256065,0.8553396238205336,False,0,0,
+Marketing Specialist,Information and Communication,1,Marketing Specialist I,B16,Marketing Specialist II,B18,0.14236437754782072,0.7722640015832178,False,0,5,
+Marketing Specialist,Information and Communication,2,Marketing Specialist II,B18,Marketing Specialist III,B20,0.13667478726324456,0.779235529098457,False,0,0,
+Marketing Specialist,Information and Communication,3,Marketing Specialist III,B20,Marketing Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,10,21,0.1
+Marketing Specialist,Information and Communication,4,Marketing Specialist IV,B22,Marketing Specialist V,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Master Administrative Law Judge,Legal,1,Master Administrative Law Judge I,B29,Master Administrative Law Judge II,B31,0.210004669283411,0.6961881497472022,False,0,0,
+Medical Fee Dispute Officer,Legal,1,Medical Fee Dispute Officer I,B19,Medical Fee Dispute Officer II,B21,0.1372151409810738,0.7828246472790095,False,0,0,
+Medical Fee Dispute Officer,Legal,2,Medical Fee Dispute Officer II,B21,Medical Fee Dispute Officer III,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Medical Technician,Medical and Health,1,Medical Technician I,A8,Medical Technician II,A10,0.0816527806400329,0.790478905359179,False,0,0,
+Medical Technician,Medical and Health,2,Medical Technician II,A10,Medical Technician III,A12,0.1382262081354364,0.7487350999056684,False,0,12,
+Medical Technician,Medical and Health,3,Medical Technician III,A12,Medical Technician IV,A14,0.10330232669360817,0.7929565108409575,False,0,0,
+Medical Technician,Medical and Health,4,Medical Technician IV,A14,Medical Technician V,A16,0.10587572335768014,0.7902167871039466,False,0,0,
+Medical Technologist,Medical and Health,1,Medical Technologist I,B16,Medical Technologist II,B18,0.14236437754782072,0.7722640015832178,False,0,0,
+Medical Technologist,Medical and Health,2,Medical Technologist II,B18,Medical Technologist III,B20,0.13667478726324456,0.779235529098457,False,2,17,
+Medical Technologist,Medical and Health,3,Medical Technologist III,B20,Medical Technologist IV,B22,0.13767366744900356,0.7861756036167323,False,17,11,0.0
+Medical Technologist,Medical and Health,4,Medical Technologist IV,B22,Medical Technologist V,B24,0.1392087667161961,0.7891566265060241,False,15,11,0.0
+Microbiologist,Medical and Health,1,Microbiologist I,B17,Microbiologist II,B19,0.15661035878821727,0.7548969431908064,False,15,24,0.0
+Microbiologist,Medical and Health,2,Microbiologist II,B19,Microbiologist III,B21,0.1372151409810738,0.7828246472790095,False,24,26,0.0
+Microbiologist,Medical and Health,3,Microbiologist III,B21,Microbiologist IV,B23,0.13810817695508204,0.78924560546875,False,26,19,0.0
+Microbiologist,Medical and Health,4,Microbiologist IV,B23,Microbiologist V,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Military Specialist,Military,1,Military Specialist I,B20,Military Specialist II,B22,0.13767366744900356,0.7861756036167323,False,0,0,
+Military Specialist,Military,2,Military Specialist II,B22,Military Specialist III,B24,0.1392087667161961,0.7891566265060241,False,4,6,
+Military Specialist,Military,3,Military Specialist III,B24,Military Specialist IV,B27,0.31919551875531327,0.5406212376595232,False,0,0,
+Military Specialist,Military,4,Military Specialist IV,B27,Military Specialist V,B30,0.33099984109888947,0.5211541105306572,False,0,0,
+Military Technician,Military,1,Military Technician I,A10,Military Technician II,A12,0.1382262081354364,0.7487350999056684,False,0,0,
+Military Technician,Military,2,Military Technician II,A12,Military Technician III,A14,0.10330232669360817,0.7929565108409575,False,0,0,
+Military Technician,Military,3,Military Technician III,A14,Military Technician IV,A16,0.10587572335768014,0.7902167871039466,False,0,0,
+Military Technician,Military,4,Military Technician IV,A16,Military Technician V,A20,0.2984967858262779,0.49337027508410847,False,0,0,
+Minerals Specialist,"Land Surveying, Appraising, and Utilities",1,Minerals Specialist I,B22,Minerals Specialist II,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Minerals Specialist,"Land Surveying, Appraising, and Utilities",2,Minerals Specialist II,B24,Minerals Specialist III,B26,0.1992686534139212,0.7248735853599807,False,3,5,
+Mitigation Specialist,Legal,1,Mitigation Specialist I,B20,Mitigation Specialist II,B22,0.13767366744900356,0.7861756036167323,False,0,0,
+Mitigation Specialist,Legal,2,Mitigation Specialist II,B22,Mitigation Specialist III,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Mitigation Specialist,Legal,3,Mitigation Specialist III,B24,Mitigation Specialist IV,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+Molecular Biologist,Medical and Health,1,Molecular Biologist I,B17,Molecular Biologist II,B19,0.15661035878821727,0.7548969431908064,False,0,7,
+Molecular Biologist,Medical and Health,2,Molecular Biologist II,B19,Molecular Biologist III,B21,0.1372151409810738,0.7828246472790095,False,7,39,0.0
+Molecular Biologist,Medical and Health,3,Molecular Biologist III,B21,Molecular Biologist IV,B23,0.13810817695508204,0.78924560546875,False,39,14,0.0
+Molecular Biologist,Medical and Health,4,Molecular Biologist IV,B23,Molecular Biologist V,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Motor Vehicle Technician,Maintenance,1,Motor Vehicle Technician I,A12,Motor Vehicle Technician II,A14,0.10330232669360817,0.7929565108409575,False,9,16,0.0
+Motor Vehicle Technician,Maintenance,2,Motor Vehicle Technician II,A14,Motor Vehicle Technician III,A16,0.10587572335768014,0.7902167871039466,False,16,25,0.0
+Motor Vehicle Technician,Maintenance,3,Motor Vehicle Technician III,A16,Motor Vehicle Technician IV,A18,0.14236437754782072,0.7722640015832178,False,19,118,0.0
+Motor Vehicle Technician,Maintenance,4,Motor Vehicle Technician IV,A18,Motor Vehicle Technician V,A20,0.13667478726324456,0.779235529098457,False,94,166,0.13829787234042554
+Multimedia Specialist,Information and Communication,1,Multimedia Specialist I,B20,Multimedia Specialist II,B22,0.13767366744900356,0.7861756036167323,False,0,0,
+Multimedia Specialist,Information and Communication,2,Multimedia Specialist II,B22,Multimedia Specialist III,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Multimedia Technician,Information and Communication,1,Multimedia Technician I,A11,Multimedia Technician II,A13,0.10214966054688968,0.7931837848632097,False,0,0,
+Multimedia Technician,Information and Communication,2,Multimedia Technician II,A13,Multimedia Technician III,A15,0.10468307012649869,0.7913151218360965,False,0,0,
+Multimedia Technician,Information and Communication,3,Multimedia Technician III,A15,Multimedia Technician IV,A17,0.1074406571773121,0.7902354606953694,False,0,0,
+Natural Resources Specialist,Natural Resources,1,Natural Resources Specialist I,B16,Natural Resources Specialist II,B18,0.14236437754782072,0.7722640015832178,False,14,325,0.0
+Natural Resources Specialist,Natural Resources,2,Natural Resources Specialist II,B18,Natural Resources Specialist III,B20,0.13667478726324456,0.779235529098457,False,325,362,0.015384615384615385
+Natural Resources Specialist,Natural Resources,3,Natural Resources Specialist III,B20,Natural Resources Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,364,338,0.0027472527472527475
+Natural Resources Specialist,Natural Resources,4,Natural Resources Specialist IV,B22,Natural Resources Specialist V,B24,0.1392087667161961,0.7891566265060241,False,321,230,0.028037383177570093
+Network Specialist,Information Technology,1,Network Specialist I,B17,Network Specialist II,B19,0.15661035878821727,0.7548969431908064,False,58,41,0.1896551724137931
+Network Specialist,Information Technology,2,Network Specialist II,B19,Network Specialist III,B21,0.1372151409810738,0.7828246472790095,False,45,86,0.08888888888888889
+Network Specialist,Information Technology,3,Network Specialist III,B21,Network Specialist IV,B23,0.13810817695508204,0.78924560546875,False,86,68,0.10465116279069768
+Network Specialist,Information Technology,4,Network Specialist IV,B23,Network Specialist V,B25,0.14193432063764444,0.7819826376254093,False,38,21,0.02631578947368421
+Network Specialist,Information Technology,5,Network Specialist V,B25,Network Specialist VI,B27,0.23348813911831479,0.6718844745884519,False,3,5,
+Nurse,Medical and Health,1,Nurse I,B20,Nurse II,B22,0.13767366744900356,0.7861756036167323,False,57,840,0.0
+Nurse,Medical and Health,2,Nurse II,B22,Nurse III,B24,0.1392087667161961,0.7891566265060241,False,838,1105,0.0
+Nurse,Medical and Health,3,Nurse III,B24,Nurse IV,B26,0.1992686534139212,0.7248735853599807,False,1092,189,0.01282051282051282
+Nurse,Medical and Health,4,Nurse IV,B26,Nurse V,B28,0.21000194212468437,0.6962192816635161,False,175,24,0.0
+Nurse,Medical and Health,5,Nurse V,B28,Nurse VI,B30,0.20999791342310958,0.696197587952259,False,24,27,0.0
+Ombudsman,Legal,1,Ombudsman I,B17,Ombudsman II,B19,0.15661035878821727,0.7548969431908064,False,17,28,0.058823529411764705
+Ombudsman,Legal,2,Ombudsman II,B19,Ombudsman III,B21,0.1372151409810738,0.7828246472790095,False,18,45,0.0
+Ombudsman,Legal,3,Ombudsman III,B21,Ombudsman IV,B23,0.13810817695508204,0.78924560546875,False,39,57,0.02564102564102564
+Ombudsman,Legal,4,Ombudsman IV,B23,Ombudsman V,B25,0.14193432063764444,0.7819826376254093,False,49,5,0.08163265306122448
+Ombudsman,Legal,5,Ombudsman V,B25,Ombudsman VI,B27,0.23348813911831479,0.6718844745884519,False,8,12,0.25
+Ombudsman,Legal,6,Ombudsman VI,B27,Ombudsman VII,B29,0.2099966454209996,0.696212537805884,False,0,0,
+Orthopedic Equipment Technician,Medical and Health,1,Orthopedic Equipment Technician I,A12,Orthopedic Equipment Technician II,A14,0.10330232669360817,0.7929565108409575,False,7,17,0.0
+Orthopedic Equipment Technician,Medical and Health,2,Orthopedic Equipment Technician II,A14,Orthopedic Equipment Technician III,A16,0.10587572335768014,0.7902167871039466,False,17,5,0.5882352941176471
+Park Ranger,Natural Resources,1,Park Ranger I,B15,Park Ranger II,B17,0.1074406571773121,0.7902354606953694,False,73,23,0.0
+Park Ranger,Natural Resources,2,Park Ranger II,B17,Park Ranger III,B19,0.15661035878821727,0.7548969431908064,False,23,20,0.043478260869565216
+Park Ranger,Natural Resources,3,Park Ranger III,B19,Park Ranger IV,B21,0.1372151409810738,0.7828246472790095,False,0,0,
+Park Ranger,Natural Resources,4,Park Ranger IV,B21,Park Ranger V,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Park/Historic Site Superintendent,Natural Resources,1,Park/Historic Site Superintendent I,B20,Park/Historic Site Superintendent II,B21,0.06652378329019171,0.8966647898519524,False,5,21,0.0
+Park/Historic Site Superintendent,Natural Resources,2,Park/Historic Site Superintendent II,B21,Park/Historic Site Superintendent III,B22,0.06671195267612018,0.898193359375,False,23,51,0.0
+Park/Historic Site Superintendent,Natural Resources,3,Park/Historic Site Superintendent III,B22,Park/Historic Site Superintendent IV,B23,0.06693111865845891,0.8995045602972638,False,36,16,0.1111111111111111
+Park/Historic Site Superintendent,Natural Resources,4,Park/Historic Site Superintendent IV,B23,Park/Historic Site Superintendent V,B24,0.06774349983213335,0.8981130113843114,False,16,10,0.125
+Park/Historic Site Superintendent,Natural Resources,5,Park/Historic Site Superintendent V,B24,Park/Historic Site Superintendent VI,B25,0.069483748500623,0.8924151215988442,False,10,7,0.2
+Parole Officer,Criminal Justice,1,Parole Officer I,B17,Parole Officer II,B18,0.08498301456559165,0.8815893546736147,False,680,807,0.023529411764705882
+Parole Officer,Criminal Justice,2,Parole Officer II,B18,Parole Officer III,B19,0.06601701894043366,0.8933578757734785,False,807,276,0.0
+Parole Officer,Criminal Justice,3,Parole Officer III,B19,Parole Officer IV,B21,0.1372151409810738,0.7828246472790095,False,276,107,0.0
+Parole Officer,Criminal Justice,4,Parole Officer IV,B21,Parole Officer V,B23,0.13810817695508204,0.78924560546875,False,92,22,0.0
+Payroll Specialist,"Accounting, Auditing, and Finance",1,Payroll Specialist I,B15,Payroll Specialist II,B17,0.1074406571773121,0.7902354606953694,False,12,5,0.0
+Payroll Specialist,"Accounting, Auditing, and Finance",2,Payroll Specialist II,B17,Payroll Specialist III,B19,0.15661035878821727,0.7548969431908064,False,0,6,
+Payroll Specialist,"Accounting, Auditing, and Finance",3,Payroll Specialist III,B19,Payroll Specialist IV,B21,0.1372151409810738,0.7828246472790095,False,2,8,
+Payroll Specialist,"Accounting, Auditing, and Finance",4,Payroll Specialist IV,B21,Payroll Specialist V,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Payroll Specialist,"Accounting, Auditing, and Finance",5,Payroll Specialist V,B23,Payroll Specialist VI,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Pharmacist,Medical and Health,1,Pharmacist I,B27,Pharmacist II,B29,0.2099966454209996,0.696212537805884,False,20,52,0.0
+Pharmacist,Medical and Health,2,Pharmacist II,B29,Pharmacist III,B31,0.210004669283411,0.6961881497472022,False,52,37,0.0
+Pharmacy Technician,Medical and Health,1,Pharmacy Technician I,A12,Pharmacy Technician II,A14,0.10330232669360817,0.7929565108409575,False,19,62,0.0
+Physician,Medical and Health,1,Physician I,B33,Physician II,B34,0.10000049830824342,0.8553302939179358,False,0,16,
+Physician,Medical and Health,2,Physician II,B34,Physician III,B35,0.10000135902186669,0.8553325455475406,False,18,44,0.0
+Physician,Medical and Health,3,Physician III,B35,Physician IV,B36,0.10000123547289785,0.8553287691000336,False,35,17,0.0
+Planner,"Planning, Research, and Statistics",1,Planner I,B18,Planner II,B20,0.13667478726324456,0.779235529098457,False,2,13,
+Planner,"Planning, Research, and Statistics",2,Planner II,B20,Planner III,B22,0.13767366744900356,0.7861756036167323,False,9,60,0.2222222222222222
+Planner,"Planning, Research, and Statistics",3,Planner III,B22,Planner IV,B24,0.1392087667161961,0.7891566265060241,False,50,83,0.02
+Planner,"Planning, Research, and Statistics",4,Planner IV,B24,Planner V,B26,0.1992686534139212,0.7248735853599807,False,83,120,0.04819277108433735
+Plumber,Maintenance,1,Plumber I,A16,Plumber II,A18,0.14236437754782072,0.7722640015832178,False,0,0,
+Plumber,Maintenance,2,Plumber II,A18,Plumber III,A20,0.13667478726324456,0.779235529098457,False,0,0,
+Plumber,Maintenance,3,Plumber III,A20,Plumber IV,A22,0.13767366744900356,0.7861756036167323,False,0,0,
+Police Communications Operator,Public Safety,1,Police Communications Operator I,B14,Police Communications Operator II,B15,0.051399033355729484,0.89816564758199,False,0,0,
+Police Communications Operator,Public Safety,2,Police Communications Operator II,B15,Police Communications Operator III,B16,0.05181352490697888,0.8981593161676019,False,0,0,
+Police Communications Operator,Public Safety,3,Police Communications Operator III,B16,Police Communications Operator IV,B17,0.052886876763875934,0.8981792994260835,False,0,0,
+Police Communications Operator,Public Safety,4,Police Communications Operator IV,B17,Police Communications Operator V,B19,0.15661035878821727,0.7548969431908064,False,0,53,
+Police Communications Operator,Public Safety,5,Police Communications Operator V,B19,Police Communications Operator VI,B20,0.06628202652246684,0.8951194932335157,False,53,44,0.0
+Police Communications Operator,Public Safety,6,Police Communications Operator VI,B20,Police Communications Operator VII,B22,0.13767366744900356,0.7861756036167323,False,44,31,0.0
+Policy Analyst,Program Management,1,Policy Analyst I,B21,Policy Analyst II,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Policy Analyst,Program Management,2,Policy Analyst II,B23,Policy Analyst III,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Portfolio Manager,"Accounting, Auditing, and Finance",1,Portfolio Manager I,B27,Portfolio Manager II,B29,0.2099966454209996,0.696212537805884,False,0,0,
+Portfolio Manager,"Accounting, Auditing, and Finance",2,Portfolio Manager II,B29,Portfolio Manager III,B31,0.210004669283411,0.6961881497472022,False,3,6,
+Portfolio Manager,"Accounting, Auditing, and Finance",3,Portfolio Manager III,B31,Portfolio Manager IV,B33,0.20999936689970777,0.6962099604446166,False,6,12,0.0
+Portfolio Manager,"Accounting, Auditing, and Finance",4,Portfolio Manager IV,B33,Portfolio Manager V,B35,0.21000204306379833,0.696197497332428,False,12,12,0.0
+Portfolio Manager,"Accounting, Auditing, and Finance",5,Portfolio Manager V,B35,Portfolio Manager VI,B36,0.10000123547289785,0.8553287691000336,False,0,0,
+Portfolio Project Manager,Program Management,1,Portfolio Project Manager I,B29,Portfolio Project Manager II,B31,0.210004669283411,0.6961881497472022,False,8,5,0.375
+Privacy Analyst,Information and Communication,1,Privacy Analyst I,B21,Privacy Analyst II,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Privacy Analyst,Information and Communication,2,Privacy Analyst II,B23,Privacy Analyst III,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Program Management Specialist,Program Management,1,Program Management Specialist I,B25,Program Management Specialist II,B26,0.12135285374392257,0.843735261751297,False,62,130,0.08064516129032258
+Program Management Specialist,Program Management,2,Program Management Specialist II,B26,Program Management Specialist III,B27,0.10000000000000009,0.8553497164461248,False,44,44,0.2727272727272727
+Program Management Specialist,Program Management,3,Program Management Specialist III,B27,Program Management Specialist IV,B28,0.10000176556789486,0.8553409403354413,False,0,0,
+Program Specialist,Program Management,1,Program Specialist I,B17,Program Specialist II,B18,0.08498301456559165,0.8815893546736147,False,564,510,0.46808510638297873
+Program Specialist,Program Management,2,Program Specialist II,B18,Program Specialist III,B19,0.06601701894043366,0.8933578757734785,False,501,975,0.2774451097804391
+Program Specialist,Program Management,3,Program Specialist III,B19,Program Specialist IV,B20,0.06628202652246684,0.8951194932335157,False,903,993,0.13842746400885936
+Program Specialist,Program Management,4,Program Specialist IV,B20,Program Specialist V,B21,0.06652378329019171,0.8966647898519524,False,905,1168,0.1281767955801105
+Program Specialist,Program Management,5,Program Specialist V,B21,Program Specialist VI,B23,0.13810817695508204,0.78924560546875,False,1128,1191,0.08776595744680851
+Program Specialist,Program Management,6,Program Specialist VI,B23,Program Specialist VII,B25,0.14193432063764444,0.7819826376254093,False,1104,559,0.08333333333333333
+Program Supervisor,Program Management,1,Program Supervisor I,B18,Program Supervisor II,B19,0.06601701894043366,0.8933578757734785,False,170,144,0.5
+Program Supervisor,Program Management,2,Program Supervisor II,B19,Program Supervisor III,B20,0.06628202652246684,0.8951194932335157,False,137,386,0.15328467153284672
+Program Supervisor,Program Management,3,Program Supervisor III,B20,Program Supervisor IV,B21,0.06652378329019171,0.8966647898519524,False,372,594,0.09408602150537634
+Program Supervisor,Program Management,4,Program Supervisor IV,B21,Program Supervisor V,B23,0.13810817695508204,0.78924560546875,False,565,276,0.2920353982300885
+Program Supervisor,Program Management,5,Program Supervisor V,B23,Program Supervisor VI,B25,0.14193432063764444,0.7819826376254093,False,222,216,0.11261261261261261
+Program Supervisor,Program Management,6,Program Supervisor VI,B25,Program Supervisor VII,B26,0.12135285374392257,0.843735261751297,False,9,6,0.0
+Programmer,Information Technology,1,Programmer I,B20,Programmer II,B22,0.13767366744900356,0.7861756036167323,False,5,16,0.0
+Programmer,Information Technology,2,Programmer II,B22,Programmer III,B24,0.1392087667161961,0.7891566265060241,False,35,125,0.08571428571428572
+Programmer,Information Technology,3,Programmer III,B24,Programmer IV,B26,0.1992686534139212,0.7248735853599807,False,126,223,0.0
+Programmer,Information Technology,4,Programmer IV,B26,Programmer V,B28,0.21000194212468437,0.6962192816635161,False,136,196,0.022058823529411766
+Programmer,Information Technology,5,Programmer V,B28,Programmer VI,B29,0.09999518482256065,0.8553396238205336,False,147,47,0.06802721088435375
+Project Design Specialist,Engineering and Design,1,Project Design Specialist I,B19,Project Design Specialist II,B20,0.06628202652246684,0.8951194932335157,False,0,0,
+Project Design Specialist,Engineering and Design,2,Project Design Specialist II,B20,Project Design Specialist III,B21,0.06652378329019171,0.8966647898519524,False,0,0,
+Project Management Specialist,Program Management,1,Project Management Specialist I,B20,Project Management Specialist II,B22,0.13767366744900356,0.7861756036167323,False,9,19,0.0
+Project Management Specialist,Program Management,2,Project Management Specialist II,B22,Project Management Specialist III,B24,0.1392087667161961,0.7891566265060241,False,19,71,0.10526315789473684
+Project Manager,Program Management,1,Project Manager I,B20,Project Manager II,B22,0.13767366744900356,0.7861756036167323,False,28,54,0.6071428571428571
+Project Manager,Program Management,2,Project Manager II,B22,Project Manager III,B24,0.1392087667161961,0.7891566265060241,False,55,297,0.03636363636363636
+Project Manager,Program Management,3,Project Manager III,B24,Project Manager IV,B26,0.1992686534139212,0.7248735853599807,False,291,397,0.024054982817869417
+Project Manager,Program Management,4,Project Manager IV,B26,Project Manager V,B28,0.21000194212468437,0.6962192816635161,False,285,69,0.028070175438596492
+Property Manager,Property Management and Procurement,1,Property Manager I,B18,Property Manager II,B20,0.13667478726324456,0.779235529098457,False,5,30,0.0
+Property Manager,Property Management and Procurement,2,Property Manager II,B20,Property Manager III,B22,0.13767366744900356,0.7861756036167323,False,21,96,0.0
+Property Manager,Property Management and Procurement,3,Property Manager III,B22,Property Manager IV,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Protective Services Intake Specialist,Social Services,1,Protective Services Intake Specialist I,B16,Protective Services Intake Specialist II,B17,0.052886876763875934,0.8981792994260835,False,39,29,0.1794871794871795
+Protective Services Intake Specialist,Social Services,2,Protective Services Intake Specialist II,B17,Protective Services Intake Specialist III,B18,0.08498301456559165,0.8815893546736147,False,29,75,0.3103448275862069
+Protective Services Intake Specialist,Social Services,3,Protective Services Intake Specialist III,B18,Protective Services Intake Specialist IV,B19,0.06601701894043366,0.8933578757734785,False,75,155,0.44
+Protective Services Intake Specialist,Social Services,4,Protective Services Intake Specialist IV,B19,Protective Services Intake Specialist V,B20,0.06628202652246684,0.8951194932335157,False,155,29,0.12903225806451613
+Psychiatric Nursing Assistant,Medical and Health,1,Psychiatric Nursing Assistant I,A10,Psychiatric Nursing Assistant II,A12,0.1382262081354364,0.7487350999056684,False,131,1315,0.061068702290076333
+Psychiatric Nursing Assistant,Medical and Health,2,Psychiatric Nursing Assistant II,A12,Psychiatric Nursing Assistant III,A14,0.10330232669360817,0.7929565108409575,False,1315,650,0.0022813688212927757
+Psychiatric Nursing Assistant,Medical and Health,3,Psychiatric Nursing Assistant III,A14,Psychiatric Nursing Assistant IV,A16,0.10587572335768014,0.7902167871039466,False,650,630,0.0
+Psychiatric Nursing Assistant,Medical and Health,4,Psychiatric Nursing Assistant IV,A16,Psychiatric Nursing Assistant V,A18,0.14236437754782072,0.7722640015832178,False,630,27,0.011111111111111112
+Psychiatrist,Medical and Health,1,Psychiatrist I,B32,Psychiatrist II,B33,0.09999671117542586,0.8553426236155275,False,0,0,
+Psychiatrist,Medical and Health,2,Psychiatrist II,B33,Psychiatrist III,B34,0.10000049830824342,0.8553302939179358,False,1,61,
+Psychiatrist,Medical and Health,3,Psychiatrist III,B34,Psychiatrist IV,B35,0.10000135902186669,0.8553325455475406,False,61,32,0.0
+Psychiatrist,Medical and Health,4,Psychiatrist IV,B35,Psychiatrist V,B36,0.10000123547289785,0.8553287691000336,False,32,13,0.0
+Psychological Associate,Medical and Health,1,Psychological Associate I,B19,Psychological Associate II,B20,0.06628202652246684,0.8951194932335157,False,0,0,
+Psychological Associate,Medical and Health,2,Psychological Associate II,B20,Psychological Associate III,B21,0.06652378329019171,0.8966647898519524,False,0,0,
+Psychological Associate,Medical and Health,3,Psychological Associate III,B21,Psychological Associate IV,B22,0.06671195267612018,0.898193359375,False,0,0,
+Psychologist,Medical and Health,1,Psychologist I,B23,Psychologist II,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Psychologist,Medical and Health,2,Psychologist II,B25,Psychologist III,B27,0.23348813911831479,0.6718844745884519,False,2,17,
+Psychologist,Medical and Health,3,Psychologist III,B27,Psychologist IV,B29,0.2099966454209996,0.696212537805884,False,17,8,0.11764705882352941
+Public Health Nurse,Medical and Health,1,Public Health Nurse I,B20,Public Health Nurse II,B22,0.13767366744900356,0.7861756036167323,False,50,32,0.16
+Public Health Nurse,Medical and Health,2,Public Health Nurse II,B22,Public Health Nurse III,B24,0.1392087667161961,0.7891566265060241,False,32,19,0.09375
+Public Health Nurse,Medical and Health,3,Public Health Nurse III,B24,Public Health Nurse IV,B26,0.1992686534139212,0.7248735853599807,False,19,9,0.0
+Public Health Nurse,Medical and Health,4,Public Health Nurse IV,B26,Public Health Nurse V,B28,0.21000194212468437,0.6962192816635161,False,0,0,
+Public Health and Prevention Specialist,Medical and Health,1,Public Health and Prevention Specialist I,B14,Public Health and Prevention Specialist II,B16,0.10587572335768014,0.7902167871039466,False,138,62,0.014492753623188406
+Public Health and Prevention Specialist,Medical and Health,2,Public Health and Prevention Specialist II,B16,Public Health and Prevention Specialist III,B18,0.14236437754782072,0.7722640015832178,False,62,134,0.1935483870967742
+Public Health and Prevention Specialist,Medical and Health,3,Public Health and Prevention Specialist III,B18,Public Health and Prevention Specialist IV,B20,0.13667478726324456,0.779235529098457,False,127,12,0.30708661417322836
+Public Health and Prevention Specialist,Medical and Health,4,Public Health and Prevention Specialist IV,B20,Public Health and Prevention Specialist V,B22,0.13767366744900356,0.7861756036167323,False,12,14,0.0
+Public Safety Records Technician,Public Safety,1,Public Safety Records Technician I,A10,Public Safety Records Technician II,A11,0.08445720662484169,0.8780550553125804,False,0,0,
+Public Safety Records Technician,Public Safety,2,Public Safety Records Technician II,A11,Public Safety Records Technician III,A12,0.049581487570118155,0.8996205817746122,False,0,0,
+Public Safety Records Technician,Public Safety,3,Public Safety Records Technician III,A12,Public Safety Records Technician IV,A13,0.05008488964346358,0.8997994736182479,False,0,0,
+Purchaser,Property Management and Procurement,1,Purchaser I,B13,Purchaser II,B15,0.10468307012649869,0.7913151218360965,False,6,18,0.0
+Purchaser,Property Management and Procurement,2,Purchaser II,B15,Purchaser III,B17,0.1074406571773121,0.7902354606953694,False,23,79,0.08695652173913043
+Purchaser,Property Management and Procurement,3,Purchaser III,B17,Purchaser IV,B19,0.15661035878821727,0.7548969431908064,False,57,111,0.0
+Purchaser,Property Management and Procurement,4,Purchaser IV,B19,Purchaser V,B21,0.1372151409810738,0.7828246472790095,False,82,66,0.036585365853658534
+Purchaser,Property Management and Procurement,5,Purchaser V,B21,Purchaser VI,B23,0.13810817695508204,0.78924560546875,False,53,20,0.0
+Purchaser,Property Management and Procurement,6,Purchaser VI,B23,Purchaser VII,B25,0.14193432063764444,0.7819826376254093,False,20,26,0.0
+Qualified Intellectual Disability Professional,Social Services,1,Qualified Intellectual Disability Professional I,B19,Qualified Intellectual Disability Professional II,B20,0.06628202652246684,0.8951194932335157,False,0,109,
+Qualified Intellectual Disability Professional,Social Services,2,Qualified Intellectual Disability Professional II,B20,Qualified Intellectual Disability Professional III,B21,0.06652378329019171,0.8966647898519524,False,109,157,0.0
+Qualified Intellectual Disability Professional,Social Services,3,Qualified Intellectual Disability Professional III,B21,Qualified Intellectual Disability Professional IV,B23,0.13810817695508204,0.78924560546875,False,157,14,0.0
+Quality Assurance Specialist,"Compliance, Inspection, and Investigation",1,Quality Assurance Specialist I,B17,Quality Assurance Specialist II,B18,0.08498301456559165,0.8815893546736147,False,186,115,0.14516129032258066
+Quality Assurance Specialist,"Compliance, Inspection, and Investigation",2,Quality Assurance Specialist II,B18,Quality Assurance Specialist III,B20,0.13667478726324456,0.779235529098457,False,74,170,0.24324324324324326
+Quality Assurance Specialist,"Compliance, Inspection, and Investigation",3,Quality Assurance Specialist III,B20,Quality Assurance Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,164,69,0.12804878048780488
+Radio Communications Technician,Maintenance,1,Radio Communications Technician I,A13,Radio Communications Technician II,A15,0.10468307012649869,0.7913151218360965,False,3,7,
+Radio Communications Technician,Maintenance,2,Radio Communications Technician II,A15,Radio Communications Technician III,A17,0.1074406571773121,0.7902354606953694,False,7,5,0.0
+Radiological Technologist,Medical and Health,1,Radiological Technologist I,B16,Radiological Technologist II,B18,0.14236437754782072,0.7722640015832178,False,0,0,
+Radiological Technologist,Medical and Health,2,Radiological Technologist II,B18,Radiological Technologist III,B20,0.13667478726324456,0.779235529098457,False,1,11,
+Real Estate Specialist,"Land Surveying, Appraising, and Utilities",1,Real Estate Specialist I,B24,Real Estate Specialist II,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+Receptionist,Administrative Support,1,Receptionist I,A9,Receptionist II,A11,0.1280719139297848,0.769723776855028,False,0,0,
+Records Analyst,Library and Records,1,Records Analyst I,B15,Records Analyst II,B17,0.1074406571773121,0.7902354606953694,False,43,109,0.2558139534883721
+Records Analyst,Library and Records,2,Records Analyst II,B17,Records Analyst III,B19,0.15661035878821727,0.7548969431908064,False,103,18,0.04854368932038835
+Recreation Program Specialist,Social Services,1,Recreation Program Specialist I,B14,Recreation Program Specialist II,B16,0.10587572335768014,0.7902167871039466,False,0,6,
+Recreation Program Specialist,Social Services,2,Recreation Program Specialist II,B16,Recreation Program Specialist III,B18,0.14236437754782072,0.7722640015832178,False,0,0,
+Registered Therapist,Medical and Health,1,Registered Therapist I,B20,Registered Therapist II,B21,0.06652378329019171,0.8966647898519524,False,3,63,
+Registered Therapist,Medical and Health,2,Registered Therapist II,B21,Registered Therapist III,B23,0.13810817695508204,0.78924560546875,False,63,24,0.0
+Registered Therapist,Medical and Health,3,Registered Therapist III,B23,Registered Therapist IV,B25,0.14193432063764444,0.7819826376254093,False,24,17,0.0
+Registered Therapist,Medical and Health,4,Registered Therapist IV,B25,Registered Therapist V,B27,0.23348813911831479,0.6718844745884519,False,17,21,0.47058823529411764
+Registered Therapist Assistant,Medical and Health,1,Registered Therapist Assistant I,A19,Registered Therapist Assistant II,A21,0.1372151409810738,0.7828246472790095,False,0,0,
+Rehabilitation Teacher,Social Services,1,Rehabilitation Teacher I,B14,Rehabilitation Teacher II,B16,0.10587572335768014,0.7902167871039466,False,4,53,
+Rehabilitation Teacher,Social Services,2,Rehabilitation Teacher II,B16,Rehabilitation Teacher III,B18,0.14236437754782072,0.7722640015832178,False,46,157,0.2826086956521739
+Rehabilitation Teacher,Social Services,3,Rehabilitation Teacher III,B18,Rehabilitation Teacher IV,B20,0.13667478726324456,0.779235529098457,False,0,0,
+Rehabilitation Therapy Technician,Social Services,1,Rehabilitation Therapy Technician I,A8,Rehabilitation Therapy Technician II,A10,0.0816527806400329,0.790478905359179,False,0,98,
+Rehabilitation Therapy Technician,Social Services,2,Rehabilitation Therapy Technician II,A10,Rehabilitation Therapy Technician III,A12,0.1382262081354364,0.7487350999056684,False,98,248,0.0
+Rehabilitation Therapy Technician,Social Services,3,Rehabilitation Therapy Technician III,A12,Rehabilitation Therapy Technician IV,A14,0.10330232669360817,0.7929565108409575,False,248,435,0.0
+Rehabilitation Therapy Technician,Social Services,4,Rehabilitation Therapy Technician IV,A14,Rehabilitation Therapy Technician V,A16,0.10587572335768014,0.7902167871039466,False,435,53,0.0022988505747126436
+Reimbursement Analyst,"Accounting, Auditing, and Finance",1,Reimbursement Analyst I,B21,Reimbursement Analyst II,B22,0.06671195267612018,0.898193359375,False,0,0,
+Reimbursement Analyst,"Accounting, Auditing, and Finance",2,Reimbursement Analyst II,B22,Reimbursement Analyst III,B23,0.06693111865845891,0.8995045602972638,False,0,20,
+Reimbursement Analyst,"Accounting, Auditing, and Finance",3,Reimbursement Analyst III,B23,Reimbursement Analyst IV,B24,0.06774349983213335,0.8981130113843114,False,0,0,
+Reimbursement Analyst,"Accounting, Auditing, and Finance",4,Reimbursement Analyst IV,B24,Reimbursement Analyst V,B25,0.069483748500623,0.8924151215988442,False,0,15,
+Reimbursement Officer,"Accounting, Auditing, and Finance",1,Reimbursement Officer I,B12,Reimbursement Officer II,B14,0.10330232669360817,0.7929565108409575,False,16,11,0.0
+Reimbursement Officer,"Accounting, Auditing, and Finance",2,Reimbursement Officer II,B14,Reimbursement Officer III,B16,0.10587572335768014,0.7902167871039466,False,11,15,0.7272727272727273
+Reimbursement Officer,"Accounting, Auditing, and Finance",3,Reimbursement Officer III,B16,Reimbursement Officer IV,B18,0.14236437754782072,0.7722640015832178,False,15,9,0.3333333333333333
+Reimbursement Officer,"Accounting, Auditing, and Finance",4,Reimbursement Officer IV,B18,Reimbursement Officer V,B20,0.13667478726324456,0.779235529098457,False,9,10,0.4444444444444444
+Rescue Specialist,Safety,1,Rescue Specialist I,B18,Rescue Specialist II,B20,0.13667478726324456,0.779235529098457,False,0,0,
+Rescue Specialist,Safety,2,Rescue Specialist II,B20,Rescue Specialist III,B22,0.13767366744900356,0.7861756036167323,False,0,0,
+Research Specialist,"Planning, Research, and Statistics",1,Research Specialist I,B16,Research Specialist II,B18,0.14236437754782072,0.7722640015832178,False,0,0,
+Research Specialist,"Planning, Research, and Statistics",2,Research Specialist II,B18,Research Specialist III,B20,0.13667478726324456,0.779235529098457,False,4,41,
+Research Specialist,"Planning, Research, and Statistics",3,Research Specialist III,B20,Research Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,37,66,0.0
+Research Specialist,"Planning, Research, and Statistics",4,Research Specialist IV,B22,Research Specialist V,B24,0.1392087667161961,0.7891566265060241,False,62,108,0.22580645161290322
+Research Specialist,"Planning, Research, and Statistics",5,Research Specialist V,B24,Research Specialist VI,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+Research and Statistics Technician,"Planning, Research, and Statistics",1,Research and Statistics Technician I,A12,Research and Statistics Technician II,A14,0.10330232669360817,0.7929565108409575,False,0,0,
+Resident Specialist,Social Services,1,Resident Specialist I,A11,Resident Specialist II,A13,0.10214966054688968,0.7931837848632097,False,7,67,0.0
+Resident Specialist,Social Services,2,Resident Specialist II,A13,Resident Specialist III,A15,0.10468307012649869,0.7913151218360965,False,31,20,0.0
+Resident Specialist,Social Services,3,Resident Specialist III,A15,Resident Specialist IV,A17,0.1074406571773121,0.7902354606953694,False,20,71,0.0
+Respiratory Care Practitioner,Medical and Health,1,Respiratory Care Practitioner I,B21,Respiratory Care Practitioner II,B22,0.06671195267612018,0.898193359375,False,11,13,0.09090909090909091
+Retirement System Benefits Specialist,Insurance,1,Retirement System Benefits Specialist I,B18,Retirement System Benefits Specialist II,B20,0.13667478726324456,0.779235529098457,False,0,36,
+Retirement System Benefits Specialist,Insurance,2,Retirement System Benefits Specialist II,B20,Retirement System Benefits Specialist III,B22,0.13767366744900356,0.7861756036167323,False,36,15,0.0
+Retirement System Benefits Specialist,Insurance,3,Retirement System Benefits Specialist III,B22,Retirement System Benefits Specialist IV,B24,0.1392087667161961,0.7891566265060241,False,15,5,0.0
+Retirement System Benefits Specialist,Insurance,4,Retirement System Benefits Specialist IV,B24,Retirement System Benefits Specialist V,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+Retirement System Operational Specialist,Insurance,1,Retirement System Operational Specialist I,B15,Retirement System Operational Specialist II,B17,0.1074406571773121,0.7902354606953694,False,0,0,
+Retirement System Operational Specialist,Insurance,2,Retirement System Operational Specialist II,B17,Retirement System Operational Specialist III,B19,0.15661035878821727,0.7548969431908064,False,0,0,
+Right of Way Agent,"Land Surveying, Appraising, and Utilities",1,Right of Way Agent I,B16,Right of Way Agent II,B18,0.14236437754782072,0.7722640015832178,False,4,36,
+Right of Way Agent,"Land Surveying, Appraising, and Utilities",2,Right of Way Agent II,B18,Right of Way Agent III,B20,0.13667478726324456,0.779235529098457,False,36,52,0.1388888888888889
+Right of Way Agent,"Land Surveying, Appraising, and Utilities",3,Right of Way Agent III,B20,Right of Way Agent IV,B22,0.13767366744900356,0.7861756036167323,False,52,60,0.038461538461538464
+Right of Way Agent,"Land Surveying, Appraising, and Utilities",4,Right of Way Agent IV,B22,Right of Way Agent V,B24,0.1392087667161961,0.7891566265060241,False,60,38,0.05
+Right of Way Agent,"Land Surveying, Appraising, and Utilities",5,Right of Way Agent V,B24,Right of Way Agent VI,B26,0.1992686534139212,0.7248735853599807,False,38,15,0.10526315789473684
+Risk Management Specialist,Safety,1,Risk Management Specialist I,B16,Risk Management Specialist II,B18,0.14236437754782072,0.7722640015832178,False,0,0,
+Risk Management Specialist,Safety,2,Risk Management Specialist II,B18,Risk Management Specialist III,B20,0.13667478726324456,0.779235529098457,False,0,24,
+Risk Management Specialist,Safety,3,Risk Management Specialist III,B20,Risk Management Specialist IV,B22,0.13767366744900356,0.7861756036167323,False,24,16,0.5
+Risk Management Specialist,Safety,4,Risk Management Specialist IV,B22,Risk Management Specialist V,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+Safety Officer,Safety,1,Safety Officer I,B17,Safety Officer II,B19,0.15661035878821727,0.7548969431908064,False,15,82,0.2
+Safety Officer,Safety,2,Safety Officer II,B19,Safety Officer III,B21,0.1372151409810738,0.7828246472790095,False,25,37,0.0
+Safety Officer,Safety,3,Safety Officer III,B21,Safety Officer IV,B23,0.13810817695508204,0.78924560546875,False,22,27,0.0
+Safety Officer,Safety,4,Safety Officer IV,B23,Safety Officer V,B25,0.14193432063764444,0.7819826376254093,False,27,14,0.0
+Sanitarian,Natural Resources,1,Sanitarian I,B18,Sanitarian II,B20,0.13667478726324456,0.779235529098457,False,89,22,0.056179775280898875
+Sanitarian,Natural Resources,2,Sanitarian II,B20,Sanitarian III,B22,0.13767366744900356,0.7861756036167323,False,22,32,0.0
+Sanitarian,Natural Resources,3,Sanitarian III,B22,Sanitarian IV,B24,0.1392087667161961,0.7891566265060241,False,0,0,
+School Safety and Security Specialist,Safety,1,School Safety and Security Specialist I,B27,School Safety and Security Specialist II,B28,0.10000176556789486,0.8553409403354413,False,0,0,
+School Safety and Security Specialist,Safety,2,School Safety and Security Specialist II,B28,School Safety and Security Specialist III,B29,0.09999518482256065,0.8553396238205336,False,0,7,
+School Safety and Security Specialist,Safety,3,School Safety and Security Specialist III,B29,School Safety and Security Specialist IV,B30,0.10000291830213182,0.8553229563142646,False,0,0,
+Security Officer,Public Safety,1,Security Officer I,A11,Security Officer II,A13,0.10214966054688968,0.7931837848632097,False,14,512,0.0
+Security Officer,Public Safety,2,Security Officer II,A13,Security Officer III,A15,0.10468307012649869,0.7913151218360965,False,462,127,0.006493506493506494
+Security Officer,Public Safety,3,Security Officer III,A15,Security Officer IV,A17,0.1074406571773121,0.7902354606953694,False,48,27,0.0
+Social Worker,Social Services,1,Social Worker I,B17,Social Worker II,B19,0.15661035878821727,0.7548969431908064,False,0,123,
+Social Worker,Social Services,2,Social Worker II,B19,Social Worker III,B21,0.1372151409810738,0.7828246472790095,False,123,114,0.008130081300813009
+Social Worker,Social Services,3,Social Worker III,B21,Social Worker IV,B23,0.13810817695508204,0.78924560546875,False,114,69,0.0
+Staff Services Officer,Program Management,1,Staff Services Officer I,B17,Staff Services Officer II,B18,0.08498301456559165,0.8815893546736147,False,72,43,0.09722222222222222
+Staff Services Officer,Program Management,2,Staff Services Officer II,B18,Staff Services Officer III,B19,0.06601701894043366,0.8933578757734785,False,49,100,0.40816326530612246
+Staff Services Officer,Program Management,3,Staff Services Officer III,B19,Staff Services Officer IV,B20,0.06628202652246684,0.8951194932335157,False,82,87,0.12195121951219512
+Staff Services Officer,Program Management,4,Staff Services Officer IV,B20,Staff Services Officer V,B21,0.06652378329019171,0.8966647898519524,False,52,56,0.4423076923076923
+Staff Services Officer,Program Management,5,Staff Services Officer V,B21,Staff Services Officer VI,B23,0.13810817695508204,0.78924560546875,False,1,8,
+Statistician,"Planning, Research, and Statistics",1,Statistician I,B18,Statistician II,B20,0.13667478726324456,0.779235529098457,False,0,0,
+Statistician,"Planning, Research, and Statistics",2,Statistician II,B20,Statistician III,B21,0.06652378329019171,0.8966647898519524,False,0,0,
+Statistician,"Planning, Research, and Statistics",3,Statistician III,B21,Statistician IV,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Substance Abuse Counselor,Social Services,1,Substance Abuse Counselor I,B16,Substance Abuse Counselor II,B17,0.052886876763875934,0.8981792994260835,False,28,29,0.0
+Substance Abuse Counselor,Social Services,2,Substance Abuse Counselor II,B17,Substance Abuse Counselor III,B18,0.08498301456559165,0.8815893546736147,False,32,25,0.0
+Substance Abuse Counselor,Social Services,3,Substance Abuse Counselor III,B18,Substance Abuse Counselor IV,B19,0.06601701894043366,0.8933578757734785,False,7,6,0.0
+Survey Technician,"Land Surveying, Appraising, and Utilities",1,Survey Technician I,A18,Survey Technician II,A20,0.13667478726324456,0.779235529098457,False,0,0,
+Systems Administrator,Information Technology,1,Systems Administrator I,B17,Systems Administrator II,B19,0.15661035878821727,0.7548969431908064,False,1,101,
+Systems Administrator,Information Technology,2,Systems Administrator II,B19,Systems Administrator III,B21,0.1372151409810738,0.7828246472790095,False,102,74,0.3333333333333333
+Systems Administrator,Information Technology,3,Systems Administrator III,B21,Systems Administrator IV,B23,0.13810817695508204,0.78924560546875,False,64,84,0.078125
+Systems Administrator,Information Technology,4,Systems Administrator IV,B23,Systems Administrator V,B25,0.14193432063764444,0.7819826376254093,False,83,132,0.03614457831325301
+Systems Administrator,Information Technology,5,Systems Administrator V,B25,Systems Administrator VI,B27,0.23348813911831479,0.6718844745884519,False,71,43,0.0
+Systems Analyst,Information Technology,1,Systems Analyst I,B17,Systems Analyst II,B19,0.15661035878821727,0.7548969431908064,False,1,26,
+Systems Analyst,Information Technology,2,Systems Analyst II,B19,Systems Analyst III,B21,0.1372151409810738,0.7828246472790095,False,36,119,0.1388888888888889
+Systems Analyst,Information Technology,3,Systems Analyst III,B21,Systems Analyst IV,B23,0.13810817695508204,0.78924560546875,False,118,278,0.059322033898305086
+Systems Analyst,Information Technology,4,Systems Analyst IV,B23,Systems Analyst V,B25,0.14193432063764444,0.7819826376254093,False,274,443,0.0364963503649635
+Systems Analyst,Information Technology,5,Systems Analyst V,B25,Systems Analyst VI,B27,0.23348813911831479,0.6718844745884519,False,398,268,0.0
+Systems Analyst,Information Technology,6,Systems Analyst VI,B27,Systems Analyst VII,B29,0.2099966454209996,0.696212537805884,False,200,89,0.005
+Tax Analyst,"Accounting, Auditing, and Finance",1,Tax Analyst I,B23,Tax Analyst II,B24,0.06774349983213335,0.8981130113843114,False,0,0,
+Tax Analyst,"Accounting, Auditing, and Finance",2,Tax Analyst II,B24,Tax Analyst III,B25,0.069483748500623,0.8924151215988442,False,0,0,
+Tax Analyst,"Accounting, Auditing, and Finance",3,Tax Analyst III,B25,Tax Analyst IV,B26,0.12135285374392257,0.843735261751297,False,0,0,
+Tax Analyst,"Accounting, Auditing, and Finance",4,Tax Analyst IV,B26,Tax Analyst V,B27,0.10000000000000009,0.8553497164461248,False,0,0,
+Tax Auditor,"Accounting, Auditing, and Finance",1,Tax Auditor I,B19,Tax Auditor II,B21,0.1372151409810738,0.7828246472790095,False,64,86,0.0
+Tax Auditor,"Accounting, Auditing, and Finance",2,Tax Auditor II,B21,Tax Auditor III,B23,0.13810817695508204,0.78924560546875,False,86,50,0.08139534883720931
+Tax Auditor,"Accounting, Auditing, and Finance",3,Tax Auditor III,B23,Tax Auditor IV,B25,0.14193432063764444,0.7819826376254093,False,50,58,0.1
+Tax Auditor,"Accounting, Auditing, and Finance",4,Tax Auditor IV,B25,Tax Auditor V,B26,0.12135285374392257,0.843735261751297,False,58,131,0.0
+Tax Auditor,"Accounting, Auditing, and Finance",5,Tax Auditor V,B26,Tax Auditor VI,B27,0.10000000000000009,0.8553497164461248,False,131,93,0.0
+Taxpayer Compliance Officer,"Accounting, Auditing, and Finance",1,Taxpayer Compliance Officer I,B13,Taxpayer Compliance Officer II,B15,0.10468307012649869,0.7913151218360965,False,18,23,0.0
+Taxpayer Compliance Officer,"Accounting, Auditing, and Finance",2,Taxpayer Compliance Officer II,B15,Taxpayer Compliance Officer III,B17,0.1074406571773121,0.7902354606953694,False,23,33,0.0
+Taxpayer Compliance Officer,"Accounting, Auditing, and Finance",3,Taxpayer Compliance Officer III,B17,Taxpayer Compliance Officer IV,B19,0.15661035878821727,0.7548969431908064,False,0,0,
+Taxpayer Compliance Officer,"Accounting, Auditing, and Finance",4,Taxpayer Compliance Officer IV,B19,Taxpayer Compliance Officer V,B21,0.1372151409810738,0.7828246472790095,False,0,6,
+Taxpayer Compliance Officer,"Accounting, Auditing, and Finance",5,Taxpayer Compliance Officer V,B21,Taxpayer Compliance Officer VI,B23,0.13810817695508204,0.78924560546875,False,6,5,0.0
+Taxpayer Enforcement Officer,"Accounting, Auditing, and Finance",1,Taxpayer Enforcement Officer I,B15,Taxpayer Enforcement Officer II,B17,0.1074406571773121,0.7902354606953694,False,47,99,0.0
+Taxpayer Enforcement Officer,"Accounting, Auditing, and Finance",2,Taxpayer Enforcement Officer II,B17,Taxpayer Enforcement Officer III,B19,0.15661035878821727,0.7548969431908064,False,99,62,0.0
+Taxpayer Enforcement Officer,"Accounting, Auditing, and Finance",3,Taxpayer Enforcement Officer III,B19,Taxpayer Enforcement Officer IV,B21,0.1372151409810738,0.7828246472790095,False,62,27,0.0
+Taxpayer Enforcement Officer,"Accounting, Auditing, and Finance",4,Taxpayer Enforcement Officer IV,B21,Taxpayer Enforcement Officer V,B23,0.13810817695508204,0.78924560546875,False,27,70,0.037037037037037035
+Teacher Aide,Education,1,Teacher Aide I,A11,Teacher Aide II,A13,0.10214966054688968,0.7931837848632097,False,12,20,0.0
+Teacher Aide,Education,2,Teacher Aide II,A13,Teacher Aide III,A15,0.10468307012649869,0.7913151218360965,False,24,47,0.0
+Teacher Aide,Education,3,Teacher Aide III,A15,Teacher Aide IV,A17,0.1074406571773121,0.7902354606953694,False,30,9,0.0
+Technical Writer,Information and Communication,1,Technical Writer I,B19,Technical Writer II,B21,0.1372151409810738,0.7828246472790095,False,0,0,
+Technical Writer,Information and Communication,2,Technical Writer II,B21,Technical Writer III,B23,0.13810817695508204,0.78924560546875,False,2,7,
+Technical Writer,Information and Communication,3,Technical Writer III,B23,Technical Writer IV,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Telecommunications Specialist,Information Technology,1,Telecommunications Specialist I,B18,Telecommunications Specialist II,B20,0.13667478726324456,0.779235529098457,False,19,33,0.10526315789473684
+Telecommunications Specialist,Information Technology,2,Telecommunications Specialist II,B20,Telecommunications Specialist III,B22,0.13767366744900356,0.7861756036167323,False,15,27,0.3333333333333333
+Telecommunications Specialist,Information Technology,3,Telecommunications Specialist III,B22,Telecommunications Specialist IV,B24,0.1392087667161961,0.7891566265060241,False,27,19,0.18518518518518517
+Telecommunications Specialist,Information Technology,4,Telecommunications Specialist IV,B24,Telecommunications Specialist V,B26,0.1992686534139212,0.7248735853599807,False,10,9,0.1
+Toxicologist,Natural Resources,1,Toxicologist I,B23,Toxicologist II,B25,0.14193432063764444,0.7819826376254093,False,0,0,
+Toxicologist,Natural Resources,2,Toxicologist II,B25,Toxicologist III,B27,0.23348813911831479,0.6718844745884519,False,4,5,
+Trader,"Accounting, Auditing, and Finance",1,Trader I,B25,Trader II,B27,0.23348813911831479,0.6718844745884519,False,0,0,
+Trader,"Accounting, Auditing, and Finance",2,Trader II,B27,Trader III,B29,0.2099966454209996,0.696212537805884,False,0,0,
+Training and Development Specialist,Human Resources and Training and Development,1,Training and Development Specialist I,B15,Training and Development Specialist II,B17,0.1074406571773121,0.7902354606953694,False,1,98,
+Training and Development Specialist,Human Resources and Training and Development,2,Training and Development Specialist II,B17,Training and Development Specialist III,B19,0.15661035878821727,0.7548969431908064,False,98,74,0.061224489795918366
+Training and Development Specialist,Human Resources and Training and Development,3,Training and Development Specialist III,B19,Training and Development Specialist IV,B21,0.1372151409810738,0.7828246472790095,False,82,215,0.2682926829268293
+Training and Development Specialist,Human Resources and Training and Development,4,Training and Development Specialist IV,B21,Training and Development Specialist V,B23,0.13810817695508204,0.78924560546875,False,181,239,0.08287292817679558
+Training and Development Specialist,Human Resources and Training and Development,5,Training and Development Specialist V,B23,Training and Development Specialist VI,B25,0.14193432063764444,0.7819826376254093,False,190,91,0.14736842105263157
+Transition Coordinator,Social Services,1,Transition Coordinator I,B17,Transition Coordinator II,B21,0.31531481222951285,0.47415437584329784,False,0,0,
+Transportation Maintenance Specialist,Maintenance,1,Transportation Maintenance Specialist I,A16,Transportation Maintenance Specialist II,A17,0.052886876763875934,0.8981792994260835,False,426,1109,0.10093896713615023
+Transportation Maintenance Specialist,Maintenance,2,Transportation Maintenance Specialist II,A17,Transportation Maintenance Specialist III,A18,0.08498301456559165,0.8815893546736147,False,1109,1030,0.09377817853922453
+Transportation Maintenance Specialist,Maintenance,3,Transportation Maintenance Specialist III,A18,Transportation Maintenance Specialist IV,A19,0.06601701894043366,0.8933578757734785,False,1030,241,0.13300970873786408
+Transportation Maintenance Specialist,Maintenance,4,Transportation Maintenance Specialist IV,A19,Transportation Maintenance Specialist V,A20,0.06628202652246684,0.8951194932335157,False,241,188,0.0995850622406639
+Transportation Maintenance Specialist,Maintenance,5,Transportation Maintenance Specialist V,A20,Transportation Maintenance Specialist VI,A21,0.06652378329019171,0.8966647898519524,False,188,392,0.42021276595744683
+Transportation Maintenance Specialist,Maintenance,6,Transportation Maintenance Specialist VI,A21,Transportation Maintenance Specialist VII,A22,0.06671195267612018,0.898193359375,False,392,235,0.04846938775510204
+Unemployment Insurance Claims Examiner,Employment,1,Unemployment Insurance Claims Examiner I,B11,Unemployment Insurance Claims Examiner II,B13,0.10214966054688968,0.7931837848632097,False,5,8,0.0
+Unemployment Insurance Claims Examiner,Employment,2,Unemployment Insurance Claims Examiner II,B13,Unemployment Insurance Claims Examiner III,B15,0.10468307012649869,0.7913151218360965,False,0,0,
+Unemployment Insurance Specialist,Employment,1,Unemployment Insurance Specialist I,B16,Unemployment Insurance Specialist II,B18,0.14236437754782072,0.7722640015832178,False,0,0,
+User Experience/User Interface (UX/UI) Designer,Information Technology,1,User Experience/User Interface (UX/UI) Designer I,B24,User Experience/User Interface (UX/UI) Designer II,B26,0.1992686534139212,0.7248735853599807,False,0,0,
+User Experience/User Interface (UX/UI) Designer,Information Technology,2,User Experience/User Interface (UX/UI) Designer II,B26,User Experience/User Interface (UX/UI) Designer III,B28,0.21000194212468437,0.6962192816635161,False,0,0,
+User Experience/User Interface (UX/UI) Designer,Information Technology,3,User Experience/User Interface (UX/UI) Designer III,B28,User Experience/User Interface (UX/UI) Designer IV,B30,0.20999791342310958,0.696197587952259,False,0,0,
+Utility Specialist,"Land Surveying, Appraising, and Utilities",1,Utility Specialist I,B21,Utility Specialist II,B23,0.13810817695508204,0.78924560546875,False,0,0,
+Vehicle Driver,Maintenance,1,Vehicle Driver I,A12,Vehicle Driver II,A14,0.10330232669360817,0.7929565108409575,False,69,133,0.057971014492753624
+Vehicle Driver,Maintenance,2,Vehicle Driver II,A14,Vehicle Driver III,A16,0.10587572335768014,0.7902167871039466,False,0,0,
+Vehicle Driver,Maintenance,3,Vehicle Driver III,A16,Vehicle Driver IV,A18,0.14236437754782072,0.7722640015832178,False,0,0,
+Vehicle Driver,Maintenance,4,Vehicle Driver IV,A18,Vehicle Driver V,A20,0.13667478726324456,0.779235529098457,False,0,0,
+Veterans Services Representative,Social Services,1,Veterans Services Representative I,B16,Veterans Services Representative II,B17,0.052886876763875934,0.8981792994260835,False,131,57,0.0
+Veterans Services Representative,Social Services,2,Veterans Services Representative II,B17,Veterans Services Representative III,B18,0.08498301456559165,0.8815893546736147,False,57,49,0.5087719298245614
+Veterans Services Representative,Social Services,3,Veterans Services Representative III,B18,Veterans Services Representative IV,B19,0.06601701894043366,0.8933578757734785,False,49,41,0.0
+Veterans Services Representative,Social Services,4,Veterans Services Representative IV,B19,Veterans Services Representative V,B20,0.06628202652246684,0.8951194932335157,False,27,11,0.07407407407407407
+Veterans Services Representative,Social Services,5,Veterans Services Representative V,B20,Veterans Services Representative VI,B21,0.06652378329019171,0.8966647898519524,False,11,12,0.0
+Veterinarian,Medical and Health,1,Veterinarian I,B26,Veterinarian II,B28,0.21000194212468437,0.6962192816635161,False,0,8,
+Veterinarian,Medical and Health,2,Veterinarian II,B28,Veterinarian III,B30,0.20999791342310958,0.696197587952259,False,8,11,0.0
+Veterinarian,Medical and Health,3,Veterinarian III,B30,Veterinarian IV,B32,0.21000444376645677,0.6961989361152714,False,5,5,0.2
+Victim Compensation Officer,Social Services,1,Victim Compensation Officer I,B17,Victim Compensation Officer II,B19,0.15661035878821727,0.7548969431908064,False,0,0,
+Victim Compensation Officer,Social Services,2,Victim Compensation Officer II,B19,Victim Compensation Officer III,B21,0.1372151409810738,0.7828246472790095,False,0,0,
+Victim Support Specialist,Social Services,1,Victim Support Specialist I,A12,Victim Support Specialist II,A14,0.10330232669360817,0.7929565108409575,False,24,5,0.0
+Victim Support Specialist,Social Services,2,Victim Support Specialist II,A14,Victim Support Specialist III,A16,0.10587572335768014,0.7902167871039466,False,0,0,
+Victim Support Specialist,Social Services,3,Victim Support Specialist III,A16,Victim Support Specialist IV,A18,0.14236437754782072,0.7722640015832178,False,0,0,
+Vocational Rehabilitation Counselor,Social Services,1,Vocational Rehabilitation Counselor I,B18,Vocational Rehabilitation Counselor II,B19,0.06601701894043366,0.8933578757734785,False,119,134,0.08403361344537816
+Vocational Rehabilitation Counselor,Social Services,2,Vocational Rehabilitation Counselor II,B19,Vocational Rehabilitation Counselor III,B20,0.06628202652246684,0.8951194932335157,False,134,96,0.05223880597014925
+Vocational Rehabilitation Counselor,Social Services,3,Vocational Rehabilitation Counselor III,B20,Vocational Rehabilitation Counselor IV,B22,0.13767366744900356,0.7861756036167323,False,96,77,0.1875
+Volunteer Services Coordinator,Social Services,1,Volunteer Services Coordinator I,B13,Volunteer Services Coordinator II,B15,0.10468307012649869,0.7913151218360965,False,2,18,
+Volunteer Services Coordinator,Social Services,2,Volunteer Services Coordinator II,B15,Volunteer Services Coordinator III,B17,0.1074406571773121,0.7902354606953694,False,6,12,0.5
+Volunteer Services Coordinator,Social Services,3,Volunteer Services Coordinator III,B17,Volunteer Services Coordinator IV,B19,0.15661035878821727,0.7548969431908064,False,12,30,0.08333333333333333
+Warden,Criminal Justice,1,Warden I,B27,Warden II,B28,0.10000176556789486,0.8553409403354413,False,54,34,0.0
+Web Administrator,Information Technology,1,Web Administrator I,B19,Web Administrator II,B21,0.1372151409810738,0.7828246472790095,False,2,5,
+Web Administrator,Information Technology,2,Web Administrator II,B21,Web Administrator III,B23,0.13810817695508204,0.78924560546875,False,6,22,0.0
+Web Administrator,Information Technology,3,Web Administrator III,B23,Web Administrator IV,B25,0.14193432063764444,0.7819826376254093,False,5,11,0.0
+Web Administrator,Information Technology,4,Web Administrator IV,B25,Web Administrator V,B27,0.23348813911831479,0.6718844745884519,False,0,0,
+Welder,Maintenance,1,Welder I,A19,Welder II,A21,0.1372151409810738,0.7828246472790095,False,1,11,
+Workforce Development Specialist,Employment,1,Workforce Development Specialist I,B12,Workforce Development Specialist II,B14,0.10330232669360817,0.7929565108409575,False,153,78,0.0196078431372549
+Workforce Development Specialist,Employment,2,Workforce Development Specialist II,B14,Workforce Development Specialist III,B16,0.10587572335768014,0.7902167871039466,False,78,30,0.5128205128205128
+Workforce Development Specialist,Employment,3,Workforce Development Specialist III,B16,Workforce Development Specialist IV,B18,0.14236437754782072,0.7722640015832178,False,30,10,0.06666666666666667

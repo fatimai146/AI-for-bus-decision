@@ -5,12 +5,13 @@ A consultant-style compensation review of **139,656 Texas state employees**
 real October 2026 state payroll, the official FY2026–27 salary schedules, and
 federal (BLS) market wage data.
 
-It answers the four questions a compensation team is asked every budget cycle:
+It answers the questions a compensation team is asked every budget cycle:
 
 1. **Compression:** are long-serving employees paid more than new hires in the same job?
 2. **Range position:** where do people sit inside their official pay ranges?
-3. **Cost to fix:** what would it cost to correct compression?
-4. **Pay equity and market:** are there unexplained gender or ethnicity gaps, and how does pay compare with the Texas market?
+3. **Cost:** what would a pay floor for experienced staff cost?
+4. **Structure:** are the salary ranges and career ladders well designed?
+5. **Pay equity and market:** are there unexplained gender or ethnicity gaps, and how does pay compare with the Texas market?
 
 > Read the two-page [executive memo](docs/executive_memo.md) for the business
 > summary, or [methodology](docs/methodology.md) for definitions, models and
@@ -27,6 +28,7 @@ It answers the four questions a compensation team is asked every budget cycle:
 | Where growth happens | Pay rises 15–19% with tenure only when promotions (moving up a job series) are counted. Staying in a job is barely rewarded. |
 | Range position | New hires sit **47%** of the way into their pay range; 20+ year staff only **62%**. |
 | Cost of a pay floor | A policy that no 5+ year employee earns below the new-hire median of their job and agency costs **$35.3M a year (0.38% of payroll)** for 6,420 people. Adding 1% per year of service costs **$180.8M (1.9%)**. |
+| Salary structure | Ranges are wide (median spread 63%) and adjacent levels in a career ladder overlap by a median **79%** (rule of thumb: under 50%). Yet only **6%** of staff are paid above the next level's median at their agency: the range room exists but is not used. |
 | Pay equity | Raw gaps are real (women −6.3%, Black −14.4%, Hispanic −11.0% vs White), but **within the same job, agency and tenure they shrink to under 0.5%**. The gap is about *which jobs* people hold, not unequal pay for the same job. |
 | Agency flags | 3 of 28 large agencies show a statistically significant adjusted gender gap, all under 1% (Attorney General −1.0%, TCEQ −0.8%, Parks and Wildlife −0.5%). |
 | Market | Across 21 professional benchmark jobs, state pay is **86% of the Texas market median**; technology roles are at **84%**. Systems administrators (0.71), accountants (0.74) and cybersecurity analysts (0.77) are furthest behind. |
@@ -65,10 +67,21 @@ title-level results here compare people within the same agency.
 ### 4. Cost of a pay floor, by agency
 ![Cost by agency](figures/fig4_cost_by_agency.png)
 
-### 5. Pay equity: raw vs adjusted gaps
+### 5. Salary structure design
+![Salary structure](figures/fig7_structure.png)
+
+The State's 271 career ladders (e.g. Accountant I–VII) step up a median 13.7%
+in range midpoint per level, which is within the common 10–15% guide; 19% of
+steps are under 10%. But each range is so wide that adjacent levels overlap by
+79% on paper. In practice pay sits mid-range (left panel), so only 6% of
+lower-level staff out-earn the next level's median at the same agency. The
+structure already has room for in-range progression; the missing piece is a
+policy that moves people through it.
+
+### 6. Pay equity: raw vs adjusted gaps
 ![Pay equity](figures/fig5_pay_equity.png)
 
-### 6. State pay vs the Texas market
+### 7. State pay vs the Texas market
 ![Market index](figures/fig6_market_index.png)
 
 ---
@@ -106,6 +119,9 @@ hire dates in the future. See [`outputs/data_quality_audit.txt`](outputs/data_qu
 - **Cost of a pay floor:** raise eligible staff to the target, capped at range
   maximum; base pay only. This prices a policy; it is not an estimate of
   underpayment, since some gap below any median is normal pay spread.
+- **Structure review:** range spread, midpoint step and range overlap for
+  every adjacent level pair in 271 career ladders, plus actual pay overlap
+  (lower-level staff paid above the next level's median at the same agency).
 - **Pay equity:** four nested log-salary models (raw → + job title →
   + job title × agency → + tenure), clustered standard errors; per-agency
   models for the 28 agencies with 300+ employees and 50+ of each gender.
@@ -155,6 +171,7 @@ tx-comp-review/
 │   ├── cost_to_fix.py      # remediation scenarios
 │   ├── pay_equity.py       # adjusted gender and ethnicity gaps
 │   ├── market.py           # market index vs BLS
+│   ├── structure.py        # salary structure and career-ladder design review
 │   ├── make_figures.py
 │   └── export_tableau.py   # aggregated extract (groups of 5+ only)
 ├── outputs/                # aggregated CSVs + audit log

@@ -93,7 +93,25 @@ excluding benefits and payroll taxes. These cost a policy; they are not
 estimates of underpayment, because some gap below any median is ordinary pay
 spread.
 
-## 6. Pay equity
+## 6. Salary structure
+
+A **career ladder** is a job series with two or more levels in the State
+Auditor's classification list (e.g. Accountant I–VII). The level is the
+trailing Roman numeral. All 1,246 classes are used, including unoccupied ones.
+That gives 271 ladders and 851 adjacent level pairs on Schedules A and B.
+
+| Metric | Definition |
+|---|---|
+| Range spread | (max − min) ÷ min |
+| Midpoint step | midpoint of the higher level ÷ midpoint of the lower level − 1 |
+| Range overlap | (max of lower − min of higher) ÷ (max of lower − min of lower), floored at 0 |
+| Pay overlap | share of lower-level employees paid above the median of the next level up at the same agency (agencies with 5+ at the higher level) |
+
+The comparison points (midpoint steps of about 10–15% and overlap under
+about 50% for professional structures) are common rules of thumb, not legal
+or official standards.
+
+## 7. Pay equity
 
 Four nested models of log(salary), each with indicators for female and for
 each ethnicity (reference: White):
@@ -107,7 +125,7 @@ Standard errors are clustered by agency × job title. Per-agency gender gaps use
 model 4 within each of the 28 agencies with 300+ employees and 50+ of each
 gender. A gap is flagged if its 95% confidence interval excludes zero.
 
-## 7. Market comparison
+## 8. Market comparison
 
 Each benchmark state job series (all levels pooled) is mapped to one 2018 SOC
 code:
@@ -143,13 +161,13 @@ reference only, because the payroll has no work location. OEWS cross-industry
 estimates cover all employers, including government, so the benchmark is the
 whole Texas labor market rather than private employers alone.
 
-## 8. Privacy
+## 9. Privacy
 
 The raw payroll contains names. It is not committed. Published tables are
 aggregates, and the Tableau extract suppresses any agency × title × tenure
 band × gender group with fewer than 5 people. No individual is named.
 
-## 9. Reproducibility
+## 10. Reproducibility
 
 `run_all.sh` rebuilds everything from `data/raw/`. Rows are ordered by state
 employee number before every computation, and two consecutive runs produce
