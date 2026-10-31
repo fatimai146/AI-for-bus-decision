@@ -1,0 +1,5 @@
+Iman_Fatima_Handoff/
+**/.venv/
+**/data/
+*.duckdb
+__pycache__/
